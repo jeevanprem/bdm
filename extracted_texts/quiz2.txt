@@ -1,0 +1,497 @@
+
+--- PAGE 1 ---
+   
+ 
+Notations :
+1.Options shown in green color and with 
+  icon are correct.
+2.Options shown in red color and with 
+  icon are incorrect.
+ 
+   
+Change Font Color : No
+Change Background Color : No
+Change Theme : No
+Help Button : No
+Show Reports : No
+Show Progress Bar : No
+   
+   
+BDM
+Section Id : 640653142675
+Section Number : 1
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 22
+Number of Questions to be attempted : 22
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Section Maximum Duration : 0
+Section Minimum Duration : 0
+Section Time In : Minutes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653401854
+Question Shuffling Allowed : No
+   
+Question Number : 1 Question Id : 6406532180490 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : BUSINESS DATA MANAGEMENT 
+Indian Institute of Technology, Madras - BS in Data Science and Applications
+--- PAGE 2 ---
+(COMPUTER BASED EXAM)" 
+ 
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+ 
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS 
+REGISTERED BY YOU)
+Options :
+6406537086766. 
+  Yes
+6406537086767. 
+  No
+Sub-Section Number : 2
+Sub-Section Id : 640653401855
+Question Shuffling Allowed : Yes
+   
+Question Number : 2 Question Id : 6406532180491 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following options correctly describe what a Capital Reserve is?
+Options :
+6406537086768. 
+  Money owed to suppliers for raw materials.
+6406537086769. 
+  The amount of cash in the register at the end of the day.
+6406537086770. 
+  Profits set aside for general safety from daily operations.
+6406537086771. 
+  Profit earned from non-regular activities, such as selling land.
+   
+Question Number : 3 Question Id : 6406532180492 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If a cafe buys ₹10,000 worth of a coffee beans machine on credit, what is the immediate impact on 
+the accounting equation?
+Options :
+6406537086772. 
+  Assets increase and Equity increases.
+6406537086773. 
+  Liabilities increase and Equity decreases.
+6406537086774. 
+  One Asset increases while another Asset decreases.
+6406537086775. 
+  Assets increase and Liabilities increase.
+   
+Question Number : 4 Question Id : 6406532180493 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+An account is defined as the fundamental building block of the accounting system. Which of the 
+following options best describes its purpose?
+Options :
+--- PAGE 3 ---
+6406537086776. 
+  A specialized record used to track and summarize all transactions related to a 
+specific item.
+6406537086777. 
+  A chronological diary of every event that happens on a business day.
+6406537086778. 
+  A statutory document filed with government authorities for tax assessment.
+6406537086779. 
+  A set of rules used to determine the market value of a business's brand.
+   
+Question Number : 5 Question Id : 6406532180494 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is the correct fundamental accounting equation?
+Options :
+6406537086780. 
+  Liabilities = Assets + Equity
+6406537086781. 
+  Assets + Liabilities = Equity
+6406537086782. 
+  Equity = Liabilities - Assets
+6406537086783. 
+  Assets = Liabilities + Equity
+   
+Question Number : 6 Question Id : 6406532180495 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which specific section of the statutory financial statements would you examine for determining 
+the 'Gross Profit' of a company?
+Options :
+6406537086784. 
+  The Profit & Loss Account section of the Income Statement.
+6406537086785. 
+  The Assets side of the Balance Sheet.
+6406537086786. 
+  The Trading Account section of the Income Statement.
+6406537086787. 
+  The Operating Activities section of the Cash Flow Statement.
+   
+Question Number : 7 Question Id : 6406532180496 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+If a company's Debtors Turnover Ratio increases from 6 times to 10 times, what is the most likely 
+implication for its operations?
+Options :
+6406537086788. 
+  The company has improved its efficiency in converting credit sales into cash.
+6406537086789. 
+  The company is extending more credit to its customers to boost sales.
+6406537086790. 
+  The company is taking longer to collect cash from its customers.
+6406537086791. 
+  The company's sales have dropped significantly while debtors remained 
+constant.
+Sub-Section Number : 3
+Sub-Section Id : 640653401856
+--- PAGE 4 ---
+Question Shuffling Allowed : Yes
+   
+Question Number : 8 Question Id : 6406532180497 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If a customer buys a burger from a burger shop and promises to pay the shop owner in a week, 
+but the customer goes bankrupt and cannot pay the shop owner, how is this recorded in the 
+accounts?
+Options :
+6406537086792. 
+  As a Prepaid Expense
+6406537086793. 
+  As a 'Write-off' and treated as an expense
+6406537086794. 
+  As a Capital Reserve
+6406537086795. 
+  As a Long-term Liability
+   
+Question Number : 9 Question Id : 6406532180498 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A business bought land for ₹200,000 twelve years ago. Today, the land's market value is 
+₹1,200,000. The company sells exactly half of the land for ₹600,000. According to the 
+Measurement (Cost) Principle, what is the 'Capital Reserve' profit recorded from this non-regular 
+activity?
+Options :
+6406537086796. 
+  ₹500,000
+6406537086797. 
+  ₹20
+6406537086798. 
+  ₹400,000
+6406537086799. 
+  ₹1,000,000
+   
+Question Number : 10 Question Id : 6406532180499 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Based on the Income Statement provided in the material, if Sales Revenue is ₹1,000,000, Cost of 
+Goods Sold is ₹400,000, Operating Expenses are ₹300,000, and Depreciation is ₹50,000, what is 
+the Operating Income (EBIT)?
+Options :
+6406537086800. 
+  ₹600,000
+6406537086801. 
+  ₹250,000
+6406537086802. 
+  ₹230,000
+6406537086803. 
+  ₹300,000
+   
+Question Number : 11 Question Id : 6406532180500 Question Type : MCQ
+Correct Marks : 2
+--- PAGE 5 ---
+Question Label : Multiple Choice Question
+Calculate the 'Net Cash from Investing Activities' if a business purchases ₹100,000 of equipment 
+and sells land for ₹40,000.
+Options :
+6406537086804. 
+  ₹140,000
+6406537086805. 
+  ₹ (60,000)
+6406537086806. 
+  ₹60,000
+6406537086807. 
+  ₹(140,000)
+   
+Question Number : 12 Question Id : 6406532180501 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A business uses the First-In, First-Out (FIFO) method for inventory valuation. What is the core logic 
+of this method?
+Options :
+6406537086808. 
+  The cost of the oldest items in stock is assigned to the goods sold first.
+6406537086809. 
+  Inventory is always valued at its current market replacement cost.
+6406537086810. 
+  Inventory is valued based on the average cost of all units available.
+6406537086811. 
+  The cost of the most recently purchased items is assigned to the goods sold 
+first.
+   
+Question Number : 13 Question Id : 6406532180502 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Why might a lender prefer to look at the Interest Coverage Ratio (ICR) instead of just the total Net 
+Profit?
+Options :
+6406537086812. 
+  Because Net Profit includes non-operating income that cannot be used for 
+interest.
+6406537086813. 
+  Because ICR specifically measures the ability to service debt from operating 
+liquidity.
+6406537086814. 
+  Because Net Profit is always higher than ICR.
+6406537086815. 
+  Because ICR excludes depreciation, making it a more conservative measure of 
+profit.
+   
+Question Number : 14 Question Id : 6406532180503 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If a firm has ₹133 in current assets and ₹100 in current liabilities, but ₹80 of those assets are 
+'Inventory', what is the Quick Ratio?
+Options :
+--- PAGE 6 ---
+6406537086816. 
+  0.53 :1
+6406537086817. 
+  0.80 :1
+6406537086818. 
+  1:1
+6406537086819. 
+  1.33 :1
+   
+Question Number : 15 Question Id : 6406532180504 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+A stock is trading at ₹120 per share. The company reports a Profit After Tax of ₹5,00,000 with 
+50,000 outstanding equity shares. What is the P/E Ratio?
+Options :
+6406537086820. 
+  12
+6406537086821. 
+  10
+6406537086822. 
+  24
+6406537086823. 
+  0.08
+Sub-Section Number : 4
+Sub-Section Id : 640653401857
+Question Shuffling Allowed : Yes
+   
+Question Number : 16 Question Id : 6406532180505 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Alpha Consulting begins with an initial cash investment of ₹50,000. The company then purchases 
+₹10,000 in equipment on credit. Later, they generate ₹15,000 in revenue (with ₹7,500 received in 
+cash and ₹7,500 on credit), incur ₹8,000 in cash expenses, and pay a ₹2,000 cash dividend to 
+owners. What is the final value of Owners' Equity?
+Options :
+6406537086824. 
+  ₹57,000
+6406537086825. 
+  ₹65,000
+6406537086826. 
+  ₹55,000
+6406537086827. 
+  ₹61,000
+   
+Question Number : 17 Question Id : 6406532180506 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A tech shop, SmartTech , reports the following: Cash (₹10L), Inventory (₹5L),Accounts Receivable 
+(₹2L), Patents (₹3L), and Land (₹20L). Its liabilities include Creditors (₹4L) and a Long-term Bank 
+Loan (₹10L). Calculate the company's Working Capital.
+Options :
+6406537086828. 
+  ₹26L
+6406537086829. 
+  ₹13L
+--- PAGE 7 ---
+6406537086830. 
+  ₹3L
+6406537086831. 
+  ₹16L
+   
+Question Number : 18 Question Id : 6406532180507 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A company starts the period with 100 units of inventory at a cost of ₹5 each. It then purchases 200 
+units at ₹7 each. During the period, it sells 150 units for ₹15 each. What is the difference in Gross 
+Profit if the company switches from the LIFO method to the FIFO method of inventory valuation?
+Options :
+6406537086832. 
+  ₹200 
+6406537086833. 
+  ₹300
+6406537086834. 
+  ₹0
+6406537086835. 
+  ₹150
+   
+Question Number : 19 Question Id : 6406532180508 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+At the beginning of the year, a firm has Total Assets of ₹500,000 and Total Liabilities of ₹200,000. 
+During the month, the owner sells goods for ₹50,000 cash (which cost ₹30,000 to make) and 
+purchases a delivery truck for ₹100,000 by paying ₹40,000 in cash and taking a loan for the 
+remaining ₹60,000. What is the new total of the Assets side of the Balance Sheet?
+Options :
+6406537086836. 
+  ₹580,000
+6406537086837. 
+  ₹620,000
+6406537086838. 
+  ₹650,000
+6406537086839. 
+  ₹520,000
+   
+Question Number : 20 Question Id : 6406532180509 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+An asset with an original cost of ₹21,000 and a salvage value of ₹1,000 has an estimated useful life 
+of 5 years. If the company chooses to use the Straight-Line method (SLM) for depreciation, how 
+much higher or lower will the Book Value be at the end of Year 2 compared to using a WDV rate of 
+20%?
+Options :
+6406537086840. 
+  ₹0
+6406537086841. 
+  ₹440 lower
+6406537086842. 
+  ₹440 higher
+6406537086843. 
+  ₹1,000 lower
+   
+--- PAGE 8 ---
+Question Number : 21 Question Id : 6406532180510 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+SmartTech issues 100,000 equity shares with a face value of ₹10 at an issue price of ₹50 per share. 
+During the year, the company earns ₹10L in profit. It distributes ₹2L as dividends and transfers 
+₹3L to a General Reserve. What is the total value of 'Reserves and Surplus' reported in Equity at 
+year-end?
+Options :
+6406537086844. 
+  ₹45L
+6406537086845. 
+  ₹40L
+6406537086846. 
+  ₹48L
+6406537086847. 
+  ₹58L
+Sub-Section Number : 5
+Sub-Section Id : 640653401858
+Question Shuffling Allowed : No
+   
+Question Id : 6406532180511 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (22 to 25)
+Question Label : Comprehension
+Directions: Read the following simplified financial data for X Robotics Ltd. carefully and answer 
+the given subquestions. Show your mathematical reasoning. All formulas and concepts required 
+are based strictly on the provided financial analysis case study framework. 
+ 
+Company Overview & Financial Data (Figures in Millions of Rupees): 
+ 
+X Robotics Ltd. is an industrial automation manufacturer. Below is a snapshot of their simplified 
+financial position for the fiscal year ending March 31, 2025 (FY 2025), along with select figures 
+from FY 2024. 
+ 
+Simplified Profit & Loss Statement Data (FY 2025): 
+ 
+● Revenue from Operations: ₹500 
+● Cost of Materials and Services: ₹300 
+● Employee Benefits & Other Expenses: ₹100 
+● Depreciation: ₹20 
+● Finance Costs (Interest): ₹10 
+● Tax Rate: 30% flat on Profit Before Tax (PBT) 
+● (Note: For FY 2024, Revenue from Operations was ₹400). 
+ 
+Simplified Balance Sheet Data (As of March 31, 2025): 
+ 
+● Total Assets: ₹400 
+● Shareholder's Equity (Net Worth): ₹200 
+● Total Debt (Borrowings): ₹100 (Note: The company pays a flat 10% interest rate on its debt) 
+--- PAGE 9 ---
+● Average Inventory: ₹60 
+● Average Debtors (Trade Receivables): ₹50 
+ 
+Market Data: 
+ 
+● Shares Outstanding: 10 million shares 
+● Market Price per Share: ₹73.50 
+● Total Dividends Paid: ₹24.5 million
+Sub questions
+ 
+Question Number : 22 Question Id : 6406532180512 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Calculate the Debt-Equity Ratio and the Interest Earned Ratio for FY 2025.
+Options :
+6406537086848. 
+  Debt-Equity Ratio: 2.00x, Interest Earned Ratio: 7.00 times 
+6406537086849. 
+  Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 10.00 times
+6406537086850. 
+  Debt-Equity Ratio: 0.25x, Interest Earned Ratio: 10.00 times
+6406537086851. 
+  Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 4.90 times
+ 
+Question Number : 23 Question Id : 6406532180513 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Calculate the Earnings Per Share (EPS), PE Ratio, and Dividend Yield for FY 2025.
+Options :
+6406537086852. 
+  EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 3.33%
+6406537086853. 
+  EPS: ₹7.00, PE Ratio: 10.50, Dividend Yield: 3.33%
+6406537086854. 
+  EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 5.00%
+6406537086855. 
+  EPS: ₹10.00, PE Ratio: 7.35, Dividend Yield: 33.3%
+ 
+Question Number : 24 Question Id : 6406532180514 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Between FY 2024 and FY 2025, X Robotics saw its revenue increase significantly. If the company 
+maintains the exact same year-over-year revenue growth rate heading into FY 2026, and benefits 
+from softer commodity prices that improve its Profit Margin to 11.00%, what will be the absolute 
+increase in Net Profit (in millions of rupees) from FY 2025 to FY 2026?
+Options :
+6406537086856. 
+  ₹10.00 million
+6406537086857. 
+  ₹15.50 million
+6406537086858. 
+  ₹19.75 million
+6406537086859. 
+  ₹68.75 million
+--- PAGE 10 ---
+ 
+Question Number : 25 Question Id : 6406532180515 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Inspired by successful industry peers, the CEO initiates a strict working capital optimization 
+program. By enforcing strict collection efforts and lean supply, they successfully reduce Average 
+Debtors by 20% and Average Inventory by 20%, without affecting Revenue, COGS, or Net Profit. 
+The company takes all the cash freed up from these reductions and immediately uses it to repay 
+Total Debt. What is the company's new Debt-Equity Ratio, and what is its new Return on Assets 
+(ROA)?
+Options :
+6406537086860. 
+  New Debt-Equity Ratio: 0.50x, New ROA: 12.25%
+6406537086861. 
+  New Debt-Equity Ratio: 0.39x, New ROA: 12.25%
+6406537086862. 
+  New Debt-Equity Ratio: 0.45x, New ROA: 13.50%
+6406537086863. 
+  New Debt-Equity Ratio: 0.39x, New ROA: 12.96%

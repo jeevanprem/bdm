@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BDM End-Term Masterclass | IIT Madras BS Degree (MS2001)</title>
+  <meta name="description" content="High-yield exam preparation platform for Business Data Management (BDM) - IIT Madras BS in Data Science and Applications. Case-based questions, visual mnemonics, formulas, and 184 authentic course questions.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- Urgent Announcement Banner -->
+    <header class="exam-urgency-banner">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span class="urgency-badge">⚡ End-Term Exam Tomorrow</span>
+        <span>BDM (MS2001) Diploma Level • IIT Madras BS Degree</span>
+      </div>
+      <div class="countdown-box">
+        <span>Exam Countdown:</span>
+        <span class="countdown-digits" id="countdown-timer">--h --m --s</span>
+      </div>
+    </header>
+
+    <!-- Main Navigation Bar -->
+    <nav class="main-navbar">
+      <div class="brand-group">
+        <div class="brand-logo">BDM</div>
+        <div class="brand-info">
+          <h1>End-Term Masterclass</h1>
+          <div class="brand-sub">IIT Madras BS in Data Science & Applications</div>
+        </div>
+      </div>
+
+      <!-- Nav Tabs -->
+      <div class="nav-tabs" role="tablist">
+        <button class="nav-tab-btn active" data-view="syllabus">
+          <span>🗺️</span> Syllabus Matrix
+        </button>
+        <button class="nav-tab-btn" data-view="concepts">
+          <span>📚</span> Learn Concepts (Hinglish)
+        </button>
+        <button class="nav-tab-btn" data-view="cases">
+          <span>💼</span> Case Masterclass
+        </button>
+        <button class="nav-tab-btn" data-view="mnemonics">
+          <span>🧠</span> Memory Palace
+        </button>
+        <button class="nav-tab-btn" data-view="formulas">
+          <span>📐</span> Formula Vault
+        </button>
+        <button class="nav-tab-btn" data-view="practice">
+          <span>🎯</span> Practice (184 Qs)
+        </button>
+        <button class="nav-tab-btn" data-view="mock_exam">
+          <span>⏱️</span> TCS iON Mock
+        </button>
+        <button class="nav-tab-btn" data-view="cram_sheet">
+          <span>⚡</span> 1-Hr Cram Sheet
+        </button>
+      </div>
+
+      <!-- User Accuracy & Attempted Stats -->
+      <div class="user-score-widget">
+        <div class="stat-pill">
+          <span class="stat-pill-label">Attempted</span>
+          <span class="stat-pill-val" id="user-attempted-stat">0 / 184</span>
+        </div>
+        <div class="stat-pill">
+          <span class="stat-pill-label">Accuracy</span>
+          <span class="stat-pill-val" id="user-accuracy-stat">0%</span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Dynamic Content Views -->
+    <main class="main-view-container">
+
+      <!-- ===================================================================
+           VIEW 1: SYLLABUS & MODULES MATRIX
+           =================================================================== -->
+      <section id="view-syllabus" class="view-section active">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>🗺️ Complete Syllabus & Module Breakdown</h2>
+            <div class="section-desc">
+              All 12 weeks of BDM curriculum mapped with high-yield concepts, exam weightage, visual memory tricks, and direct practice links.
+            </div>
+          </div>
+          <button class="btn btn-primary" onclick="window.startMockExam()">
+            🚀 Start 22-Question Mock Exam
+          </button>
+        </div>
+
+        <div class="grid-3col" id="syllabus-grid">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW: CONCEPT BOOSTER & HINGLISH EXPLANATIONS (LEARN FIRST)
+           =================================================================== -->
+      <section id="view-concepts" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>📚 Week-by-Week Concept Booster (Hinglish Intuition)</h2>
+            <div class="section-desc">
+              Pehle har concept, technical term aur numerical formula ko crystal-clear Hinglish me samjho, tricks yaad karo, aur phir seedhe questions solve karo!
+            </div>
+          </div>
+          <button class="btn btn-primary" id="concept-practice-jump-btn">
+            🎯 Practice This Week's Questions →
+          </button>
+        </div>
+
+        <div class="concept-view-layout">
+          <!-- Left Week Navigator Sidebar -->
+          <aside class="concept-sidebar" id="concept-week-sidebar">
+            <!-- Populated by app.js -->
+          </aside>
+
+          <!-- Right Main Concept Showcase Content -->
+          <div class="concept-main-content" id="concept-main-showcase">
+            <!-- Populated by app.js -->
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 2: CASE-BASED QUESTIONS MASTERCLASS
+           =================================================================== -->
+      <section id="view-cases" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>💼 Case-Based Questions Masterclass</h2>
+            <div class="section-desc">
+              Case-based questions carry the highest marks in the BDM end-term exam. Master the 4-Step Case Solver Method and review the big recurring cases below.
+            </div>
+          </div>
+          <button class="btn btn-secondary" data-jump-view="practice" data-jump-filter="cases">
+            Practice All 46 Case Questions →
+          </button>
+        </div>
+
+        <!-- The 4-Step Case Solver Framework -->
+        <div class="card" style="margin-bottom: 24px; border-left: 4px solid var(--accent-cyan); background: linear-gradient(145deg, rgba(6, 182, 212, 0.08), rgba(17, 24, 39, 0.9));">
+          <h3 style="font-size: 1.15rem; color: #38bdf8; margin-bottom: 8px;">
+            🎯 The 4-Step BDM Case Solver Framework
+          </h3>
+          <p style="font-size: 0.88rem; color: #cbd5e1; margin-bottom: 12px;">
+            Follow this disciplined checklist when tackling any case scenario in tomorrow's exam:
+          </p>
+          <div class="grid-4col">
+            <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: var(--radius-sm);">
+              <div style="font-weight: 700; color: #38bdf8; font-size: 0.82rem;">STEP 1</div>
+              <div style="font-weight: 600; font-size: 0.9rem; margin: 4px 0;">Find the Scarce Constraint</div>
+              <div style="font-size: 0.78rem; color: var(--text-muted);">Is it Budget Cap (₹120Cr / ₹50L), Time Bandwidth (6 months), or Physical Capacity?</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: var(--radius-sm);">
+              <div style="font-weight: 700; color: #c084fc; font-size: 0.82rem;">STEP 2</div>
+              <div style="font-weight: 600; font-size: 0.9rem; margin: 4px 0;">Filter Irrelevant Costs</div>
+              <div style="font-size: 0.78rem; color: var(--text-muted);">Ignore Sunk Costs (past non-refundable tickets/fees). Focus strictly on forward-looking trade-offs.</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: var(--radius-sm);">
+              <div style="font-weight: 700; color: #34d399; font-size: 0.82rem;">STEP 3</div>
+              <div style="font-weight: 600; font-size: 0.9rem; margin: 4px 0;">Apply the Formula</div>
+              <div style="font-size: 0.78rem; color: var(--text-muted);">Net Margin = PAT/Rev; Quick Ratio = (CA - Inv)/CL; Opp Cost = Next Best Alternative value.</div>
+            </div>
+            <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: var(--radius-sm);">
+              <div style="font-weight: 700; color: #fbbf24; font-size: 0.82rem;">STEP 4</div>
+              <div style="font-weight: 600; font-size: 0.9rem; margin: 4px 0;">Check Intent & Traps</div>
+              <div style="font-size: 0.78rem; color: var(--text-muted);">Is it Held for Sale (Inventory) or Held for Use (Fixed Asset)? Price cap below P* => Shortage.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Case Studies List -->
+        <div id="cases-list">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 3: MEMORY PALACE & VISUAL MNEMONICS
+           =================================================================== -->
+      <section id="view-mnemonics" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>🧠 Visual Memory Palace & Mnemonics</h2>
+            <div class="section-desc">
+              Scientifically engineered mnemonics and mental cues to recall every classification, hierarchy, and rule effortlessly during the exam.
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-3col" id="mnemonics-grid">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 4: FORMULA VAULT & LIVE CALCULATORS
+           =================================================================== -->
+      <section id="view-formulas" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>📐 Formula Vault & Live Calculators</h2>
+            <div class="section-desc">
+              All quantitative formulas tested in BDM. Practice with live interactive calculators to master numerical questions.
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-2col" id="formulas-grid" style="margin-bottom: 24px;">
+          <!-- Populated by app.js -->
+        </div>
+
+        <!-- Master Formula Table -->
+        <div class="card">
+          <h3 style="font-size: 1.2rem; color: #fff; margin-bottom: 12px;">Complete Mathematical Formula Cheat Sheet</h3>
+          <table class="cram-table">
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Formula</th>
+                <th>Interpretation & Benchmark</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>Opportunity Cost</strong></td>
+                <td><code>|ΔY / ΔX| (Slope of PPF)</code></td>
+                <td>How many units of Good Y must be sacrificed to produce 1 unit of Good X.</td>
+              </tr>
+              <tr>
+                <td><strong>Price Elasticity (Ep)</strong></td>
+                <td><code>(%ΔQd) / (%ΔP) = (ΔQ/Q) / (ΔP/P)</code></td>
+                <td>|Ep| > 1: Elastic (luxuries); |Ep| < 1: Inelastic (necessities); |Ep| = 1: Unitary.</td>
+              </tr>
+              <tr>
+                <td><strong>Cross-Price Elasticity</strong></td>
+                <td><code>(%ΔQx) / (%ΔPy)</code></td>
+                <td>Exy > 0: Substitutes (Tea & Coffee); Exy < 0: Complements (Car & Petrol).</td>
+              </tr>
+              <tr>
+                <td><strong>Gross Profit</strong></td>
+                <td><code>Revenue - Cost of Goods Sold (COGS)</code></td>
+                <td>Profit earned directly from production before operating overheads.</td>
+              </tr>
+              <tr>
+                <td><strong>Operating Profit (EBIT)</strong></td>
+                <td><code>Gross Profit - Operating Expenses</code></td>
+                <td>Earnings before interest and tax; measures pure operational efficiency.</td>
+              </tr>
+              <tr>
+                <td><strong>Net Profit Margin</strong></td>
+                <td><code>(Profit After Tax / Revenue) × 100</code></td>
+                <td>Percentage of each rupee of revenue that converts into bottom-line profit (XYZ Ltd = 8.44%).</td>
+              </tr>
+              <tr>
+                <td><strong>Current Ratio</strong></td>
+                <td><code>Current Assets / Current Liabilities</code></td>
+                <td>Short-term debt coverage. Ideal benchmark is approximately 2:1 (XYZ Ltd = 1.60).</td>
+              </tr>
+              <tr>
+                <td><strong>Quick Ratio (Acid-Test)</strong></td>
+                <td><code>(Current Assets - Inventory - Prepaid) / CL</code></td>
+                <td>Instant liquidity excluding slow-moving inventory. Ideal benchmark is ~1:1 (XYZ Ltd = 1.37).</td>
+              </tr>
+              <tr>
+                <td><strong>Debt-to-Equity Ratio</strong></td>
+                <td><code>Total Debt / Shareholders' Equity</code></td>
+                <td>Financial leverage & solvency risk. Higher ratio (e.g. 4:1) implies high risk (XYZ Ltd = 0.20).</td>
+              </tr>
+              <tr>
+                <td><strong>Return on Equity (ROE)</strong></td>
+                <td><code>(Net Profit / Shareholders' Equity) × 100</code></td>
+                <td>Net return generated on shareholders' invested capital (XYZ Ltd = 27.0%).</td>
+              </tr>
+              <tr>
+                <td><strong>DuPont ROE Identity</strong></td>
+                <td><code>Net Margin × Asset Turnover × Equity Multiplier</code></td>
+                <td>Profitability × Efficiency × Leverage = 8.44% × 1.33 × 2.40 = 27.0%.</td>
+              </tr>
+              <tr>
+                <td><strong>Earnings Per Share (EPS)</strong></td>
+                <td><code>Net Profit (PAT) / Number of Shares</code></td>
+                <td>Earnings attributable to each individual common share (XYZ Ltd = ₹6.75).</td>
+              </tr>
+              <tr>
+                <td><strong>P/E Ratio</strong></td>
+                <td><code>Market Price per Share / EPS</code></td>
+                <td>How many times earnings investors are willing to pay (XYZ Ltd: 150 / 6.75 = 22.22).</td>
+              </tr>
+              <tr>
+                <td><strong>Dividend Yield</strong></td>
+                <td><code>(Dividend per Share / Market Price) × 100</code></td>
+                <td>Cash dividend return on current market price (XYZ Ltd: 2 / 150 = 1.33%).</td>
+              </tr>
+              <tr>
+                <td><strong>Market Capitalization</strong></td>
+                <td><code>Total Outstanding Shares × Market Price</code></td>
+                <td>Total equity market valuation of the company (XYZ Ltd: 500 Cr × ₹150 = ₹75,000 Cr).</td>
+              </tr>
+              <tr>
+                <td><strong>Inventory Turnover</strong></td>
+                <td><code>Cost of Materials (COGS) / Inventory</code></td>
+                <td>How many times inventory is sold and replaced per year (XYZ Ltd: 28,000 / 3,500 = 8x).</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 5: PRACTICE QUESTION BANK (184 QUESTIONS)
+           =================================================================== -->
+      <section id="view-practice" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>🎯 Practice Question Bank</h2>
+            <div class="section-desc">
+              All 184 authentic questions from Graded Assignments (Weeks 1-12), Quiz 1, and Quiz 2. Click any option to check answers and review verified solutions.
+            </div>
+          </div>
+          <span class="card-tag tag-green" id="practice-count-badge">184 Questions</span>
+        </div>
+
+        <!-- Filter Toolbar -->
+        <div class="filter-toolbar">
+          <input type="text" id="filter-search" class="filter-search-input" placeholder="🔍 Search by keyword (e.g. DuPont, Opportunity Cost, R-Goura, XYZ, FIFO)...">
+          
+          <div class="filter-pills-row">
+            <!-- Module Filter -->
+            <button class="filter-chip active" data-filter-type="module" data-filter-val="all">All Modules</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_1">W1: Econ</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_2">W2: PPF & Cost</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_3">W3: Business</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_4">W4: Demand/Supply</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_5">W5: Accounting</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_6">W6: Double Entry</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_7">W7: Ratios & Cash</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_8">W8: XYZ Case</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_9">W9: Mgmt Acct</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_11">W11: Sales</button>
+            <button class="filter-chip" data-filter-type="module" data-filter-val="week_12">W12: Services</button>
+
+            <!-- Source Filter -->
+            <button class="filter-chip" data-filter-type="source" data-filter-val="quiz1">Quiz 1</button>
+            <button class="filter-chip" data-filter-type="source" data-filter-val="quiz2">Quiz 2</button>
+            <button class="filter-chip" data-filter-type="source" data-filter-val="ga">All GAs</button>
+
+            <!-- Toggle Filter -->
+            <button class="filter-chip" data-filter-type="cases" data-filter-val="cases">💼 Case Studies</button>
+            <button class="filter-chip" data-filter-type="bookmarks" data-filter-val="bookmarks">★ Starred</button>
+            <button class="filter-chip" data-filter-type="mistakes" data-filter-val="mistakes">⚠️ My Mistakes</button>
+          </div>
+        </div>
+
+        <!-- Quick Concept Banner in Practice view -->
+        <div class="practice-quick-concept-drawer" id="practice-concept-banner">
+          <div>
+            <span class="hinglish-tag">💡 Learn Concepts First</span>
+            <span style="font-weight: 600; margin-left: 8px;" id="practice-banner-text">Stuck on a question? Read the full Hinglish concept guide for this week.</span>
+          </div>
+          <button class="btn btn-secondary btn-sm" id="practice-banner-btn" onclick="window.jumpToActiveWeekConcept()">
+            📖 Open Week Concept Guide →
+          </button>
+        </div>
+
+        <!-- Questions List Container -->
+        <div id="practice-questions-list">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 6: TCS iON MOCK EXAM SIMULATOR
+           =================================================================== -->
+      <section id="view-mock-exam" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>⏱️ TCS iON Exam Simulator (End-Term Replica)</h2>
+            <div class="section-desc">
+              Simulates the actual 50-mark, 22-question computer-based end-term examination interface. Test your pacing and knowledge under realistic conditions.
+            </div>
+          </div>
+          <button class="btn btn-primary" onclick="window.startMockExam()">
+            🔄 Generate New 22-Question Exam
+          </button>
+        </div>
+
+        <div id="mock-exam-workspace">
+          <!-- Populated by app.js on Start -->
+          <div class="card" style="text-align: center; padding: 48px 24px;">
+            <div style="font-size: 3rem; margin-bottom: 12px;">📝</div>
+            <h3 style="font-size: 1.5rem; margin-bottom: 8px;">IIT Madras BDM End-Term Examination Simulator</h3>
+            <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto 24px; font-size: 0.95rem;">
+              • 22 Authentic Questions randomly selected across all 12 modules<br>
+              • 50 Total Marks (2.27 Marks per question, No Negative Marking)<br>
+              • 45 Minutes Time Limit<br>
+              • TCS iON-style Question Palette with Answered, Marked for Review, and Review Summary
+            </p>
+            <button class="btn btn-primary" style="padding: 12px 32px; font-size: 1rem;" onclick="window.startMockExam()">
+              Begin Exam Now →
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================================================================
+           VIEW 7: 1-HOUR LAST MINUTE CRAM SHEET
+           =================================================================== -->
+      <section id="view-cram-sheet" class="view-section">
+        <div class="section-header">
+          <div class="section-title-group">
+            <h2>⚡ 1-Hour Last-Minute Cram Sheet</h2>
+            <div class="section-desc">
+              Printable high-density summary of the most critical facts, definitions, distinction tables, and rules to review right before entering the exam hall.
+            </div>
+          </div>
+          <button class="btn btn-secondary no-print" onclick="window.print()">
+            🖨️ Print / Save as PDF
+          </button>
+        </div>
+
+        <div class="cram-sheet-container">
+          
+          <!-- Section 1: Top 10 Core Economic Facts -->
+          <div class="cram-section">
+            <h3>1. Microeconomics & Scarcity (Weeks 1-4)</h3>
+            <table class="cram-table">
+              <tr>
+                <td style="width: 25%;"><strong>Needs vs Wants vs Desires</strong></td>
+                <td>Needs = Physical survival (food, shelter, water, clothing). Wants = Concrete desires to satisfy needs. Desires = Psychological wishes without ability to pay.</td>
+              </tr>
+              <tr>
+                <td><strong>Opportunity Cost</strong></td>
+                <td>Value of the <strong>NEXT BEST</strong> alternative forgone. <em>Sunk costs are past and non-recoverable — NEVER include sunk costs in decision making!</em></td>
+              </tr>
+              <tr>
+                <td><strong>PPF Properties</strong></td>
+                <td>Concave (bowed-out) due to increasing opportunity costs. Inside = Inefficient/Underemployed. On curve = Productively efficient. Outside = Infeasible.</td>
+              </tr>
+              <tr>
+                <td><strong>Cost Curves</strong></td>
+                <td>$TC = TFC + TVC$. $AFC$ drops continuously as $Q$ grows. $MC$ cuts both $ATC$ and $AVC$ at their exact lowest/minimum points!</td>
+              </tr>
+              <tr>
+                <td><strong>Goods Classification (SEC)</strong></td>
+                <td><strong>Search:</strong> Inspected before purchase (books, electronics). <strong>Experience:</strong> Evaluated after consumption (food, movies). <strong>Credence:</strong> Trust needed even after consumption (legal advice, medical surgery).</td>
+              </tr>
+              <tr>
+                <td><strong>Elasticity & Revenue</strong></td>
+                <td>If Demand is Inelastic ($|Ep| < 1$): Price and Total Revenue move in the <strong>SAME</strong> direction ($P\uparrow \implies TR\uparrow$). If Elastic ($|Ep| > 1$): move in <strong>OPPOSITE</strong> directions ($P\downarrow \implies TR\uparrow$).</td>
+              </tr>
+              <tr>
+                <td><strong>Cross & Income Elasticity</strong></td>
+                <td>$Exy > 0$: Substitutes. $Exy < 0$: Complements. $Ey > 0$: Normal goods ($Ey > 1$ Luxury, $0 < Ey \le 1$ Necessity). $Ey < 0$: Inferior goods.</td>
+              </tr>
+              <tr>
+                <td><strong>Price Controls</strong></td>
+                <td>Price Ceiling (Cap) set <em>below</em> equilibrium price causes a persistent <strong>SHORTAGE</strong> and Deadweight Loss (as in R-Goura's student canteen case).</td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- Section 2: Accounting & Transactions -->
+          <div class="cram-section">
+            <h3>2. Financial Accounting & The Balance Sheet (Weeks 5-6)</h3>
+            <table class="cram-table">
+              <tr>
+                <td style="width: 25%;"><strong>Accounting Branches</strong></td>
+                <td><strong>Financial:</strong> External, historical, GAAP/IFRS. <strong>Managerial:</strong> Internal, future-oriented (budgets/forecasts). <strong>Cost:</strong> Unit cost calculation.</td>
+              </tr>
+              <tr>
+                <td><strong>Intent of Ownership</strong></td>
+                <td>Buildings built by a Real Estate developer for sale = <strong>INVENTORY (Current Asset)</strong>! Buildings used as factory by manufacturer = <strong>FIXED ASSET</strong>!</td>
+              </tr>
+              <tr>
+                <td><strong>Accounting Equation</strong></td>
+                <td>$\text{Assets} = \text{Liabilities} + \text{Owner's Equity}$. Owner withdrawing cash for personal rent = <strong>Drawings</strong> (Equity $\downarrow$, Cash $\downarrow$).</td>
+              </tr>
+              <tr>
+                <td><strong>Debit vs Credit</strong></td>
+                <td><strong>DEAL</strong> (Debit increases: Drawings, Expenses, Assets). <strong>CLIP</strong> (Credit increases: Liabilities, Income, Capital/Equity).</td>
+              </tr>
+              <tr>
+                <td><strong>Income Statement</strong></td>
+                <td>$\text{Gross Profit} = \text{Revenue} - \text{COGS}$. $\text{Operating Profit (EBIT)} = \text{Gross Profit} - \text{Operating Expenses}$. $\text{PAT} = \text{EBIT} - \text{Interest} - \text{Tax}$.</td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- Section 3: Financial Ratios & XYZ Ltd Case -->
+          <div class="cram-section">
+            <h3>3. Financial Ratios & The XYZ Ltd Case (Weeks 7-8)</h3>
+            <table class="cram-table">
+              <tr>
+                <td style="width: 25%;"><strong>Liquidity Ratios</strong></td>
+                <td>$\text{Current Ratio} = CA / CL$ (Ideal ~2:1). $\text{Quick Ratio} = (CA - \text{Inventory} - \text{Prepaids}) / CL$ (Ideal ~1:1).</td>
+              </tr>
+              <tr>
+                <td><strong>Solvency Ratios</strong></td>
+                <td>$\text{Debt-to-Equity} = \text{Total Debt} / \text{Equity}$. A high ratio like 4:1 signals high insolvency risk to lenders.</td>
+              </tr>
+              <tr>
+                <td><strong>Cash Flow Statement</strong></td>
+                <td><strong>Operating:</strong> Daily core business. <strong>Investing:</strong> Long-term PP&E purchases (buying machinery for cash = outflow). <strong>Financing:</strong> Shares, debt, dividends.</td>
+              </tr>
+              <tr>
+                <td><strong>Profit vs Cash Flow</strong></td>
+                <td>A firm can report high net profits on accrual accounting and still go bankrupt if operating cash flows are negative!</td>
+              </tr>
+              <tr>
+                <td><strong>XYZ Ltd Golden Numbers</strong></td>
+                <td>Net Margin = <strong>8.44%</strong> | Operating Margin = <strong>11.25%</strong> | Current Ratio = <strong>1.60</strong> | Quick Ratio = <strong>1.37</strong> | Debt/Equity = <strong>0.20</strong> | ROE = <strong>27.0%</strong> | EPS = <strong>₹6.75</strong> | P/E = <strong>22.22</strong> | Div Yield = <strong>1.33%</strong> | M-Cap = <strong>₹75,000 Cr</strong> | OpEx = <strong>₹34,500 Cr</strong>.</td>
+              </tr>
+              <tr>
+                <td><strong>DuPont ROE Identity</strong></td>
+                <td>$\text{ROE} = \text{Net Margin} (8.44\%) \times \text{Asset Turnover} (1.33\text{x}) \times \text{Equity Multiplier} (2.40\text{x}) = \mathbf{27.0\%}$.</td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- Section 4: Responsibility Centers, Sales & Services -->
+          <div class="cram-section">
+            <h3>4. Management Accounting, Sales & Services (Weeks 9, 11, 12)</h3>
+            <table class="cram-table">
+              <tr>
+                <td style="width: 25%;"><strong>Responsibility Centers</strong></td>
+                <td><strong>Cost:</strong> Costs only (IT, Maintenance). <strong>Revenue:</strong> Sales only. <strong>Profit:</strong> Revenue & Cost (Retail store). <strong>Investment:</strong> Revenue, Cost & Return on Capital (ROI/EVA).</td>
+              </tr>
+              <tr>
+                <td><strong>7 Steps of Sales</strong></td>
+                <td><strong>PPAPHCF:</strong> Prospecting (qualify via MAN: Money, Authority, Need) $\to$ Pre-approach $\to$ Approach (PSP technique) $\to$ Presentation (FAB) $\to$ Handling Objections $\to$ Closing $\to$ Follow-up.</td>
+              </tr>
+              <tr>
+                <td><strong>4 Characteristics of Services</strong></td>
+                <td><strong>IHIP:</strong> Intangibility (can't touch), Heterogeneity/Variability (quality differs), Inseparability (produced & consumed together), Perishability (empty seats can't be stored).</td>
+              </tr>
+              <tr>
+                <td><strong>7Ps of Services</strong></td>
+                <td>Product, Price, Place, Promotion + <strong>People, Process, Physical Evidence</strong>.</td>
+              </tr>
+              <tr>
+                <td><strong>SERVQUAL 5 Dimensions</strong></td>
+                <td><strong>RATER:</strong> Reliability (promised service), Assurance (courtesy & trust), Tangibles (facilities/decor), Empathy (caring attention), Responsiveness (promptness).</td>
+              </tr>
+              <tr>
+                <td><strong>Service Recovery Paradox</strong></td>
+                <td>Customers whose service failures are resolved exceptionally well often become MORE loyal than customers who never faced an issue. First step: Acknowledge & apologize sincerely.</td>
+              </tr>
+            </table>
+          </div>
+
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer style="text-align: center; padding: 20px; font-size: 0.8rem; color: var(--text-faint); border-top: 1px solid var(--border-subtle); background: var(--bg-primary);">
+      IIT Madras BS in Data Science and Applications • Business Data Management (BDM - MS2001) End-Term Prep Portal • All 184 Questions from Course Materials
+    </footer>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="concepts_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

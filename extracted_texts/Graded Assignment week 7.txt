@@ -1,0 +1,187 @@
+
+--- PAGE 1 ---
+QUESTION 1
+A company has a Debt-Equity ratio of 4:1. What does this primarily suggest to a potential lender?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+High debt relative to equity increases risk as interest and principal obligations must be met
+regardless of performance. A 4:1 ratio means there is four times as much debt as equity,
+indicating a heavy reliance on external funds.
+A. The company is primarily funded by the owner's own capital.
+B. The company's assets are four times more valuable than its liabilities.
+C. The company has significant unused borrowing capacity.
+D. The company has a high financial risk due to heavy reliance on borrowed funds.
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 1/11
+--- PAGE 2 ---
+QUESTION 2
+A firm reports a significant Net Profit, but is unable to pay its current month's utility bills. Which
+analysis tool would most likely reveal the reason for this discrepancy?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+The Cash Flow Statement (CFS) reveals 'pseudo profits' by showing if the Net Profit is actually
+backed by cash inflows or just credit sales.
+A. Cash Flow Statement Analysis
+Correct
+B. Debt-Equity Ratio
+C. Inventory Turnover Ratio
+D. Price-to-Earnings Ratio
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 2/11
+--- PAGE 3 ---
+QUESTION 3
+If a company purchases a new factory building for cash, how would this transaction be classified in
+the Cash Flow Statement?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Investing activities involve the purchase and sale of long-term assets and other investments not
+included in cash equivalents.
+A. Operating Activity
+B. Financing Activity
+C. Investing Activity
+Correct
+D. Liquidity Activity
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 3/11
+--- PAGE 4 ---
+QUESTION 4
+In the calculation of the Interest Earned Ratio (ICR), why is depreciation added back to the Profit
+After Tax?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+ICR measures the ability to service debt; since depreciation doesn't involve a cash outflow, that
+'profit' is still available for interest.
+A. To artificially inflate the company's profitability for shareholders.
+B. Because depreciation represents the value of new assets purchased during the year.
+C. Because interest payments are tax-deductible, and depreciation is not.
+D. Because depreciation is a non-cash expense that does not reduce the actual cash
+available to pay interest.
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 4/11
+--- PAGE 5 ---
+QUESTION 5
+Which ratio would be most useful for a manager trying to determine if the company is
+overstocking items that are not selling?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+This ratio shows how many times inventory is sold and replaced; a low ratio suggests dead stock
+or overstocking.
+A. Total Asset Turnover Ratio
+B. Inventory Turnover Ratio
+Correct
+C. Net Profit Margin
+D. Current Ratio
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 5/11
+--- PAGE 6 ---
+QUESTION 6
+A stock has a Market Price of ₹100 and an Earnings Per Share (EPS) of ₹4. What does the resulting
+P/E ratio of 25 indicate to an analyst?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+The P/E ratio (100 / 4 = 25) literally represents the price paid per unit of earnings.
+A. Investors are paying 25 rupees for every 1 rupee of the company's earnings.
+Correct
+B. The stock is definitely undervalued because the ratio is a whole number.
+C. The company is generating a 25% return on every share sold.
+D. The company has 25 times more debt than it has earnings.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 6/11
+--- PAGE 7 ---
+QUESTION 7
+If a business has a Current Ratio of 1:1 and its industry average is 2:1, what is a likely conclusion
+regarding its financial health?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+A 1:1 ratio leaves no margin for error; any delay in converting current assets to cash could lead to
+default on liabilities.
+A. The business may face difficulty honoring its short-term obligations if inventory sales
+slow down.
+Correct
+B. The business has too much equity and should take on more long-term debt.
+C. The business is more efficient than its competitors because it carries less 'lazy' cash.
+D. The business is definitely profitable because its assets equal its liabilities.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 7/11
+--- PAGE 8 ---
+QUESTION 8
+A company reports a Net Profit Margin of 15% but a very low Total Asset Turnover. What can be
+inferred about the company's strategy?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+A low asset turnover ratio indicates that the company is not utilizing its assets effectively to
+generate revenue, despite being profitable on the sales it does make.
+A. The company's shareholders are getting a poor return on their equity.
+B. The company is likely over-invested in assets that are not generating sufficient sales.
+Correct
+C. The company relies on selling a high volume of low-margin products.
+D. The company has poor control over its operating expenses.
+QUESTION 9
+True or False: A company can have a positive Net Profit on its Income Statement but a negative
+Cash Flow from Operating Activities.
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+This occurs when a firm has high credit sales (revenue recorded but cash not received) or large
+cash payments for operating expenses not yet reflected in the P&L.
+A. False
+B. True
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 8/11
+--- PAGE 9 ---
+QUESTION 10
+A company has Total Sales of ₹4,00,000 and Inventory of ₹80,000. What is the 'Inventory Holding
+Period' in months (assuming 12 months in a year)?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Turnover is 400,000 / 80,000 = 5 times. The holding period is 12 / 5 = 2.4 months
+A. 20 months
+B. 5 months
+C. 0.2 months
+D. 2.4 months
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 9/11
+--- PAGE 10 ---
+QUESTION 11
+Calculate the Interest Earned Ratio (ICR) for a firm with a Profit After Tax of ₹1,20,000, interest on
+long-term debt of ₹30,000, and depreciation of ₹50,000.
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+The ICR is calculated as (PAT + Interest + Depreciation) / Interest, which is (1,20,000 + 30,000
++50,000) / 30,000.
+A. 4.00 times
+B. 5.67 times
+C. 3.00 times
+D. 6.67 times
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 10/11
+--- PAGE 11 ---
+QUESTION 12
+A stock is trading at ₹120 per share. The company reports a Profit After Tax of ₹5,00,000 with
+50,000 outstanding equity shares. What is the P/E Ratio?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+First, find EPS: 500000/50000 = 10. Then, divide the Market Price by EPS: 120/10 = 12.
+A. 12
+Correct
+B. 10
+C. 24
+D. 0.08
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 11/11

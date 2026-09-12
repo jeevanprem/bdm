@@ -1,0 +1,192 @@
+
+--- PAGE 1 ---
+QUESTION 1
+Which accounting discipline is primarily concerned with identifying, measuring, and reporting
+financial data to external stakeholders like regulators and tax authorities?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+It serves external users by providing standardized reports on the financial position and
+performance of an entity.
+A. Cost Accounting
+B. Management Accounting
+C. Financial Accounting
+Correct
+D. Strategic Planning
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 1/12
+--- PAGE 2 ---
+QUESTION 2
+What is a major limitation of financial accounting?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+It deals strictly with financial transactions and does not record qualitative events or non-financial
+metrics like employee productivity.
+A. It is purely historical and ignores non-financial data.
+Correct
+B. It focuses solely on forward-looking projections.
+C. It lacks a standardized structure for reports
+D. It is intended only for internal senior management.
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 2/12
+--- PAGE 3 ---
+QUESTION 3
+Why does management accounting divide an organization into 'responsibility centers' like cost and
+investment centers?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Categorizing centers allows management to apply accountability and identify where efficiency is
+lacking.
+A. To prepare the annual Balance Sheet
+B. To ensure compliance with GAAP
+C. To identify specific departments responsible for cost overruns
+Correct
+D. To report to external shareholders
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 3/12
+--- PAGE 4 ---
+QUESTION 4
+How do performance/variance analysis reports assist managers?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Variance analysis identifies favorable or adverse differences, allowing managers to take corrective
+action.
+A. By providing a summary of historical dividend payments
+B. By calculating the market value of the company's stock
+C. By ensuring the company pays the correct amount of tax
+D. By comparing planned performance against actual outputs
+Correct
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 4/12
+--- PAGE 5 ---
+QUESTION 5
+A biscuit factory reduces costs by sourcing flour directly from producers instead of wholesalers.
+This is an application of which management accounting concept?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Eliminating middlemen in raw material procurement directly lowers the cost of materials used in
+production.
+A. Overhead optimization
+B. Just-In-Time inventory management
+C. Direct Material cost reduction
+Correct
+D. Labor productivity improvement
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 5/12
+--- PAGE 6 ---
+QUESTION 6
+What is the primary baseline used for determining the selling price of a product in management
+accounting?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Pricing cannot exist without costing; the total internal cost serves as the necessary foundation for
+price determination.
+A. The price set by the government
+B. The historical stock price
+C. The amount of cash in the bank
+D. Total cost (materials, labor, and overheads)
+Correct
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 6/12
+--- PAGE 7 ---
+QUESTION 7
+A firm decides to keep ₹10,00,000 in a current account instead of investing it in a Fixed Deposit
+earning 7%. The 7% foregone interest is an example of:
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Opportunity cost represents the benefit lost by choosing one alternative over another.
+A. Variable Cost
+B. Indirect Overhead
+C. Opportunity Cost
+Correct
+D. Sunk Cost
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 7/12
+--- PAGE 8 ---
+QUESTION 8
+If a company has a healthy Gross Profit but a low Net Profit, what does this indicate to
+management?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+A low Net Profit despite high Gross Profit suggests that expenses outside of production are
+eating up the margins.
+A. Indirect costs like administration or marketing are out of control.
+Correct
+B. Manufacturing costs are too high.
+C. The selling price is too low to cover variable costs.
+D. There is a favorable variance in direct materials.
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 8/12
+--- PAGE 9 ---
+QUESTION 9
+Given: Opening Stock of Raw Materials = ₹50,000, Purchases = ₹4,50,000, and Closing Stock of Raw
+Materials = ₹1,00,000. What is the Direct Material Consumed?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Calculation: ₹50,000 + ₹4,50,000 - ₹1,00,000 = ₹4,00,000.
+A. ₹3,50,000
+B. ₹4,00,000
+Correct
+C. ₹5,00,000
+D. ₹5,50,000
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 9/12
+--- PAGE 10 ---
+QUESTION 10
+A company faces a ₹4,000 adverse variance in the production of an AC unit. Why is simply raising
+the selling price by ₹4,000 often not a viable solution?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+In a competitive market, prices are dictated by market forces; raising price without adding value
+results in unsold inventory.
+A. Because it would cause the Prime Cost to become Works Cost.
+B. Because customers will switch to competitors offering a lower market price
+Correct
+C. Because the adverse variance is a sunk cost that cannot be recovered.
+D. Because it violates GAAP regulations.
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 10/12
+--- PAGE 11 ---
+QUESTION 11
+A manufacturer of electronics has a Cost of Production of ₹15,00,000. They have opening finished
+goods worth ₹2,00,000 and closing finished goods worth ₹2,50,000. If the total sales revenue is
+₹22,00,000, what is the Gross Profit?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+Gross Profit is Sales minus COGS. COGS is calculated as Cost of Production + Opening Finished
+Goods - Closing Finished Goods (15,00,000 + 2,00,000 - 2,50,000 = 14,50,000). Thus, Gross Profit
+= 22,00,000 - 14,50,000 = 7,50,000.
+A. 9,50,000
+B. 6,50,000
+C. 7,00,000
+D. 7,50,000
+Correct
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 11/12
+--- PAGE 12 ---
+QUESTION 12
+A manufacturing unit currently buys raw materials from a wholesaler at ₹120 per unit. By switching
+to direct sourcing from the producer, the price drops to ₹105 per unit. If the unit requires 15,000
+units of material per month, what is the annual financial gain from this cost reduction strategy?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+The monthly saving is (120 - 105) x 15,000 = 2,25,000. Multiplied by 12 months, the annual gain is
+27,00,000.
+A. 18,00,000
+B. 27,00,000
+Correct
+C. 2,25,000
+D. 22,50,000
+10/09/2026, 12:55 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 12/12

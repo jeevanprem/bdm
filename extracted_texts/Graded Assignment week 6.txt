@@ -1,0 +1,198 @@
+
+--- PAGE 1 ---
+QUESTION 1
+If a company has ₹10,000 in 'Accounts Payable' and it pays off ₹3,000 to its suppliers, how does this
+affect the accounting equation?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Cash (Asset) is used to pay the debt, and the obligation to suppliers (Liability) is reduced by the
+same amount.
+A. Assets decrease by ₹3,000 and Liabilities decrease by 3,000.
+Correct
+B. Liabilities decrease by 3,000 and Equity decreases by ₹3,000.
+C. Only Liabilities are affected.
+D. Assets decrease by ₹3,000 and Equity increases by ₹3,000.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 1/12
+--- PAGE 2 ---
+QUESTION 2
+If a business owner takes ₹3000 from his business for his personal house rent, how is this recorded?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Drawings are withdrawals of cash or assets by the owner for personal use, which reduce the
+owner's claim on the business.
+A. As a 'Rent Expense' for the business.
+B. As 'Drawings', which reduces the Owner's Equity.
+Correct
+C. As a 'Salary Expense' paid to Rohan.
+D. As a 'Loan' that Rohan must pay back with interest.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 2/12
+--- PAGE 3 ---
+QUESTION 3
+What is the result of subtracting 'Cost of Goods Sold' (COGS) from 'Sales Revenue'?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Gross Profit is the profit a company makes after deducting the costs associated with making and
+selling its products (direct costs).
+A. Retained Earnings
+B. Operating Income (EBIT)
+C. Gross Profit
+Correct
+D. Net Profit
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 3/12
+--- PAGE 4 ---
+QUESTION 4
+Ramesh invests ₹200,000 in his business. According to the accounting equation, how does this
+affect the business?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+The business receives a resource (Cash) and records a corresponding claim by the owner (Capital)
+for that same amount.
+A. Liabilities increase and Equity decreases.
+B. Assets (Cash) increase and Owner's Equity (Capital) increases.
+Correct
+C. Only the Cash account is affected.
+D. Assets (Cash) increase and Liabilities increase.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 4/12
+--- PAGE 5 ---
+QUESTION 5
+If a business purchases a new delivery truck for cash, what is the impact on the total assets in the
+Balance Sheet?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+This transaction is an exchange of one asset (Cash) for another asset (Equipment), so the total
+value of assets stays the same.
+A. Total assets increase and total liabilities increase.
+B. Total assets increase by the cost of the truck.
+C. Total assets decrease because cash is gone.
+D. Total assets remain unchanged.
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 5/12
+--- PAGE 6 ---
+QUESTION 6
+In a Trading Account, which side are 'Closing Stock' and 'Sales' recorded on?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Sales and Closing Stock represent the direct incomes or outputs of the business period, which are
+credited in the Trading Account.
+A. Asset Side
+B. Debit Side
+C. Liability Side
+D. Credit Side
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 6/12
+--- PAGE 7 ---
+QUESTION 7
+In the context of a Juice Stall business, why is 'Capital' considered a liability from the business's
+perspective?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+The business entity concept treats the business as separate from its owner, meaning it 'borrows'
+the initial capital from the owner.
+A. Because the owner expects to be paid interest on his investment like a bank.
+B. Because the owner might decide to close the stall and take the money at any time.
+C. Because Capital must be paid back within one year.
+D. Because the owner and the business are distinct entities; the business owes this money
+back to the owner.
+Correct
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 7/12
+--- PAGE 8 ---
+QUESTION 8
+Why is 'Depreciation' added back to 'Net Income' when calculating cash flow from Operating
+Activities?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Since we start with Net Income, we must add back any expenses that didn't use cash to find the
+true cash generated by operations.
+A. Because depreciation increases the value of the assets over time.
+B. Because depreciation is a non-cash expense that reduced net income but did not
+involve an actual cash outflow.
+Correct
+C. Because the business needs that money to buy new machines immediately.
+D. Because depreciation is a cash inflow that was previously ignored.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 8/12
+--- PAGE 9 ---
+QUESTION 9
+Using the Weighted Average Method, if you have 100 units at ₹5 and 200 units at ₹8, what is the
+average cost per unit?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+The calculation is 
+A. ₹6.50
+B. ₹6.00
+C. ₹7.00
+Correct
+D. ₹13.00
+ =100+200
+(100×5)+(200×8)
+ =300
+500+1600
+ =300
+2100 7
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 9/12
+--- PAGE 10 ---
+QUESTION 10
+A business pays ₹5,000 for a utility bill that was recorded as a liability in the previous month. What
+is the impact on the current month's Income Statement?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+This transaction is simply the settlement of a liability (Utilities Payable) with an asset (Cash); the
+expense was already recognized last month.
+A. Gross profit increases.
+B. There is no impact on the Income Statement.
+Correct
+C. Revenue increases by ₹5,000.
+D. Net income decreases by ₹5,000.
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 10/12
+--- PAGE 11 ---
+QUESTION 11
+A company purchases a machine for ₹11,000 with an estimated salvage value of 1,000 and a useful
+life of 5 years. Using the Straight-Line Method, what is the book value of the asset at the end of
+Year 2?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+The annual depreciation is ₹2,000 ((₹11,000 - ₹1,000)/5); after two years, ₹4,000 is deducted from
+the original cost of ₹11,000.
+A. ₹8,000
+B. ₹6,400
+C. ₹7,000
+Correct
+D. ₹9,000
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 11/12
+--- PAGE 12 ---
+QUESTION 12
+A machine is purchased for ₹10,000. If the company applies the Written Down Value (WDV) method
+at a rate of 20%, what is the depreciation expense specifically for the second year?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+In Year 1, depreciation is 20% of 10,000 (2,000); in Year 2, it is 20% of the remaining 8,000 book
+value.
+A. 1,600
+Correct
+B. 28,000
+C. 1,280
+D. 2,000
+10/09/2026, 12:53 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 12/12

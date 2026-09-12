@@ -1,0 +1,520 @@
+
+--- PAGE 1 ---
+   
+ 
+Notations :
+1.Options shown in green color and with 
+  icon are correct.
+2.Options shown in red color and with 
+  icon are incorrect.
+ 
+   
+Change Font Color : No
+Change Background Color : No
+Change Theme : No
+Help Button : No
+Show Reports : No
+Show Progress Bar : No
+   
+   
+BDM
+Section Id : 640653141005
+Section Number : 1
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 22
+Number of Questions to be attempted : 22
+Section Marks : 50
+Display Number Panel : Yes
+Section Negative Marks : 0
+Group All Questions : No
+Section Maximum Duration : 0
+Section Minimum Duration : 0
+Section Time In : Minutes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 640653396291
+Question Shuffling Allowed : No
+   
+Question Number : 1 Question Id : 6406532159006 Question Type : MCQ
+Correct Marks : 0
+Question Label : Multiple Choice Question
+THIS IS QUESTION PAPER FOR THE SUBJECT "DIPLOMA LEVEL : BUSINESS DATA MANAGEMENT 
+Indian Institute of Technology, Madras - BS in Data Science and Applications
+--- PAGE 2 ---
+(COMPUTER BASED EXAM)" 
+ 
+ARE YOU SURE YOU HAVE TO WRITE EXAM FOR THIS SUBJECT? 
+CROSS CHECK YOUR HALL TICKET TO CONFIRM THE SUBJECTS TO BE WRITTEN. 
+ 
+(IF IT IS NOT THE CORRECT SUBJECT, PLS CHECK THE SECTION AT THE TOP FOR THE SUBJECTS 
+REGISTERED BY YOU)
+Options :
+6406537023015. 
+  Yes
+6406537023016. 
+  No
+Sub-Section Number : 2
+Sub-Section Id : 640653396292
+Question Shuffling Allowed : Yes
+   
+Question Number : 2 Question Id : 6406532159007 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+What is the primary definition of 'needs' in economics?
+Options :
+6406537023017. 
+  Goods that enhance quality of life 
+6406537023018. 
+  Essential requirements for survival and well-being such as food, clothing, and 
+shelter
+6406537023019. 
+  Products people wish to buy but cannot afford
+6406537023020. 
+  Items available in unlimited supply
+   
+Question Number : 3 Question Id : 6406532159008 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following best describes the term 'insatiable wants'?
+Options :
+6406537023021. 
+  Wants that can be fully satisfied over time 
+6406537023022. 
+  Wants that are limited in nature
+6406537023023. 
+  Unlimited human wants that are never fully satisfied
+6406537023024. 
+  Wants that are only driven by affordability
+   
+Question Number : 4 Question Id : 6406532159009 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Economics is best described as: 
+Options :
+6406537023025. 
+  The study of money and banking only
+--- PAGE 3 ---
+6406537023026. 
+  The science of constrained choices and allocation of scarce resources to meet 
+unlimited human wants
+6406537023027. 
+  A guaranteed path to business success
+6406537023028. 
+  The study of government taxation
+   
+Question Number : 5 Question Id : 6406532159010 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following is an example of a 'free good' in economics?
+Options :
+6406537023029. 
+  A loaf of bread
+6406537023030. 
+  A bottle of mineral water
+6406537023031. 
+  Air
+6406537023032. 
+  A government-subsidized medicine
+   
+Question Number : 6 Question Id : 6406532159011 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Microeconomics focuses on:
+Options :
+6406537023033. 
+  The economy, including GDP and inflation
+6406537023034. 
+  Government budget allocation at a national level
+6406537023035. 
+  Smaller parts of the economy such as individual consumers and businesses
+6406537023036. 
+  International trade policies
+   
+Question Number : 7 Question Id : 6406532159012 Question Type : MCQ
+Correct Marks : 1
+Question Label : Multiple Choice Question
+Which of the following goods would most likely have inelastic demand?
+Options :
+6406537023037. 
+  Luxury handbags
+6406537023038. 
+  Restaurant meals
+6406537023039. 
+  Mobile phones
+6406537023040. 
+  Branded clothing
+6406537023041. 
+  None of these
+Sub-Section Number : 3
+Sub-Section Id : 640653396293
+Question Shuffling Allowed : Yes
+   
+--- PAGE 4 ---
+Question Number : 8 Question Id : 6406532159013 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Amazon prime raises subscription prices and many subscribers cancel. This is an example of:
+Options :
+6406537023042. 
+  Inelastic demand, because many people cancelled
+6406537023043. 
+  Elastic demand, because the quantity demanded responded substantially to 
+the price change
+6406537023044. 
+  Unit elastic demand, because the change in demand was proportional
+6406537023045. 
+  Perfectly inelastic demand, because Amazon Prime is a necessity
+   
+Question Number : 9 Question Id : 6406532159014 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+In which of the below mentioned context is purchase volume is a better yardstick to differentiate 
+than purchase value
+Options :
+6406537023046. 
+  In B2C and sometimes B2B
+6406537023047. 
+  In B2B but not B2C
+6406537023048. 
+  Both B2C and B2B
+6406537023049. 
+  None of these
+   
+Question Number : 10 Question Id : 6406532159015 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+The committee for IIT M BS Cultural Fest Paradox 2027 was formed. They decided to order newer 
+hoodies, since there were a lot of student complaints on the product quality of hoodies that was 
+sold earlier. A demand of 2000 hoodies was forecasted based on prior estimates. Each hoodie was 
+to roughly cost 2000 rupees. Brand ASA was chosen as the new supplier. However, they were 
+unable to make the customizations. Each customization (Name, Hoodie Number and IIT M logo) 
+cost 200 rupees/ hoodie. AJB was selected as vendor to customize them. Given the expenses 
+involved a committee was involved that monitored the purchases made. The buying situations 
+here are
+Options :
+6406537023050. 
+  New task and straight rebuy
+6406537023051. 
+  New task and modified rebuy
+6406537023052. 
+  Modified rebuy and straight rebuy
+6406537023053. 
+  Modified rebuy and new task
+6406537023054. 
+  New task and new task
+   
+Question Number : 11 Question Id : 6406532159016 Question Type : MCQ
+--- PAGE 5 ---
+Correct Marks : 2
+Question Label : Multiple Choice Question
+If the price of petrol increases by 10% and quantity demanded falls by only 3%, the PED ratio is 
+approximately:
+Options :
+6406537023055. 
+  3.33 — elastic
+6406537023056. 
+  0.3 — inelastic
+6406537023057. 
+  1.0 — unit elastic
+6406537023058. 
+  10.0 — perfectly elastic
+   
+Question Number : 12 Question Id : 6406532159017 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Which of the following correctly distinguishes 'wants' from 'desire' in economics?
+Options :
+6406537023059. 
+  Wants are unlimited; desires are limited
+6406537023060. 
+  Wants enhance quality of life while desire is constrained by affordability — a 
+person may desire something but lack the purchasing power to demand it
+6406537023061. 
+  Desire is always backed by purchasing power; wants are not
+6406537023062. 
+  Wants and desires are interchangeable terms in economics
+   
+Question Number : 13 Question Id : 6406532159018 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+Suppose conflict escalates between the US and Iran. This conflict leads to a naval blockade in the 
+Strait of Hormuz, a critical transit route through which 20% of the world's crude oil passes. At the 
+same time, widespread panic drives regular consumers and commercial airlines to stockpile fuel 
+out of fear that supplies will dry up by the following week. This sudden surge in panic buying, 
+happening along with the supply disruption, creates a severe oil shortage. 
+ 
+How do these two events happening at the exact same time affect the global equilibrium price (P*) 
+and equilibrium quantity (Q*) of crude oil?
+Options :
+6406537023063. 
+  Price will decrease; Quantity will increase.
+6406537023064. 
+  Price will increase; Quantity change is uncertain
+6406537023065. 
+  Price change is uncertain; Quantity will decrease.
+6406537023066. 
+  Price will increase; Quantity will decrease.
+   
+Question Number : 14 Question Id : 6406532159019 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+--- PAGE 6 ---
+Assume, Apple launches its latest flagship iPhone-17. Simultaneously, two market forces occur: 
+First, a global semiconductor microchip shortage severely limits manufacturing output due to 
+trade deal tariff issues. Second, Google launches an aggressive marketing campaign during 
+2026 ICC Men's T20 World Cup, that successfully convinces millions of premium smartphone 
+users to switch to Android devices. 
+ 
+Assuming the drop in iPhone consumer demand is identical in magnitude to the drop in 
+production supply, what will happen to the equilibrium price (P*) and quantity (Q*) of the new 
+iPhone?
+Options :
+6406537023067. 
+  Price will remain unchanged; Quantity will decrease.
+6406537023068. 
+  Price will increase; Quantity will remain unchanged.
+6406537023069. 
+  Price will decrease; Quantity will decrease.
+6406537023070. 
+  Price will remain unchanged; Quantity will increase.
+   
+Question Number : 15 Question Id : 6406532159020 Question Type : MCQ
+Correct Marks : 2
+Question Label : Multiple Choice Question
+ 
+Use the above diagram as your geometric guide for the Question below 
+ 
+The student-run night canteen at IIT Madras faces a sudden supply shock due to a harvest failure 
+in villages near Chennai, causing onion prices to rise. Baseline Equilibrium E is indicated by a 
+green dot in the figure. Based on the graph, what is the initial equilibrium price (P*) per kilogram 
+and the total baseline revenue generated by the onion suppliers?
+Options :
+6406537023071. 
+  P* = ₹100; Total Revenue = 0 
+6406537023072. 
+  P* = ₹80; Total Revenue = ₹1,600
+6406537023073. 
+  P* = ₹50; Total Revenue = ₹2,500
+6406537023074. 
+  P* =₹50; Total Revenue = ₹5,000
+Sub-Section Number : 4
+Sub-Section Id : 640653396294
+Question Shuffling Allowed : Yes
+--- PAGE 7 ---
+   
+Question Number : 16 Question Id : 6406532159021 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Which of the following correctly distinguish microeconomics from macroeconomics? 
+ 
+i) Microeconomics studies the impact of Trump tariffs on individual Indian businesses; 
+Macroeconomics studies the impact on India's overall GDP and employment rate. 
+ii) Microeconomics uses a top-down approach; Macroeconomics uses a bottom-up approach. 
+iii) Macroeconomics focuses on how an IPL franchise allocates its budget across players. 
+iv) Both micro and macroeconomics involve constrained choices and optimization under resource 
+limitations. 
+v) Micro refers to small or makro and Macro refers to large or mikro.
+Options :
+6406537023075. 
+  i, ii, iii, iv, v
+6406537023076. 
+  i, iv, v
+6406537023077. 
+  i, ii, v
+6406537023078. 
+  i, iii, iv
+6406537023079. 
+  None of these
+   
+Question Number : 17 Question Id : 6406532159022 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Agreements and contracts are higher in B2B mainly in comparison to B2C since
+Options :
+6406537023080. 
+  The customer is a business entity
+6406537023081. 
+  The purchase volume is high
+6406537023082. 
+  The purchase value is higher
+6406537023083. 
+  Many people are involved in decision making
+6406537023084. 
+  All of these
+   
+Question Number : 18 Question Id : 6406532159023 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+A farmer's association argues that 'good news for farming' (a bumper crop/excellent harvest) can 
+sometimes be 'bad news for farmers' financially. Which economic concept best explains this 
+paradox?
+Options :
+6406537023085. 
+  The Law of Supply — higher supply always increases revenue
+6406537023086. 
+  Inelastic demand for agricultural produce — a large increase in supply causes 
+a proportionately larger fall in price, reducing total revenue
+6406537023087. 
+  Economies of scope — producing more variety increases costs
+--- PAGE 8 ---
+6406537023088. 
+  Elastic demand — consumers buy significantly more when prices fall, 
+maintaining revenue
+Sub-Section Number : 5
+Sub-Section Id : 640653396295
+Question Shuffling Allowed : No
+   
+Question Id : 6406532159024 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix
+Question Numbers : (19 to 21)
+Question Label : Comprehension
+Mini Case Study 
+ 
+The Economics of a Campus Mess: How Price Controls Create Shortages In the IIT Madras 
+campus 
+ 
+In the IIT Madras campus, "R-Goura's" is a private contract student dining mess that serves 
+approximately 400 to 500 students per semester. At the beginning of each academic term, 
+students register their preferences among 10 available campus messes. Due to high demand for 
+certain dining options, a computerized random selection process finalizes students’ allocation. R-
+Goura's distinguishes itself by offering a dynamic, rotating menu for a standard 4-course meal 
+that is high in demand. 
+ 
+The Economic problems for R-Goura's Mess: 
+ 
+To provide financial predictability for students, the institute mandates that subscription rates are 
+strictly fixed for the entire semester. R-Goura's cannot alter its prices in between semester (Price 
+inelastic), regardless of fluctuations in commodity prices, supply chain disruptions, or shifts in 
+student preferences . 
+ 
+Let us assume that at the start of the semester, the equilibrium price for a semester-long premium 
+mess subscription under normal market conditions is calculated to be ₹15,000 per student. At this 
+rate, exactly 450 students want to join, matching the mess’s optimal operational capacity. 
+ 
+However, the student senate and administration cap the maximum allowable semester rate at 
+₹12,000 per student. Midway through the semester, a sudden surge in gas prices, wholesale 
+vegetable and fuel prices happened due to US-Iran geopolitical tensions, resulting in a shift in the 
+operational cost structures across campus. 
+ 
+Answer the subquestions based on your understanding of how supply, demand, and market 
+equilibrium principles apply to this case study.
+Sub questions
+ 
+Question Number : 19 Question Id : 6406532159025 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Prior to the price cap, what was the natural equilibrium price (P*) and equilibrium quantity (Q*) of 
+--- PAGE 9 ---
+students that R-Goura's would host without administrative intervention?
+Options :
+6406537023089. 
+  P* = ₹15,000; Q* = 450 students
+6406537023090. 
+  P* = ₹16,500; Q* = 420 students
+6406537023091. 
+  P* = ₹12,000; Q* = 330 students
+6406537023092. 
+  P* = ₹14,000; Q* = 470 students
+ 
+Question Number : 20 Question Id : 6406532159026 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+Suppose the initial market demand function for the R-Goura's mess subscription per semester is 
+given by Qd = 750−0.02P, and the market supply function is Qs = −150+0.04P, where P is the price 
+in Rupees. If the administration sets a fixed price ceiling of ₹12,000 per semester, what is the 
+resulting shortage (excess demand) of student slots?
+Options :
+6406537023093. 
+  0 students (Market clears)
+6406537023094. 
+  180 students
+6406537023095. 
+  210 students
+6406537023096. 
+  150 students
+ 
+Question Number : 21 Question Id : 6406532159027 Question Type : MCQ
+Correct Marks : 3
+Question Label : Multiple Choice Question
+If the administration decides to eliminate the random allocation and allows R-Goura's to adjust its 
+price to clear the market after the commodity price inflation (Qs2 =−270+0.04P), what will be the 
+new equilibrium price (Pnew*) to match the demand (Qd =750−0.02P)?
+Options :
+6406537023097. 
+  P* = ₹19,500
+6406537023098. 
+  P* = ₹16,000
+6406537023099. 
+  P* = ₹15,000
+6406537023100. 
+  P* = ₹17,000
+Sub-Section Number : 6
+Sub-Section Id : 640653396296
+Question Shuffling Allowed : Yes
+   
+Question Number : 22 Question Id : 6406532159028 Question Type : MCQ
+Correct Marks : 2.5
+Question Label : Multiple Choice Question
+Saturn solutions decided to replace their existing computing systems with high-speed computing 
+devices. Their purchase department conducted market research and identified the top 4 vendors- 
+--- PAGE 10 ---
+ABC, DEF, GHI and JKL, each being asked to submit their quotes also known as RFQ. This quote is 
+based on
+Options :
+6406537023101. 
+  Problem recognition
+6406537023102. 
+  General description of needs
+6406537023103. 
+  Request for information
+6406537023104. 
+  Problem recognition, General description of needs & Request for information
+6406537023105. 
+  None of these
+   
+Question Number : 23 Question Id : 6406532159029 Question Type : MCQ
+Correct Marks : 2.5
+Question Label : Multiple Choice Question
+The finance department of Saturn solutions had a total budget of 50 lakhs. They wanted a total of 
+50 laptops. All the vendors gave their best prices and there was no scope for further negotiation. 
+While ABC quoted a price of 70,000 INR/ laptop, DEF, GHI and JKL quoted INR 95,000, 1 lakh and 
+1.1 lakh/ laptop respectively. Which vendor got eliminated and the role played by finance 
+department was
+Options :
+6406537023106. 
+  JKL, Decision Making Unit
+6406537023107. 
+  JKL, Gatekeepers
+6406537023108. 
+  JKL, Influencers
+6406537023109. 
+  JKL, Decision makers
+Sub-Section Number : 7
+Sub-Section Id : 640653396297
+Question Shuffling Allowed : Yes
+   
+Question Number : 24 Question Id : 6406532159030 Question Type : MCQ
+Correct Marks : 5
+Question Label : Multiple Choice Question
+The DMU of Saturn solutions now had a tough job to do. They had to select one vendor out of the 
+three choices they had (ABC or DEF or GHI). They decided to rate the three vendors. A total of 4 
+CSF/ KSF were chosen. Brand Image, Product Quality, Service Quality, and Market feedback. Equal 
+weightage was allocated across the 4 KSFs. While GHI scored high on brand image, product 
+quality and market feedback, they did poorly on service quality. DEF scored high on service quality 
+but had moderate scores on the rest. ABC had moderate scores throughout. You need to rate 
+them on a scale of 1-5, where 1 is the least score, 5 being the highest and 3 being moderate. 
+ 
+The final scores of ABC, DEF and GHI are
+Options :
+6406537023110. 
+  4, 3.5 and 3
+6406537023111. 
+  3, 4 and 3.5
+6406537023112. 
+  3, 3.75 and 4
+--- PAGE 11 ---
+6406537023113. 
+  3.5, 3 and 4
+6406537023114. 
+  None of these

@@ -1,0 +1,719 @@
+
+--- PAGE 1 ---
+QUESTION 1
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 1/36
+--- PAGE 2 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Net Profit Margin for XYZ Limited in FY 2025?
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 8.44%
+Correct
+B. 11.25%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 2/36
+--- PAGE 3 ---
+FEEDBACK
+Explanation: Profit Margin = (Net Profit / Revenue) * 100
+Calculation: (3,375 / 40,000) * 100 = 8.4375%, which rounds to 8.44%.
+C. 13.75%
+D. 6.50%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 3/36
+--- PAGE 4 ---
+QUESTION 2
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 4/36
+--- PAGE 5 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Return on Assets (ROA) for the year.
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 8.44%
+B. 27.00%
+Co ect
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 5/36
+--- PAGE 6 ---
+FEEDBACK
+Explanation: Return on Assets (ROA) = (Net Profit / Total Assets) * 100
+Calculation: (3,375 / 30,000) * 100 = 11.25%.
+C. 11.25%
+Correct
+D. 15.00%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 6/36
+--- PAGE 7 ---
+QUESTION 3
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 7/36
+--- PAGE 8 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Return on Equity (ROE) generated by the company?
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 11.25%
+B. 27.00%
+Correct
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 8/36
+--- PAGE 9 ---
+FEEDBACK
+Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100
+Calculation: (3,375 / 12,500) * 100 = 27.00%.
+C. 30.50%
+D. 22.00%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 9/36
+--- PAGE 10 ---
+QUESTION 4
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 10/36
+--- PAGE 11 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Assuming average debtors are equal to the year-end debtors, what is the Debtors Turnover Ratio?
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 8.00 times
+B. 10.00 times
+Correct
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 11/36
+--- PAGE 12 ---
+FEEDBACK
+Explanation: Debtors Turnover Ratio = Revenue / Debtors
+Calculation: 40,000 / 4,000 = 10.00 times.
+C. 12.00 times
+D. 14.00 times
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 12/36
+--- PAGE 13 ---
+QUESTION 5
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 13/36
+--- PAGE 14 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Dividend Yield based on the current market price.
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 1.33%
+Correct
+B. 2.50%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 14/36
+--- PAGE 15 ---
+FEEDBACK
+Explanation: Dividend Yield = (Dividend Per Share / Market Price) * 100
+Calculation: (2.00 / 150) * 100 = 1.33%.
+C. 3.47%
+D. 4.00%
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 15/36
+--- PAGE 16 ---
+QUESTION 6
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 16/36
+--- PAGE 17 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Asset Turnover Ratio.
+Answer is Correct Score: 1 / 1
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 1.50 times
+B. 1.33 times
+Correct
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 17/36
+--- PAGE 18 ---
+FEEDBACK
+Explanation: Asset Turnover Ratio = Revenue / Total Assets
+Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).
+C. 2.00 times
+D. 0.85 times
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 18/36
+--- PAGE 19 ---
+QUESTION 7
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 19/36
+--- PAGE 20 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Based on the Cost of Materials Consumed, what is the Inventory Turnover Ratio?
+Answer is Correct Score: 2 / 2
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 11.42 times
+B. 10.00 times
+Co ect
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 20/36
+--- PAGE 21 ---
+FEEDBACK
+Explanation: Inventory Turnover Ratio = Cost of Materials Consumed / Inventory
+Calculation: 28,000 / 3,500 = 8.00 times.
+C. 8.00 times
+Correct
+D. 6.50 times
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 21/36
+--- PAGE 22 ---
+QUESTION 8
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 22/36
+--- PAGE 23 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Earnings Per Share (EPS) XYZ Limited?
+Answer is Correct Score: 2 / 2
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. ₹6.75
+Correct
+B. ₹9.00
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 23/36
+--- PAGE 24 ---
+FEEDBACK
+Explanation: Earnings Per Share (EPS) = Net Profit / Total Number of Outstanding Shares. Since
+the Equity Share Capital is ₹500 Crores and the face value is ₹1, there are 500 Crore shares.
+Calculation: 3,375 / 500 = ₹6.75 per share.
+C. ₹11.25
+D. ₹25.00
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 24/36
+--- PAGE 25 ---
+QUESTION 9
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 25/36
+--- PAGE 26 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Using the EPS calculated in the previous question, what is the Price to Earnings (PE) Ratio?
+Answer is Correct Score: 2 / 2
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 18.50
+B. 20.00
+Co ect
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 26/36
+--- PAGE 27 ---
+FEEDBACK
+Explanation: PE Ratio = Current Market Price / Earnings Per Share (EPS)
+Calculation: 150 / 6.75 = 22.22.
+C. 22.22
+Correct
+D. 25.40
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 27/36
+--- PAGE 28 ---
+QUESTION 10
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 28/36
+--- PAGE 29 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Assess the solvency of the company by calculating the Debt-Equity Ratio.
+Answer is Correct Score: 2 / 2
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. 0.12
+B. 0.20
+Correct
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 29/36
+--- PAGE 30 ---
+FEEDBACK
+Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity
+Calculation: 2,500 / 12,500 = 0.20.
+C. 0.25
+D. 0.50
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 30/36
+--- PAGE 31 ---
+QUESTION 11
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 31/36
+--- PAGE 32 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Based on the Profit & Loss statement, what is the EBITDA (Earnings Before Interest, Taxes,
+Depreciation, and Amortization) for XYZ Limited?
+Answer is Correct Score: 3 / 3
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. ₹4,500 Crores
+Co ect
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 32/36
+--- PAGE 33 ---
+FEEDBACK
+Explanation: EBITDA = Revenue - (Cost of Materials + Employee Benefits + Other Expenses).
+Calculation: 40,000 - (28,000 + 2,500 + 4,000) = 40,000 - 34,500 = ₹5,500 Crores.
+Alternatively: PBT (4,500) + Depreciation (800) + Finance Cost (200) = ₹5,500 Crores.
+B. ₹5,500 Crores
+Correct
+C. ₹6,300 Crores
+D. ₹34,500 Crores
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 33/36
+--- PAGE 34 ---
+QUESTION 12
+Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement 
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet 
+Particulars Amount (in Crores)
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 34/36
+--- PAGE 35 ---
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What are the total Operating Expenses (excluding depreciation and finance costs) for the company?
+Answer is Wrong Score: 0 / 3
+Options
+Current Market Price per Share: ₹150.00
+Dividend Declared per Share: ₹2.00
+Note: Number of outstanding shares equals the Equity Share Capital (since Face Value is ₹1).
+A. ₹35,500 Crores
+B. ₹28,000 Crores
+E pected
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 35/36
+--- PAGE 36 ---
+FEEDBACK
+Explanation: Operating expenses exclude non-operating costs like finance costs and non-cash
+charges like depreciation.
+Calculation: Total Expenses (35,500) - Depreciation (800) - Finance Costs (200) = ₹34,500 Crores.
+C. ₹34,500 Crores
+Expected
+D. ₹30,500 Crores
+Wrong
+10/09/2026, 12:54 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 36/36

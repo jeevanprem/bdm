@@ -1,0 +1,197 @@
+
+--- PAGE 1 ---
+QUESTION 1
+A manager needs a cost analysis and budget forecast to help decide on a new product
+development path. Which type of accounting provides this data?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+This branch focuses specifically on the internal operations of a company, delivering data to help
+managers with budgeting, forecasting, and development decisions.
+A. Cost Accounting
+B. Tax Accounting
+C. Managerial Accounting
+Correct
+D. Financial Accounting
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 1/12
+--- PAGE 2 ---
+QUESTION 2
+How are buildings categorized in a real estate firm that intends to sell them to customers, as
+opposed to a manufacturing firm that uses them as factories?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+If the intention of the business is to hold and sell the asset, it is treated as inventory rather than a
+fixed asset used for operations.
+A. They are considered Intangible Assets for the real estate firm.
+B. They are considered Current Liabilities for the manufacturing firm.
+C. They are considered Fixed Assets in both cases.
+D. They are considered Inventory for the real estate firm.
+Correct
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 2/12
+--- PAGE 3 ---
+QUESTION 3
+What is the primary difference between Current Assets and Fixed Assets?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Current assets like cash and inventory support daily business, whereas fixed assets like plant and
+machinery are intended to generate revenue over a longer period.
+A. Current assets are physical, while fixed assets are intangible.
+B. Current assets are liabilities, while fixed assets are equity.
+C. Fixed assets are easily converted to cash, while current assets are not.
+D. Current assets are meant for liquidity and daily operations, while fixed assets are for
+long-term use.
+Correct
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 3/12
+--- PAGE 4 ---
+QUESTION 4
+According to the Measurement Principle, if a company purchased land for ₹100,000 a decade ago
+and its current market value is ₹500,000, at what value should it be recorded on the books?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+The Measurement or Cost Principle dictates that assets must be recorded at their original
+purchase price (historical cost) regardless of current market shifts.
+A. ₹300,000
+B. ₹100,000
+Correct
+C. ₹600,000
+D. ₹500,000
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 4/12
+--- PAGE 5 ---
+QUESTION 5
+A business delivers a product to a customer in October, but the customer does not pay until
+December. Under the Revenue Recognition Principle, when is the revenue recorded?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Revenue is recognized when goods or services are provided to the customer and the amount is
+earned, regardless of the timing of the cash receipt.
+A. Divided equally between October and December.
+B. In December, when the cash is received.
+C. In October, when the goods were provided.
+Correct
+D. Only once the customer's promise to pay is legally verified in November.
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 5/12
+--- PAGE 6 ---
+QUESTION 6
+Ravi has ₹300 in cash sales and ₹200 in credit sales on June 1st. What is his total revenue for that
+day?
+Answer is Correct Score: 1 / 1
+Options
+FEEDBACK
+Revenue includes both cash and credit sales made during the period, as the service/product has
+been delivered in both cases.
+A. ₹500
+Correct
+B. 200
+C. 100
+D. ₹300
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 6/12
+--- PAGE 7 ---
+QUESTION 7
+Ravi pays ₹2,100 for a full week's rent on Day 1. At the end of Day 1, how is the remaining ₹1,800
+classified?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Since the money has been paid but the service for the remaining six days has not been used, it is
+an asset that provides future benefit.
+A. Accrued Liability
+B. Dividend
+C. Prepaid Expense (Asset)
+Correct
+D. Fixed Expense
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 7/12
+--- PAGE 8 ---
+QUESTION 8
+A Business Data Manager is monitoring 'Working Capital'. Which two components must they
+subtract to find this value?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Working capital specifically measures the short-term liquidity of a company by comparing daily
+resources with daily obligations.
+A. Fixed Assets and Long-term Debt
+B. Current Assets and Current Liabilities
+Correct
+C. Total Assets and Total Liabilities
+D. Revenue and Operating Expenses
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 8/12
+--- PAGE 9 ---
+QUESTION 9
+If a company issues a share with a face value of ₹10 at a price of ₹50, where is the extra ₹40
+recorded?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Any amount received above the face value of the shares during issuance is specifically
+categorized as securities premium within the reserves and surplus.
+A. Capital Reserve
+B. Securities Premium
+Correct
+C. Paid-up Capital
+D. Profit and Loss Account
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwcz… 9/12
+--- PAGE 10 ---
+QUESTION 10
+In Ravi's lemonade stand example, why is the juice machine considered an Asset while the sugar is
+considered an Expense?
+Answer is Correct Score: 2 / 2
+Options
+FEEDBACK
+Assets provide economic benefit over many periods, whereas expenses are 'used up' quickly to
+run the business day-to-day.
+A. Sugar is a fixed cost, while the machine is an operating cost.
+B. The machine is a liability until it is fully paid for.
+C. The machine is more expensive than the sugar.
+D. The sugar provides immediate, used-up value, while the machine helps generate
+revenue in the future.
+Correct
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 10/12
+--- PAGE 11 ---
+QUESTION 11
+A company has the following accounts: Cash (₹20,000), Inventory (₹15,000), Machinery (₹100,000),
+Accounts Receivable (₹5,000), and Creditors (₹12,000). Based on the source material's definition of
+current assets and liabilities, calculate the 'Working Capital'.
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+Working capital is Current Assets (Cash ₹20, 000 + Inventory ₹15,000 + Receivables ₹5,000 =
+₹40,000) minus Current Liabilities (Creditors ₹12,000)
+A. ₹40,000
+B. ₹28,000
+Correct
+C. ₹128,000
+D. ₹140,000
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 11/12
+--- PAGE 12 ---
+QUESTION 12
+Ravi's Lemonade Stand sells 60 glasses a day on average for the month of June (30 days) at ₹10
+each. Daily operating expenses are ₹350. Additionally, he pays a monthly fixed rent of ₹500. If he
+decides to distribute 50% of his monthly profit as dividends, what amount remains in the business
+as 'Retained Earnings'?
+Answer is Correct Score: 3 / 3
+Options
+FEEDBACK
+Total revenue is 18,000. Total expenses are 10,500 (operating) + 500 (fixed) = 11,000. Profit is
+₹7,000. Half of this is 3,500.
+A. ₹7,000
+B. ₹3,500
+Correct
+C. ₹9,000
+D. ₹9,000
+10/09/2026, 12:52 Courses :: IITM Study
+https://seek.study.iitm.ac.in/courses/ns_26t2_ms2001?source=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd191cmwiOiJodHRwc… 12/12
