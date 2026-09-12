@@ -1056,20 +1056,51 @@ Core Principle: "Intent of Ownership Determines Accounting Treatment".`,
           </div>
 
           <div class="solution-drawer ${hasAnswered ? 'open' : ''}" id="sol-${q.id}">
-            <div class="solution-badge">
-              <span>✓ Verified Solution & Rationale</span>
+            <div class="solution-badge" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-subtle); padding-bottom: 8px; margin-bottom: 10px;">
+              <span style="color: var(--accent-emerald); font-weight: 700; font-size: 0.88rem;">
+                🎯 AI Solution: <strong>${escapeHtml((q.ai_solution && q.ai_solution.direct_answer) || ('Option ' + ((q.options.find(o=>o.is_correct)||{}).label || 'A')))}</strong>
+              </span>
+              <span class="card-tag tag-green" style="font-size: 0.68rem;">Verified Key</span>
             </div>
-            <div class="solution-explanation">
-              ${q.feedback ? escapeHtml(q.feedback) : 'Correct option identified directly from IIT Madras official course evaluation keys.'}
+
+            <!-- Core Conceptual Reason -->
+            <div style="margin-bottom: 10px;">
+              <div style="font-size: 0.78rem; font-weight: 700; color: #38bdf8; text-transform: uppercase; margin-bottom: 2px;">
+                💡 Conceptual Reason:
+              </div>
+              <div style="font-size: 0.9rem; color: #f1f5f9; line-height: 1.55;">
+                ${escapeHtml((q.ai_solution && q.ai_solution.core_reason) || q.feedback || 'Identified based on fundamental BDM course principles.')}
+              </div>
             </div>
-            ${q.mnemonic ? `
-              <div style="font-size: 0.8rem; color: #c084fc; margin-top: 6px;">
-                <strong>Memory Cue:</strong> ${q.mnemonic}
+
+            <!-- Numerical Calculation (if applicable) -->
+            ${(q.ai_solution && q.ai_solution.calculation) ? `
+              <div style="margin-bottom: 10px; background: rgba(0,0,0,0.35); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 4px; padding: 10px 14px;">
+                <div style="font-size: 0.78rem; font-weight: 700; color: #38bdf8; text-transform: uppercase; margin-bottom: 4px;">
+                  🔢 Step-by-Step Working:
+                </div>
+                <div style="font-family: var(--font-mono); font-size: 0.84rem; color: #a5f3fc; line-height: 1.6; white-space: pre-line;">
+                  ${escapeHtml(q.ai_solution.calculation)}
+                </div>
               </div>
             ` : ''}
-            ${q.formula ? `
-              <div style="font-size: 0.8rem; color: #38bdf8; margin-top: 4px; font-family: var(--font-mono);">
-                <strong>Formula:</strong> ${q.formula}
+
+            <!-- Trap Alert -->
+            ${(q.ai_solution && q.ai_solution.distractor_trap) ? `
+              <div style="margin-bottom: 8px; background: rgba(245, 158, 11, 0.08); border-left: 3px solid var(--accent-amber); padding: 8px 12px; border-radius: 4px;">
+                <div style="font-size: 0.75rem; font-weight: 700; color: #fbbf24; text-transform: uppercase;">
+                  ⚠️ Trap Alert (Why others are wrong):
+                </div>
+                <div style="font-size: 0.82rem; color: #fef3c7; line-height: 1.5; margin-top: 2px;">
+                  ${escapeHtml(q.ai_solution.distractor_trap)}
+                </div>
+              </div>
+            ` : ''}
+
+            <!-- 1-Second Hinglish Takeaway -->
+            ${(q.ai_solution && q.ai_solution.hinglish_shortcut) ? `
+              <div style="margin-top: 8px; font-size: 0.82rem; color: #c084fc; background: rgba(139, 92, 246, 0.1); border: 1px solid rgba(139, 92, 246, 0.25); padding: 6px 12px; border-radius: 4px;">
+                <strong>⚡ Hinglish Takeaway:</strong> ${escapeHtml(q.ai_solution.hinglish_shortcut)}
               </div>
             ` : ''}
           </div>

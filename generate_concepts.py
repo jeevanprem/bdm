@@ -8,18 +8,30 @@ sys.stdout.reconfigure(encoding='utf-8')
 CONCEPTS = {
     1: {
         "week": 1,
-        "title": "Economics Foundations & Resource Scarcity",
-        "tagline": "Duniya me cheezein limited hain, demands unlimited — Chunaav (Choice) kaise karein?",
+        "title": "Economics Foundations: Micro vs Macro, Scarcity & Choices",
+        "tagline": "Duniya me resources limited hain, demands unlimited — Chunaav (Choice) kaise karein?",
         "mnemonic": "S - O - U - P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-        "hinglish_summary": "Economics ka basic funda simple hai: Insaan ki chahatein (wants) kabhi khatam nahi hoti, lekin resources (paisa, samay, zameen, raw material) bohot limited hain. Isliye hume har pal 'CHOICE' karni padti hai. Jab bhi tum koi ek rasta chunte ho, doosra best rasta chhoot jata hai — usi chhoote hue raste ki value ko 'Opportunity Cost' kehte hain! Sunk cost (jo paisa pehle kharch ho gaya aur wapas nahi mil sakta) ko economics me bilkul ignore kiya jata hai.",
+        "hinglish_summary": "Economics ka basic funda simple hai: Insaan ki chahatein (wants) kabhi khatam nahi hoti, lekin resources (paisa, samay, zameen, raw material) bohot limited hain. Isliye hume har pal 'CHOICE' karni padti hai. Pehle samjho Micro vs Macro: Microeconomics me hum INDIVIDUAL level par padhte hain (ek customer ka decision, ek firm ka pricing, ek market ka demand-supply). Jabki Macroeconomics me poore DESH ka aggregate dekha jata hai (GDP, Inflation, National Unemployment, RBI repo rate, Fiscal deficit). Sunk cost (jo paisa pehle kharch ho gaya aur wapas nahi mil sakta) ko economics me bilkul ignore kiya jata hai!",
         "core_terms": [
+            {
+                "term": "Microeconomics vs Macroeconomics",
+                "hinglish": "Micro = Individual level (Ek household, ek firm, kisi ek cheez ki price aur demand-supply). Macro = Aggregate level (Desh ka GDP, Inflation, National Unemployment rate, RBI ki Monetary policy). Yaad rakhne ka trick: Micro me 'i' = Individual, Macro me 'a' = Aggregate!"
+            },
+            {
+                "term": "Positive vs Normative Economics",
+                "hinglish": "Positive Economics = Facts aur Science ('What is' — jo data se verify kiya ja sake, bina kisi emotion ke). Normative Economics = Value judgments aur Opinions ('What ought to be' — jaise 'Sarkar ko tax kam karna chahiye' ya 'Garibo ko free khana milna chahiye')."
+            },
+            {
+                "term": "Free Goods vs Economic Goods",
+                "hinglish": "Free Goods = Nature me unlimited hain, inki koi Opportunity Cost nahi hoti (Hawa, Dhoop). Economic Goods = Scarce hain, inko paane ke liye kuch aur chhodna padta hai aur inki positive opportunity cost aur price hoti hai."
+            },
             {
                 "term": "Scarcity (Kami)",
                 "hinglish": "Resources limited hain par human desires unlimited hain. Har problem ki jad yahi hai. Agar sab kuch free aur unlimited hota, toh economics ki zaroorat hi nahi hoti!"
             },
             {
                 "term": "Needs vs Wants vs Desires",
-                "hinglish": "Needs = Zinda rehne ke liye zaroori (Roti, Kapda, Makaan, Paani). Wants = Needs ko satisfy karne ki specific chahat (Pyaas bujhane ke liye Bisleri ya Coke). Desires = Khwahish jisko khareedne ki aukat (purchasing power) shayad na ho."
+                "hinglish": "Needs = Zinda rehne ke liye zaroori (Roti, Kapda, Makaan, Paani). Wants = Needs ko satisfy karne ki specific chahat (Pyaas bujhane ke liye Bisleri ya Coke). Desires = Khwahish jisko khareedne ki aukat (purchasing power) na ho."
             },
             {
                 "term": "Opportunity Cost (Chhoota Hua Mauka)",
@@ -32,6 +44,10 @@ CONCEPTS = {
             {
                 "term": "Rational Decision Making at Margin",
                 "hinglish": "Insaan tabhi koi naya kadam uthayega jab aane wala fayda (Marginal Benefit MB) aane wale kharche (Marginal Cost MC) se bada ya barabar ho (MB >= MC)."
+            },
+            {
+                "term": "Factors of Production & Factor Payments",
+                "hinglish": "Char cheezein production me lagti hain: 1) Land (badle me milta hai Rent), 2) Labor (badle me milta hai Wages), 3) Capital (badle me milta hai Interest), 4) Entrepreneurship (badle me milta hai Profit)."
             }
         ],
         "formulas": [
@@ -47,45 +63,55 @@ CONCEPTS = {
             }
         ],
         "key_exam_points": [
+            "Microeconomics focuses on individual decision-making units (a consumer, a firm, price of tea). Macroeconomics focuses on aggregates (GDP, Inflation).",
             "Economics paiso ki padhai nahi hai, balki SCARCE RESOURCES ko allocate karne ki science hai.",
+            "Free Goods have ZERO opportunity cost. Economic Goods have a POSITIVE opportunity cost.",
             "College ₹50 Lakh budget case: Student kehta hai 'yeh accounting problem hai kyunki paisa laga hai' — Galat! Yeh pure ECONOMICS problem hai kyunki competing alternatives me resource allocate karna hai.",
             "IPL Mega Auction ₹120 Crore cap: Franchise sabhi star players ko nahi khareed sakti kyunki financial capital SCARCE hai."
         ],
-        "traps": "Exam me trap aata hai Sunk cost par: Jaise Mumbai ki flight ticket ₹5,500 non-refundable thi aur IPL ticket free mili. Student ₹5,500 ko jod ya ghata dete hain. Yaad rakho: ₹5,500 sunk cost hai, decision me usko haath bhi nahi lagana!"
+        "traps": "Trap 1: Sunk cost par question aayega (Mumbai flight ₹5,500 non-refundable). Sunk cost ko future decision me ZERO maano! Trap 2: 'Inflation in India is 6%' is a Positive statement (fact), while 'Inflation should be below 4%' is a Normative statement (opinion)!"
     },
     2: {
         "week": 2,
-        "title": "Cost Concepts & Production Possibility Frontier (PPF)",
+        "title": "Cost Behavior, Production & PPF Mechanics",
         "tagline": "Kharcha kitne type ka hota hai aur Factory ki maximum limit (PPF) kya hai?",
         "mnemonic": "B - I - O - S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-        "hinglish_summary": "Iss hafte do main cheezein hain: 1) Production Cost (Fixed Cost jo bina production ke bhi lagega jaise rent, aur Variable Cost jo production badhne par badhega). 2) PPF (Production Possibility Frontier): Yeh ek graph hai jo dikhata hai ki fixed resources me company do goods (jaise Cars vs Trucks) maximum kitne bana sakti hai. PPF hamesha bahar ki taraf jhuka (concave/bowed-out) hota hai kyunki har resource dono cheezein banane me barabar expert nahi hota!",
+        "hinglish_summary": "Iss hafte do main cheezein hain: 1) Production Cost: Short-run me kam se kam ek factor fixed hota hai (jaise building). Isliye Fixed Cost (TFC) hamesha lagta hai, aur Variable Cost (TVC) units badhne par badhta hai. Explicit cost jeb se cash nikalna hota hai, jabki Implicit cost apna khud ka time ya capital lagane ki opportunity cost hoti hai! 2) PPF (Production Possibility Frontier): Yeh ek graph hai jo dikhata hai ki fixed resources me company do goods maximum kitne bana sakti hai. PPF concave (bowed-out) hota hai 'Law of Increasing Opportunity Cost' ki wajah se!",
         "core_terms": [
             {
-                "term": "Fixed Cost (TFC)",
-                "hinglish": "Chahe 0 unit banao ya 10,000 unit, yeh kharcha same rahega (Factory Rent, Permanent Manager Salary, Machinery Depreciation)."
-            },
-            {
-                "term": "Variable Cost (TVC)",
-                "hinglish": "Jitna zyada production, utna zyada kharcha (Raw material, packaging, hourly labour wages)."
+                "term": "Fixed Cost (TFC) vs Variable Cost (TVC)",
+                "hinglish": "TFC = Chahe factory band rahe, rent aur permanent manager salary lagegi. TVC = Production badhega toh raw material aur bijli ka kharcha badhega."
             },
             {
                 "term": "Marginal Cost (MC)",
-                "hinglish": "Sirf 1 extra unit banane me jeb se kitna extra paisa laga: MC = Change in TC / Change in Quantity. MC hamesha ATC aur AVC ke sabse neeche wale point (minimum) ko kaat-ti hai!"
+                "hinglish": "Sirf 1 extra unit banane me jeb se kitna extra paisa laga: MC = ΔTC / ΔQ. MC curve hamesha ATC aur AVC ke sabse lowest point (minimum) ko kaat-ti hai!"
+            },
+            {
+                "term": "Explicit vs Implicit Cost",
+                "hinglish": "Explicit Cost = Jeb se nikla actual cash (Rent, wages, raw material). Implicit Cost = Jo kamai chhod di (Maalik agar dukan na chala kar kahi naukri karta toh ₹50,000 kamata — yeh implicit cost hai)."
+            },
+            {
+                "term": "Accounting Profit vs Economic Profit",
+                "hinglish": "Accounting Profit = Revenue - Explicit Costs. Economic Profit = Revenue - Explicit Costs - Implicit Costs. Economic profit hamesha Accounting profit se CHHOTA ya barabar hota hai!"
+            },
+            {
+                "term": "Law of Diminishing Marginal Returns",
+                "hinglish": "Short-run me jab ek fixed machine par zyada se zyada workers lagate jaoge, toh shuru me output badhega, par ek point ke baad har naya worker pehle se KAM output dega (crowding ho jayegi)!"
             },
             {
                 "term": "PPF Curve Points",
-                "hinglish": "Curve ke UPAR (On curve) = Efficient (full capacity). Curve ke ANDAR (Inside) = Inefficient / Berozgari (resources waste ho rahe hain). Curve ke BAHAR (Outside) = Infeasible (aaj ki date me namumkin)."
+                "hinglish": "Curve ke UPAR (On curve) = Productively Efficient. Curve ke ANDAR (Inside) = Inefficient / Berozgari. Curve ke BAHAR (Outside) = Infeasible (aaj namumkin)."
             },
             {
-                "term": "MRT (Marginal Rate of Transformation)",
-                "hinglish": "PPF ka slope! Dikhata hai ki 1 extra unit Good X banane ke liye kitna Good Y chhodna padega: |ΔY / ΔX|."
+                "term": "MRT (Slope of PPF)",
+                "hinglish": "Marginal Rate of Transformation = |ΔY / ΔX|. Dikhata hai ki 1 unit Good X paane ke liye Good Y ke kitne units kurbaan karne padenge."
             }
         ],
         "formulas": [
             {
                 "name": "Total Cost Formula",
                 "formula": "TC = TFC + TVC  aur  ATC = TC / Q = AFC + AVC",
-                "how_to_use": "Agar Total Fixed Cost ₹1,00,000 hai aur 1,000 units banaye, toh AFC = ₹100. Jaise-jaise Quantity badhegi, AFC lagatar kam hoti jayegi (Spreading overheads)."
+                "how_to_use": "AFC = TFC / Q. Jaise-jaise Quantity badhegi, AFC lagatar kam hoti jayegi (Spreading overheads)."
             },
             {
                 "name": "Marginal Cost (MC)",
@@ -93,32 +119,33 @@ CONCEPTS = {
                 "how_to_use": "Dhyan do: MC nikalte waqt TFC ka koi role nahi hota kyunki TFC change nahi hota! Isliye MC sirf variable cost ke change se aati hai."
             },
             {
-                "name": "PPF Slope (MRT / Opportunity Cost)",
-                "formula": "Slope of PPF = |ΔY / ΔX| = (Sacrificed Quantity of Y) / (Gained Quantity of X)",
-                "how_to_use": "Agar 10 car se 8 car par aaye (loss = 2 car) aur trucks 0 se 5 ho gaye (gain = 5 truck), toh 1 truck ki opportunity cost = 2/5 = 0.4 cars."
+                "name": "Economic vs Accounting Profit",
+                "formula": "Accounting Profit = Revenue - Explicit Cost\nEconomic Profit = Accounting Profit - Implicit Cost",
+                "how_to_use": "Agar revenue ₹10L hai, explicit cost ₹6L hai, aur implicit cost ₹2L hai: Accounting Profit = ₹4L, Economic Profit = ₹2L."
+            },
+            {
+                "name": "PPF Slope (Opportunity Cost)",
+                "formula": "Slope of PPF = |ΔY / ΔX| = (Sacrificed Units of Y) / (Gained Units of X)",
+                "how_to_use": "Agar 10 car se 8 car par aaye (loss = 2) aur trucks 0 se 5 ho gaye (gain = 5), toh 1 truck ki opportunity cost = 2/5 = 0.4 cars."
             }
         ],
         "key_exam_points": [
             "PPF 'bowed-out' (concave) kyun hota hai? Answer: 'Law of Increasing Opportunity Cost' — resources are specialized.",
-            "Agar nayi technology aayi ya raw material badh gaya, toh PPF curve bahar (rightward shift) khisak jata hai.",
+            "Agar economy me recession ya berozgari hai, toh PPF shift nahi hota; economy PPF ke ANDAR kisi inefficient point par operate karti hai.",
             "Startup Data001 Case: 6 mahine ke liye client project lene par internal upgrade delay hui jisse ₹10K/month ki bachat ruk gayi. Opp cost = ₹10,000 × 6 = ₹60,000!"
         ],
-        "traps": "Examiner puchega: 'Agar economy recession me hai aur factories khali padi hain, toh PPF kidhar shift hoga?' Trap! PPF shift NAHI hoga! Hum PPF ke ANDAR wale kisi inefficient point par chale jayenge!"
+        "traps": "Examiner puchega: 'Can Economic Profit be greater than Accounting Profit?' Kabhi nahi! Economic profit hamesha chhota ya barabar hoga kyunki usme implicit cost bhi ghatayi jati hai."
     },
     3: {
         "week": 3,
         "title": "Basics of Business, Business Models & Goods Classification",
-        "tagline": "Dhandha kaise chalta hai: B2B vs B2C, aur Customer maal khareedne se pehle kaise dekhta hai?",
+        "tagline": "Dhandha kaise chalta hai: B2B vs B2C, Business Model Canvas, aur Goods classification!",
         "mnemonic": "S - E - C (Search=Seen before buying, Experience=Felt during/after, Credence=Trust even after consumption)",
-        "hinglish_summary": "Business do type ke hote hain: B2B (Business to Business — jaise Intel Dell ko chip beche) aur B2C (Business to Consumer — jaise Amazon hume joota beche). Goods teen categories me divide hote hain based on evaluation: Search Goods (jinko khareedne se pehle inspect kar sakte ho), Experience Goods (jo use karne ke baad samajh aate hain), aur Credence Goods (jo use karne ke baad bhi samajh nahi aate, sirf expert par bharosa karna padta hai jaise doctor ka operation ya chartered accountant ki audit).",
+        "hinglish_summary": "Business Model batata hai ki company paisa kaise banayegi (Value creation, delivery aur capture). B2B me customer company hoti hai (order size bada, lambi sales cycle, DMU decision team), jabki B2C me individual customer hota hai. Goods ko customer 3 tariko se judge karta hai: Search Goods (specs dekh kar pehle hi quality confirm), Experience Goods (khareed kar use karne ke baad pata chalta hai), aur Credence Goods (use karne ke baad bhi aam insaan judge nahi kar sakta, sirf brand trust par chalta hai).",
         "core_terms": [
             {
-                "term": "B2B (Business-to-Business)",
-                "hinglish": "End customer ek aur company hoti hai. Yahan order size bohot bada hota hai, sales cycle lambi hoti hai, aur decision emotion se nahi balki ROI aur logic se liya jata hai (Decision Making Unit DMU)."
-            },
-            {
-                "term": "B2C (Business-to-Consumer)",
-                "hinglish": "End customer aam insaan hota hai. Yahan purchase jaldi hoti hai, emotions, branding aur discounts ka bada asar hota hai."
+                "term": "B2B, B2C, C2C, B2G",
+                "hinglish": "B2B: Intel selling to Dell. B2C: Amazon selling to consumer. C2C: OLX / eBay peer-to-peer. B2G: Defense supplier selling to Government."
             },
             {
                 "term": "Search Goods (S)",
@@ -131,13 +158,30 @@ CONCEPTS = {
             {
                 "term": "Credence Goods (C)",
                 "hinglish": "Consume karne ke baad bhi aam insaan judge nahi kar sakta ki sahi hua ya galat (Car ka brake repair, Dil ki surgery, Legal case advice). Yahan sirf Brand aur Trust bikta hai!"
+            },
+            {
+                "term": "Business Model Canvas (9 Blocks)",
+                "hinglish": "1) Value Proposition, 2) Customer Segments, 3) Channels, 4) Customer Relationships, 5) Revenue Streams, 6) Key Resources, 7) Key Activities, 8) Key Partners, 9) Cost Structure."
+            },
+            {
+                "term": "Revenue Models",
+                "hinglish": "Subscription (Netflix), Freemium (Spotify), Marketplace Commission (Uber/Amazon), Pay-per-use (Cloud AWS), Licensing (Microsoft Windows)."
+            },
+            {
+                "term": "Unit Economics: CAC & CLV",
+                "hinglish": "CAC = Customer Acquisition Cost (ek naya customer lane ka marketing kharcha). CLV = Customer Lifetime Value (wo customer zindagibhar me kitna munafa dega). Healthy rule: CLV / CAC >= 3 hona chahiye!"
             }
         ],
         "formulas": [
             {
-                "name": "Customer Value Proposition",
-                "formula": "Customer Perceived Value = Total Perceived Benefits - Total Perceived Costs",
-                "how_to_use": "Customer tabhi khareedega jab Perceived Value > 0 ho."
+                "name": "Customer Perceived Value",
+                "formula": "Perceived Value = Total Perceived Benefits - Total Perceived Costs",
+                "how_to_use": "Customer tabhi purchase karega jab Perceived Value > 0 ho."
+            },
+            {
+                "name": "LTV to CAC Ratio",
+                "formula": "Ratio = Customer Lifetime Value (CLV) / Customer Acquisition Cost (CAC)",
+                "how_to_use": "Agar ratio < 1 hai toh company har naye customer par loss kar rahi hai!"
             }
         ],
         "key_exam_points": [
@@ -152,27 +196,31 @@ CONCEPTS = {
         "title": "Demand, Supply, Market Equilibrium & Elasticities",
         "tagline": "Price badhegi toh public kitna bhagegi? Elasticity ka poora khel!",
         "mnemonic": "P - E - R - K (Inelastic: Price aur Revenue SAME direction me chalte hain; Elastic: OPPOSITE direction)",
-        "hinglish_summary": "Law of Demand bolta hai: Price badhegi toh Demand ghategi (Inverse relationship). Law of Supply bolta hai: Price badhegi toh Supplier zyada bechna chahega (Direct relationship). Jahan dono milte hain, wo Market Equilibrium (P*, Q*) hota hai. Sabse zaroori concept hai Elasticity (Ep): Agar price 10% badhane par demand bohot zyada gir jaye toh usko Elastic kehte hain. Agar demand par zyada farq na pade (jaise namak ya life-saving medicines) toh usko Inelastic kehte hain!",
+        "hinglish_summary": "Law of Demand: Price badhegi toh Demand ghategi (Inverse). Law of Supply: Price badhegi toh Supply badhegi (Direct). Jahan dono intersect karte hain wo Equilibrium (P*, Q*) hota hai. Elasticity (Ep) batata hai ki price badalne par demand kitni tezi se jhatka khati hai. Inelastic goods (namak, life-saving medicines) me price badhaoge toh revenue badhega. Elastic goods (luxury, restaurant dining) me price badhaoge toh public bhag jayegi aur revenue gir jayega! Cross elasticity substitutes me positive hoti hai aur complements me negative hoti hai.",
         "core_terms": [
             {
-                "term": "Movement along Curve vs Shift of Curve",
-                "hinglish": "Agar usi product ki APNI PRICE badle, toh curve par sirf MOVEMENT hota hai. Agar income badle, fashion badle, ya substitutes ki price badle, toh poora curve SHIFT ho jata hai!"
+                "term": "Movement vs Shift",
+                "hinglish": "Apni price badli toh sirf MOVEMENT along curve hoga (Change in Quantity Demanded). Income, substitutes, fashion badla toh poora curve SHIFT ho jayega (Change in Demand)."
             },
             {
                 "term": "Price Elasticity of Demand (Ep)",
-                "hinglish": "Price badalne par demand kitne jhatke se badalti hai. |Ep| > 1 = Elastic (luxury goods). |Ep| < 1 = Inelastic (zaroori cheezein). |Ep| = 1 = Unitary Elastic."
+                "hinglish": "|Ep| > 1 = Elastic (Luxury). |Ep| < 1 = Inelastic (Necessities). |Ep| = 1 = Unitary Elastic (Total Revenue maximum hota hai!)."
             },
             {
                 "term": "Cross-Price Elasticity (Exy)",
-                "hinglish": "Y ki price badalne par X ki demand par kya asar hua: Agar Exy > 0 (Positive) hai toh dono SUBSTITUTES hain (Chai aur Coffee). Agar Exy < 0 (Negative) hai toh dono COMPLEMENTS hain (Car aur Petrol)."
+                "hinglish": "Exy > 0 (Positive) = Substitutes (Chai aur Coffee). Exy < 0 (Negative) = Complements (Car aur Petrol). Exy = 0 = Unrelated goods."
             },
             {
                 "term": "Income Elasticity (Ey)",
-                "hinglish": "Income badhne par demand ka reaction: Ey > 0 = Normal Good. Ey > 1 = Luxury Good. Ey < 0 = Inferior Good (saste chawal ya local bus jisko log ameer hone par chhod dete hain)."
+                "hinglish": "Ey > 0 = Normal Good (Ey > 1 Luxury, 0 < Ey <= 1 Necessity). Ey < 0 = Inferior Good (income badhne par log saste chawal ya local bus chhod dete hain)."
+            },
+            {
+                "term": "Consumer & Producer Surplus",
+                "hinglish": "Consumer Surplus = Jo price customer dene ko taiyar tha minus jo usne actual di (Willingness to pay - Price). Producer Surplus = Actual price received - Minimum supply cost."
             },
             {
                 "term": "Price Ceiling (Price Cap)",
-                "hinglish": "Sarkar ne equilibrium se NEECHE maximum rate fix kar diya. Iska result: Demand bohot badh jayegi, supply kam ho jayegi, aur dukaan par SHORTAGE aur lambi line lag jayegi!"
+                "hinglish": "Sarkar ne equilibrium se NEECHE maximum rate fix kar diya (jaise R-Goura's mess case). Result: Demand badhegi, supply ghategi, aur market me SHORTAGE aur lambi line lag jayegi!"
             }
         ],
         "formulas": [
@@ -192,30 +240,30 @@ CONCEPTS = {
             "Bumper crop (zyada kheti) hone par farmers ko nuksan kyun hota hai? Kyunki food grains ki demand inelastic hoti hai, supply badhne se price bohot zyada gir jati hai aur total revenue kam ho jata hai!",
             "R-Goura's Canteen Case (Quiz 1): Price cap lagane se natural equilibrium disturb hota hai aur SHORTAGE create hoti hai."
         ],
-        "traps": "Examiner puchega: 'Cross elasticity between Butter and Margarine is positive or negative?' Don't confuse! Butter aur Margarine substitutes hain, isliye positive (+ve) hoga!"
+        "traps": "Examiner puchega: 'Cross elasticity between Butter and Margarine is positive or negative?' Butter aur Margarine substitutes hain, isliye POSITIVE (+ve) hoga!"
     },
     5: {
         "week": 5,
         "title": "Introduction to Accounting & Asset Classification",
-        "tagline": "Accounts ki teen shaakhayein aur Asset pehchanne ka 12-Month Intent Rule!",
+        "tagline": "Accounts ki teen shaakhayein, 10 GAAP Rules, aur Real Estate Builder ka Asset Trap!",
         "mnemonic": "12-Month Operating Intent Rule: Bechne ke liye rakha hai = Inventory (Current Asset); Kaam chalane ke liye >1 saal = Fixed Asset",
-        "hinglish_summary": "Accounting 3 type ki hoti hai: 1) Financial Accounting (Peeche ka hisab, bahar walo ke liye, GAAP/IFRS rules mandatory). 2) Managerial Accounting (Aage ka plan, internal managers ke liye, budgets aur forecasts, koi strict format nahi). 3) Cost Accounting (Har unit ko banane ka kharcha nikalna). Sabse bada concept hai Assets ka classification: Current Assets wo hain jo 1 saal ke andar cash me convert ho jayenge (Cash, Debtors, Inventory). Non-current/Fixed Assets wo hain jo 1 saal se zyada operations me use honge (Plant, Land, Machinery).",
+        "hinglish_summary": "Accounting 3 type ki hoti hai: Financial (external, historical, GAAP mandatory), Managerial (internal managers ke liye, budgets, no strict format), aur Cost accounting. 10 fundamental GAAP principles har exam me aate hain: Business Entity, Money Measurement, Going Concern, Historical Cost, Matching, Revenue Recognition, Conservatism, Materiality, Dual Aspect, aur Periodicity. Sabse bada asset trap: Koi cheez asset hai ya inventory, yeh company ke BUSINESS INTENT par depend karta hai!",
         "core_terms": [
             {
-                "term": "Financial vs Managerial Accounting",
-                "hinglish": "Financial Accounting bahar ke logo ke liye hai (Bank, Tax officer, Shareholders) aur yeh HISTORICAL data batata hai. Managerial Accounting company ke internal boss ke liye hai future decisions lene ke liye."
+                "term": "The 10 Core GAAP Principles",
+                "hinglish": "1) Business Entity: Owner aur company alag hain. 2) Money Measurement: Sirf paiso wali cheezein likhi jayengi (employee morale nahi). 3) Going Concern: Company hamesha chalti rahegi. 4) Historical Cost: Asset khareedne wale original rate par likha jata hai. 5) Revenue Recognition: Maal deliver hone par revenue record hoti hai, cash aane par nahi! 6) Matching: Revenue kamane ke kharche usi saal record honge. 7) Conservatism (Prudence): Aane wale har nuksan ka provision banao, par munafa tab tak mat gino jab tak hath me na aaye! 8) Materiality: Chhoti-moti cheez (jaise ₹50 ka stapler) direct expense maano, asset nahi. 9) Dual Aspect: Har debit ka equal credit. 10) Periodicity: Har 1 saal ka hisab."
+            },
+            {
+                "term": "The Intent of Ownership Rule (The DLF Trap)",
+                "hinglish": "Ek manufacturing factory ke liye Building = FIXED ASSET (PP&E) hai. Lekin ek Real Estate Developer (jaise DLF ya Godrej Properties) ke liye wahi Buildings aur Apartments = INVENTORY (Current Asset) hain kyunki unhe bechne ke liye banaya hai!"
+            },
+            {
+                "term": "CapEx vs OpEx",
+                "hinglish": "CapEx (Capital Expenditure) = Nayi machine ya factory khareedna jo >1 saal fayda dega (Balance sheet me asset banta hai). OpEx (Operating Expenditure) = Bijli ka bill, salary, daily maintenance (P&L me expense banta hai)."
             },
             {
                 "term": "Current Assets vs Fixed Assets",
-                "hinglish": "Current = 12 mahine me cash ban jayega (Debtors, Inventory, Cash). Fixed = 1 saal se zyada lambi chalegi aur company usse bechne ke liye nahi, kaam chalane ke liye rakhti hai."
-            },
-            {
-                "term": "The Intent of Ownership Rule",
-                "hinglish": "Koi cheez asset hai ya inventory, yeh is baat par depend karta hai ki company ka BUSINESS kya hai! Ek manufacturing company ke liye Factory Building = Fixed Asset hai. Lekin ek Real Estate Builder (DLF) ke liye wahi Flats aur Buildings = INVENTORY (Current Asset) hain!"
-            },
-            {
-                "term": "Intangible Assets",
-                "hinglish": "Wo property jisko chhoo nahi sakte par bohot keemti hai (Patents, Trademarks, Software copyrights, Goodwill)."
+                "hinglish": "Current = 12 mahine ke andar cash ban jayega (Cash, Debtors, Inventory, Prepaid rent). Fixed = Long-term operations me kaam aayega."
             }
         ],
         "formulas": [
@@ -228,59 +276,63 @@ CONCEPTS = {
         "key_exam_points": [
             "Manager ko naye product development ke liye budget aur cost analysis chahiye — yeh data MANAGERIAL ACCOUNTING provide karegi.",
             "Real Estate firm ke liye buildings kya hain? Answer: INVENTORY (Current Asset).",
-            "Prepaid expenses (advance diya hua rent) Current Asset hota hai kyunki future me cash outflow bachega."
+            "A product delivered in October but paid in November: Revenue is recognized in OCTOBER (Revenue Recognition Principle)."
         ],
-        "traps": "Trap question: 'Is land always a fixed asset?' Nahi! Agar koi land developer plots bechne ke dhandhe me hai, toh uske liye land INVENTORY hogi!"
+        "traps": "Exam trap: 'An entrepreneur buys a ₹10,000 software license valid for 3 years. Is it an asset or expense?' It is an INTANGIBLE ASSET (CapEx) because benefit lasts for 3 years (> 12 months)!"
     },
     6: {
         "week": 6,
         "title": "Accounting Equation, Transactions & Income Statement",
         "tagline": "Assets = Liabilities + Equity ka balance aur Debit/Credit ka asan raaz!",
         "mnemonic": "A - L - O - E & DEAL (Debit: Drawings, Expenses, Assets) vs CLIP (Credit: Liabilities, Income, Capital)",
-        "hinglish_summary": "Duniya ka har transaction do jagah asar daalta hai (Double Entry System). Fundamental Equation hai: Assets = Liabilities + Owner's Equity. Agar Assets badhega, toh ya Liabilities badhegi ya Equity badhegi. Owner jab company se personal kharche ke liye paisa nikalta hai, usko 'DRAWINGS' kehte hain, aur yeh Equity ko kam karta hai. Income Statement me: Sales me se direct production cost (COGS) ghatao toh Gross Profit milta hai. Usme se office aur marketing ke kharche (OpEx) ghatao toh Operating Profit (EBIT) milta hai!",
+        "hinglish_summary": "Fundamental Equation hai: Assets = Liabilities + Owner's Equity. Har transaction do jagah asar daalta hai. Owner jab company se personal kharche ke liye paisa nikalta hai, usko 'DRAWINGS' kehte hain, aur yeh Equity ko kam karta hai. Inventory valuation me FIFO (First-In, First-Out: pehle aaya maal pehle bika) me inflation ke waqt ending inventory ki value zyada aati hai aur profit zyada dikhta hai. Depreciation ka Straight Line Method (SLM) har saal barabar kharcha kaatta hai!",
         "core_terms": [
             {
                 "term": "Fundamental Accounting Equation",
-                "hinglish": "Assets = Liabilities + Owner's Equity. Company ke paas jo kuch bhi hai (Assets), wo ya toh bahar walo se udhar liya hai (Liabilities) ya maalik ka apna hai (Equity)."
+                "hinglish": "Assets = Liabilities + Owner's Equity. Assets = Bahar walo se udhar (Liabilities) + Maalik ka apna paisa (Equity)."
             },
             {
-                "term": "Drawings (Maalik ka personal nikaas)",
-                "hinglish": "Business aur Maalik alag-alag hain (Separate Entity Concept). Maalik ne dukan ke galle se ghar ka rent bhara, toh yeh company ka expense nahi hai, yeh DRAWINGS hai jo Maalik ki Equity ko kam karega!"
+                "term": "Drawings (Personal Nikaas)",
+                "hinglish": "Maalik ne company ke account se apne ghar ka rent bhara — yeh company ka business expense nahi hai, yeh DRAWINGS hai jo Equity ko kam karega!"
             },
             {
-                "term": "Paying Accounts Payable with Cash",
-                "hinglish": "Suppliers ka udhar cash se chukaya: Cash (Asset) kam hua, aur Creditors/Payables (Liabilities) kam hui. Equation balance rahi!"
+                "term": "FIFO vs LIFO Inventory Valuation",
+                "hinglish": "FIFO (First-In, First-Out): Pehle khareeda hua sasta maal pehle becha $\implies$ COGS kam, Reported Profit zyada, Ending inventory mehenga dikhega. LIFO (Last-In, First-Out): Aakhri me khareeda mehenga maal pehle becha $\implies$ COGS zyada, Tax bachega!"
             },
             {
-                "term": "Gross Profit vs Operating Profit (EBIT)",
-                "hinglish": "Gross Profit = Sales - COGS (sirf maal banane ka munafa). Operating Profit (EBIT) = Gross Profit - Operating Expenses (Depreciation, Admin, Selling)."
+                "term": "Depreciation: SLM vs WDV",
+                "hinglish": "SLM (Straight Line): Har saal barabar depreciation kat-ta hai: (Cost - Salvage) / Life. WDV (Written Down Value): Shuru ke saalo me zyada depreciation kat-ta hai, baad me kam."
+            },
+            {
+                "term": "Gross Profit vs EBIT vs PAT",
+                "hinglish": "Revenue me se COGS ghatao = Gross Profit. Gross Profit me se OpEx ghatao = Operating Profit (EBIT). EBIT me se Interest ghatao = PBT. PBT me se Tax ghatao = Net Profit (PAT)!"
             }
         ],
         "formulas": [
             {
                 "name": "Accounting Equation",
-                "formula": "Assets = Liabilities + Owner's Equity (Capital + Retained Earnings - Drawings + Revenue - Expenses)",
+                "formula": "Assets = Liabilities + Equity (Capital + Retained Earnings - Drawings + Revenue - Expenses)",
                 "how_to_use": "Har transaction ke baad check karo: Left side (Assets) = Right side (Liabilities + Equity) hona hi chahiye."
             },
             {
-                "name": "P&L Ladder Steps",
-                "formula": "1. Gross Profit = Revenue - COGS\n2. Operating Profit (EBIT) = Gross Profit - Operating Expenses\n3. Profit Before Tax (PBT) = EBIT - Interest (Finance Cost)\n4. Net Profit (PAT) = PBT - Taxes",
-                "how_to_use": "XYZ Ltd case me: Revenue (40,000) - Materials (28,000) = Gross Profit. EBIT = 4,500. PBT = 4,500. Tax = 1,125. PAT = 3,375 Cr."
+                "name": "Straight Line Depreciation (SLM)",
+                "formula": "Annual Depreciation = (Original Cost - Salvage Value) / Useful Life in Years",
+                "how_to_use": "Cost = ₹21,000, Salvage = ₹1,000, Life = 5 years: Depreciation = (21,000 - 1,000) / 5 = ₹4,000 per year."
             }
         ],
         "key_exam_points": [
             "Subtracting Cost of Goods Sold (COGS) from Sales Revenue gives: GROSS PROFIT.",
-            "If company pays ₹3,000 to suppliers: Assets (Cash) decrease by ₹3,000 and Liabilities (Payables) decrease by ₹3,000.",
-            "Owner withdrawing cash for personal use reduces Equity and Cash."
+            "Paying off ₹3,000 accounts payable reduces Cash by ₹3,000 and reduces Payables by ₹3,000.",
+            "Owner withdrawing cash for personal use is debited to DRAWINGS account."
         ],
-        "traps": "Exam trap: 'Owner paid personal house rent from business bank account. Which account is debited?' Option me 'Rent Expense' diya hoga — log Rent Expense tick kar dete hain! Galat! Correct answer is DRAWINGS ACCOUNT!"
+        "traps": "Exam trap: 'Owner paid personal house rent from business bank account. Which account is debited?' Option me Rent Expense diya hota hai — DO NOT tick Rent Expense! Correct answer is DRAWINGS ACCOUNT!"
     },
     7: {
         "week": 7,
         "title": "Financial Ratios, Solvency & Cash Flow Classification",
         "tagline": "Company kitni tazi se karz chukayegi aur Cash kahan se aa raha hai (O-I-F)?",
         "mnemonic": "O - I - F (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Shares, Dividends)",
-        "hinglish_summary": "Do type ke risk hote hain: Short-term risk (Liquidity — kya agle mahine ka bill chuka paoge?) aur Long-term risk (Solvency — kya 5 saal baad karz doob toh nahi jayega?). Current Ratio aur Quick Ratio liquidity napte hain. Debt-to-Equity solvency napta hai (agar D/E 4:1 hai toh matlab company bohot zyada udhaar me doobi hai). Sabse dangerous baat: Ek company paper par bohot bhaari Profit dikha sakti hai, lekin agar customer ne cash nahi diya toh company ke paas bijli ka bill bharne ke paise nahi honge aur company diwaliya ho sakti hai! Cash flow statement ke 3 hisse hote hain: Operating, Investing, Financing.",
+        "hinglish_summary": "Do type ke risk hote hain: Short-term risk (Liquidity — Current Ratio aur Quick Ratio) aur Long-term risk (Solvency — Debt-to-Equity aur Interest Coverage Ratio ICR). Debt-Equity 4:1 ka matlab company bohot zyada karz me doobi hai. Profitability aur Liquidity me zameen-aasmaan ka farq hai: Company paper par bohot bhaari Profit dikha sakti hai, lekin agar cash hath me nahi hai toh bijli ka bill na bhar pane se diwaliya (bankrupt) ho sakti hai! Cash flow ke 3 hisse hote hain: Operating, Investing, Financing.",
         "core_terms": [
             {
                 "term": "Current Ratio vs Quick Ratio",
@@ -291,8 +343,8 @@ CONCEPTS = {
                 "hinglish": "Total Debt / Shareholders' Equity. Agar D/E = 4:1 hai, iska matlab maalik ke ₹1 ke badle company ne market se ₹4 ka karz le rakha hai — high risk of bankruptcy!"
             },
             {
-                "term": "Profitability vs Liquidity Trap",
-                "hinglish": "Profit accrual basis par banta hai (bill ban gaya toh revenue maan liya). Cash flow actual aane-jaane par banta hai. Isliye high profit hone par bhi company cash ki kami se band ho sakti hai!"
+                "term": "Interest Coverage Ratio (ICR)",
+                "hinglish": "ICR = EBIT / Interest Expense. Dikhata hai ki company apne munafay se kitni baar karz ka byaj (interest) chuka sakti hai. ICR < 1.5 hone par bank loan dene se mana kar dete hain."
             },
             {
                 "term": "Cash Flow Activities (O-I-F)",
@@ -301,19 +353,19 @@ CONCEPTS = {
         ],
         "formulas": [
             {
-                "name": "Current Ratio",
-                "formula": "Current Ratio = Current Assets / Current Liabilities",
-                "how_to_use": "Agar CA = ₹24,000 Cr aur CL = ₹15,000 Cr, toh CR = 24,000 / 15,000 = 1.60."
+                "name": "Current Ratio & Quick Ratio",
+                "formula": "CR = CA / CL  |  Quick Ratio = (CA - Inventory - Prepaid) / CL",
+                "how_to_use": "Agar CA = 24,000, CL = 15,000, Inv = 3,500: CR = 24,000/15,000 = 1.60 | QR = (24,000 - 3,500)/15,000 = 1.37."
             },
             {
-                "name": "Quick Ratio (Acid-Test)",
-                "formula": "Quick Ratio = (Current Assets - Inventory - Prepaid Expenses) / Current Liabilities",
-                "how_to_use": "Agar CA = 24,000 aur Inventory = 3,500, toh Quick Assets = 20,500. QR = 20,500 / 15,000 = 1.37."
+                "name": "Interest Coverage Ratio (ICR)",
+                "formula": "ICR = Operating Profit (EBIT) / Finance Costs (Interest)",
+                "how_to_use": "XYZ Ltd case me: EBIT = 4,500 Cr, Interest = 200 Cr. ICR = 4,500 / 200 = 22.5 times!"
             },
             {
-                "name": "Debt-to-Equity Ratio",
-                "formula": "Debt-to-Equity = Total Debt / Shareholders' Equity",
-                "how_to_use": "XYZ Ltd case me: Debt = 2,500 Cr, Equity = 12,500 Cr. D/E = 2,500 / 12,500 = 0.20."
+                "name": "Working Capital",
+                "formula": "Net Working Capital = Current Assets - Current Liabilities",
+                "how_to_use": "Agar NWC positive hai toh short-term liquidity acchi hai."
             }
         ],
         "key_exam_points": [
@@ -399,37 +451,55 @@ CONCEPTS = {
     },
     9: {
         "week": 9,
-        "title": "Management Accounting & Responsibility Centers",
-        "tagline": "Company ke alag-alag departments ke managers ko kaise napte hain (C-R-P-I)?",
+        "title": "Management Accounting, CVP & Responsibility Centers",
+        "tagline": "Company ke departments ka evaluation (C-R-P-I) aur Break-Even Point ka formula!",
         "mnemonic": "C - R - P - I (Cost -> Revenue -> Profit -> Investment Centers)",
-        "hinglish_summary": "Badi companies me sab kuch ek hi boss nahi sambhal sakta, isliye departments ko 'Responsibility Centers' me baant diya jata hai: 1) Cost Center: Manager ka kaam sirf kharcha kam karna hai (jaise IT Support ya Factory Assembly). 2) Revenue Center: Manager ka kaam sirf sales badhana hai (Regional Sales Manager). 3) Profit Center: Manager kharche aur sales dono ke liye zimmedar hai (ek poora retail store ya product division). 4) Investment Center: Manager na sirf profit balki lagaye gaye capital par return (ROI / EVA) ke liye bhi accountable hai (Subsidiary CEO)!",
+        "hinglish_summary": "Badi companies me departments ko 'Responsibility Centers' me baant diya jata hai: Cost Center (kharcha kam karna), Revenue Center (sales badhana), Profit Center (munafa dikhana), aur Investment Center (capital par return ROI/EVA nikalna). Iske alawa Cost-Volume-Profit (CVP) analysis batata hai ki kitne units bechne par 'No Profit No Loss' hoga (Break-Even Point BEP). Break-even ke upar ki har sale par company 'Margin of Safety' me hoti hai!",
         "core_terms": [
             {
                 "term": "Cost Center (Expense Center)",
-                "hinglish": "Yahan koi direct sale nahi hoti. Manager ki performance check hoti hai ki usne budget ke andar reh kar kaam kiya ya nahi (Maintenance, Legal, HR, IT helpdesk)."
+                "hinglish": "Manager ki performance check hoti hai ki usne budget ke andar reh kar kaam kiya ya nahi (Maintenance, Legal, HR, IT helpdesk)."
             },
             {
                 "term": "Revenue Center",
-                "hinglish": "Manager sirf revenue target achieve karne ke liye responsible hai, production cost par uska control nahi hota (Sales team)."
+                "hinglish": "Manager sirf revenue target achieve karne ke liye responsible hai (Regional sales team)."
             },
             {
                 "term": "Profit Center",
-                "hinglish": "Manager ke paas pricing, marketing aur cost teeno ka control hota hai, aur uski performance 'Profit = Revenue - Cost' se napti hai (Jaise McDonald's ka ek individual franchise outlet)."
+                "hinglish": "Manager ke paas pricing aur cost dono ka control hota hai (McDonald's ka individual franchise restaurant)."
             },
             {
                 "term": "Investment Center",
-                "hinglish": "Highest level responsibility! Manager capital asset khareedne ya bechne ka faisla le sakta hai. Performance metric: Return on Investment (ROI) ya Economic Value Added (EVA)."
+                "hinglish": "Manager capital asset lagane/bechne ka faisla le sakta hai. Performance metric: Return on Investment (ROI) ya Economic Value Added (EVA)."
             },
             {
-                "term": "Limitations of Financial Accounting",
-                "hinglish": "Financial accounts sirf poori company ka consolidated past data dikhata hai. Yeh yeh nahi batata ki kaunsa specific product loss me chal raha hai ya kis department me inefficiency hai — iske liye MANAGEMENT ACCOUNTING chahiye!"
+                "term": "Contribution Margin & P/V Ratio",
+                "hinglish": "Contribution = Selling Price - Variable Cost per unit. P/V Ratio (Profit-Volume) = (Contribution / Sales) × 100."
+            },
+            {
+                "term": "Break-Even Point (BEP)",
+                "hinglish": "Wo point jahan Total Revenue = Total Cost hota hai (Zero Profit, Zero Loss). BEP ke baad banne wala har unit seedhe profit deta hai!"
+            },
+            {
+                "term": "Margin of Safety (MoS)",
+                "hinglish": "Actual Sales minus Break-Even Sales. Yeh dikhata hai ki kitni sale girne par bhi company loss me nahi jayegi."
             }
         ],
         "formulas": [
             {
+                "name": "Break-Even Point (in Units)",
+                "formula": "BEP (Units) = Total Fixed Cost / (Selling Price - Variable Cost per unit) = TFC / Contribution per unit",
+                "how_to_use": "Agar Fixed Cost ₹1,00,000 hai, Price ₹50 hai, VC ₹30 hai: Contribution = 20. BEP = 1,00,000 / 20 = 5,000 units."
+            },
+            {
+                "name": "Break-Even Point (in ₹ Value)",
+                "formula": "BEP (Value) = Total Fixed Cost / P/V Ratio",
+                "how_to_use": "P/V Ratio = 20/50 = 40%. BEP (Value) = 1,00,000 / 0.40 = ₹2,50,000."
+            },
+            {
                 "name": "Return on Investment (ROI)",
                 "formula": "ROI = Net Operating Income / Average Operating Assets",
-                "how_to_use": "Investment Center managers ko evaluate karne ke liye sabse common formula."
+                "how_to_use": "Investment Center managers ko evaluate karne ka primary formula."
             }
         ],
         "key_exam_points": [
@@ -444,7 +514,7 @@ CONCEPTS = {
         "title": "Personal Selling, Sales Process & Prospecting Funnel",
         "tagline": "Maal bechne ke 7 chronological kadam — Lead dhoondhne se lekar Deal close karne tak!",
         "mnemonic": "P - P - A - P - H - C - F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-        "hinglish_summary": "B2B Sales me koi tukka nahi chalta, ek scientific 7-step process hoti hai: 1) Prospecting: Potential customer (lead) dhoondhna aur check karna ki kya uske paas M-A-N (Money, Authority, Need) hai. 2) Pre-approach: Meeting se pehle customer ke baare me homework aur research karna. 3) Approach: Pehli meeting me accha impression banana aur rapport create karna (PSP technique). 4) Presentation: FAB framework (Features, Advantages, Benefits) se samjhana ki humara product unki problem kaise solve karega. 5) Handling Objections: Customer ke shaq aur doubts ko door karna. 6) Closing: Order sign karwana. 7) Follow-up: Delivery ensure karna aur long-term relation banana.",
+        "hinglish_summary": "B2B Sales me koi tukka nahi chalta, ek scientific 7-step process hoti hai: 1) Prospecting: Potential customer (lead) dhoondhna aur check karna ki kya uske paas M-A-N (Money, Authority, Need) hai. 2) Pre-approach: Meeting se pehle customer ke baare me homework aur research karna. 3) Approach: Pehli meeting me accha impression banana aur rapport create karna (PSP technique). 4) Presentation: FAB framework (Features, Advantages, Benefits) aur SPIN Model se pitch karna. 5) Handling Objections: Customer ke shaq aur doubts ko door karna. 6) Closing: Order sign karwana. 7) Follow-up: Delivery ensure karna aur long-term relation banana.",
         "core_terms": [
             {
                 "term": "1. Prospecting & Qualifying (MAN Rule)",
@@ -461,6 +531,10 @@ CONCEPTS = {
             {
                 "term": "4. Presentation & FAB Analysis",
                 "hinglish": "F = Feature (product me kya hai: 128GB storage), A = Advantage (yeh kya karta hai: bohot saari videos save kar sakta hai), B = Benefit (customer ko kya fayda: tumhe travel karte waqt internet ki zaroorat nahi padegi!). Customer hamesha BENEFITS khareedta hai!"
+            },
+            {
+                "term": "SPIN Selling Model",
+                "hinglish": "S = Situation questions (current halat), P = Problem questions (dikkat kahan aa rahi hai), I = Implication questions (agar theek nahi kiya toh kitna nuksan hoga), N = Need-payoff questions (agar hum solve kar dein toh kitna munafa hoga)."
             },
             {
                 "term": "5. Handling Objections",
@@ -488,7 +562,7 @@ CONCEPTS = {
     12: {
         "week": 12,
         "title": "Services Marketing, Service Quality & Service Recovery",
-        "tagline": "Service bechna physical product se alag kyun hai? Aur galti hone par customer ko double khush kaise karein?",
+        "tagline": "Service bechna physical product se alag kyun hai? 5 Gaps Model aur Service Recovery Paradox!",
         "mnemonic": "R - A - T - E - R (SERVQUAL) & I - H - I - P (Service Characteristics)",
         "hinglish_summary": "Services physical goods se bilkul alag hoti hain (IHIP): Intangible (chhoo nahi sakte), Heterogeneous (har baar deliver karne wale ke hisab se quality thodi alag ho sakti hai), Inseparable (production aur consumption ek sath hota hai jaise haircut ya doctor checkup), aur Perishable (khali bachi plane ki seat ya hotel room ko kal ke liye store nahi kar sakte). Service quality napne ke liye SERVQUAL ke 5 dimensions hote hain: RATER (Reliability, Assurance, Tangibles, Empathy, Responsiveness). Sabse mazedaar concept hai 'Service Recovery Paradox': Agar service me galti ho jaye aur company turant sorry bolkar zabardast solution de de, toh wo customer us customer se bhi zyada loyal ban jata hai jiske sath kabhi koi dikkat hi nahi aayi thi!",
         "core_terms": [
@@ -503,6 +577,10 @@ CONCEPTS = {
             {
                 "term": "RATER (SERVQUAL Dimensions)",
                 "hinglish": "R = Reliability (jo promise kiya wo deliver kiya), A = Assurance (employees ka gyaan aur trust), T = Tangibles (cleanliness, equipment, uniform), E = Empathy (personal dhyan dena), R = Responsiveness (jaldi reply aur prompt service)."
+            },
+            {
+                "term": "The 5 Gaps Model of Service Quality",
+                "hinglish": "Gap 1: Management ko pata hi nahi customer kya chahta hai. Gap 2: Management ko pata hai par quality standard galat banaya. Gap 3: Employees standard deliver nahi kar paye. Gap 4: Advertisement me jo bola delivery me wo nahi mila. Gap 5: Customer Expectation aur Actual Experience ka final gap!"
             },
             {
                 "term": "Service Recovery Paradox",
@@ -535,4 +613,4 @@ js_content = "window.BDM_CONCEPTS = " + json.dumps(CONCEPTS, ensure_ascii=False,
 with open(r'd:\ai codings\bdm html\concepts_data.js', 'w', encoding='utf-8') as f:
     f.write(js_content)
 
-print(f"Successfully generated concepts_data.js ({len(js_content)} bytes, {len(CONCEPTS)} weeks)")
+print(f"Successfully updated concepts_data.js ({len(js_content)} bytes, {len(CONCEPTS)} weeks enriched)")

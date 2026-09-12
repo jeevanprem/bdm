@@ -191,7 +191,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option B: The situation is primarily about choosing how scarce resources should be allocated among competing alternatives.",
+        "correct_label": "B",
+        "correct_text": "The situation is primarily about choosing how scarce resources should be allocated among competing alternatives.",
+        "core_reason": "Economics is fundamentally the study of allocating scarce resources among competing, unlimited alternatives (CS AI lab vs Sports vs Library vs Hostel).",
+        "calculation": null,
+        "distractor_trap": "Do not think this is an accounting problem just because money is mentioned. Accounting records past cash flows, whereas economics decides optimal allocation of scarce resources.",
+        "hinglish_shortcut": "Rule: Jab bhi budget limited ho aur maangne wale departments multiple hon, decision hamesha SCARCITY & RESOURCE ALLOCATION (Economics) ka hota hai!"
+      }
     },
     {
       "id": "GA1_Q2",
@@ -225,7 +234,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option B: Scarcity",
+        "correct_label": "B",
+        "correct_text": "Scarcity",
+        "core_reason": "A fixed salary cap (₹120 Cr) limits financial capital, preventing franchises from buying all available superstar players. This is the definition of Scarcity.",
+        "calculation": null,
+        "distractor_trap": "Do not confuse scarcity with inflation or macroeconomics. It is a microeconomic budget constraint.",
+        "hinglish_shortcut": "Rule: Fixed budget ceiling = Scarcity constraint."
+      }
     },
     {
       "id": "GA1_Q3",
@@ -259,7 +277,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option D: Macroeconomics",
+        "correct_label": "D",
+        "correct_text": "Macroeconomics",
+        "core_reason": "The correct answer is D. Conceptually: Macroeconomics.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA1_Q4",
@@ -293,7 +320,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option C: Microeconomics",
+        "correct_label": "C",
+        "correct_text": "Microeconomics",
+        "core_reason": "The correct answer is C. Conceptually: Microeconomics.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA1_Q5",
@@ -327,7 +363,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option A: Country X is a Capitalist Economy, while Country Y exhibits characteristics of a Mixed Economy.",
+        "correct_label": "A",
+        "correct_text": "Country X is a Capitalist Economy, while Country Y exhibits characteristics of a Mixed Economy.",
+        "core_reason": "The correct answer is A. Conceptually: Country X is a Capitalist Economy, while Country Y exhibits characteristics of a Mixed Economy..",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA1_Q6",
@@ -361,7 +406,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option B: Sunk cost",
+        "correct_label": "B",
+        "correct_text": "Sunk cost",
+        "core_reason": "The correct answer is B. Conceptually: Sunk cost.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA1_Q7",
@@ -395,7 +449,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option C: 160 vehicles",
+        "correct_label": "C",
+        "correct_text": "160 vehicles",
+        "core_reason": "The correct answer is C. Conceptually: 160 vehicles.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA1_Q8",
@@ -429,7 +492,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-O-U-P (Scarcity, Opportunity cost, Unlimited wants, Prioritization)",
-      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0"
+      "formula": "Net Marginal Benefit = Marginal Benefit (MB) - Marginal Cost (MC) >= 0",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹95,000",
+        "correct_label": "B",
+        "correct_text": "₹95,000",
+        "core_reason": "The correct answer is B. Conceptually: ₹95,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA2_Q1",
@@ -463,7 +535,16 @@
       ],
       "feedback": "₹5500/- is the sunk cost can’t be recovered. So effective trade-off cost will be what is the alternative effective value you can lose i.e ₹10,000/-",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹10000",
+        "correct_label": "C",
+        "correct_text": "₹10000",
+        "core_reason": "The ₹5,500 flight ticket is a Sunk Cost (already spent and non-refundable). The true trade-off is the forgone enjoyment of the Mumbai trip, which is worth ₹10,000.",
+        "calculation": "Sunk Cost = ₹5,500 (Ignore) | Opportunity Cost = ₹10,000 (Mumbai value lost) | Rule: IPL Benefit >= ₹10,000",
+        "distractor_trap": "Never add or subtract the ₹5,500 ticket. Sunk costs are completely irrelevant for forward-looking rational decisions.",
+        "hinglish_shortcut": "Rule: Sunk cost dooba hua paisa hai — future decision me usko ZERO maano! Decision strictly Opportunity Cost (₹10,000) par hoga."
+      }
     },
     {
       "id": "GA2_Q2",
@@ -497,7 +578,16 @@
       ],
       "feedback": "Because the firm is on the PPF boundary, resources are fully deployed; shifting resources to one product inherently requires reducing the output of the other.",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option C: The value or quantity of Autonomous Drone Software updates that are sacrificed.",
+        "correct_label": "C",
+        "correct_text": "The value or quantity of Autonomous Drone Software updates that are sacrificed.",
+        "core_reason": "The correct answer is C. Conceptually: The value or quantity of Autonomous Drone Software updates that are sacrificed.. Because the firm is on the PPF boundary, resources are fully deployed; shifting resources to one product inherently requires reducing the output of the other.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA2_Q3",
@@ -531,7 +621,16 @@
       ],
       "feedback": "Average Fixed Cost is calculated as TFC/Q. As scale (Q) grows larger against a constant numerator, the per-unit fixed cost drops continuously",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option A: The Average Fixed Cost (AFC) per subscriber will continuously decline toward zero.",
+        "correct_label": "A",
+        "correct_text": "The Average Fixed Cost (AFC) per subscriber will continuously decline toward zero.",
+        "core_reason": "The correct answer is A. Conceptually: The Average Fixed Cost (AFC) per subscriber will continuously decline toward zero.. Average Fixed Cost is calculated as TFC/Q. As scale (Q) grows larger against a constant numerator, the per-unit fixed cost drops continuously",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA2_Q4",
@@ -565,7 +664,16 @@
       ],
       "feedback": "When the incremental cost of the next unit produced which is marginal cost ---- reduced in this case. Coming down from 1500 to 800. Due to this pulls the current average (ATC) and the overall running average decline. 10, 001st",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option A: The ATC will decrease.",
+        "correct_label": "A",
+        "correct_text": "The ATC will decrease.",
+        "core_reason": "The correct answer is A. Conceptually: The ATC will decrease.. When the incremental cost of the next unit produced which is marginal cost ---- reduced in this case. Coming down from 1500 to 800. Due to this pulls the current average (ATC) and the overall running average decline. 10, 001st",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA2_Q5",
@@ -599,7 +707,16 @@
       ],
       "feedback": "According to the Production Possibility Frontier (PPF), a trade-off exists between the two items: reducing the production of Coffee allows for an increase in Tea production, and vice versa. For Ramu to achieve operating efficiency, he must produce at a point directly on the PPF curve.",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option D: It will decrease because resources must be shifted from tea to coffee production.",
+        "correct_label": "D",
+        "correct_text": "It will decrease because resources must be shifted from tea to coffee production.",
+        "core_reason": "The correct answer is D. Conceptually: It will decrease because resources must be shifted from tea to coffee production.. According to the Production Possibility Frontier (PPF), a trade-off exists between the two items: reducing the production of Coffee allows for an increase in Tea production, and vice versa. For Ramu to achieve operating efficiency, he must produce at a point directly on the PPF curve.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA2_Q6",
@@ -633,7 +750,16 @@
       ],
       "feedback": "Average Fixed Cost is calculated as Total Fixed Cost divided by output (AFC=TFC/Q). Halving the quantity doubles the resulting value.",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option A: The AFC per cup doubled because the same total rent is now spread over half as many units.",
+        "correct_label": "A",
+        "correct_text": "The AFC per cup doubled because the same total rent is now spread over half as many units.",
+        "core_reason": "The correct answer is A. Conceptually: The AFC per cup doubled because the same total rent is now spread over half as many units.. Average Fixed Cost is calculated as Total Fixed Cost divided by output (AFC=TFC/Q). Halving the quantity doubles the resulting value.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA2_Q7",
@@ -667,7 +793,16 @@
       ],
       "feedback": "Total Variable Cost is TC−FC=15000−8000=7000. Dividing this by 200 cups gives 7000/200=35.",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option D: ₹35/ cup",
+        "correct_label": "D",
+        "correct_text": "₹35/ cup",
+        "core_reason": "The correct answer is D. Conceptually: ₹35/ cup. Total Variable Cost is TC−FC=15000−8000=7000. Dividing this by 200 cups gives 7000/200=35.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA2_Q8",
@@ -701,7 +836,16 @@
       ],
       "feedback": "The operational cost savings they would have secured by completing the internal software upgrade.",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option C: The operational cost savings they would have secured by completing the internal software upgrade.",
+        "correct_label": "C",
+        "correct_text": "The operational cost savings they would have secured by completing the internal software upgrade.",
+        "core_reason": "Choosing Option A delays the internal upgrade by 6 months, directly forfeiting the monthly operational cost savings of ₹10,000 per month.",
+        "calculation": "Opportunity Cost = Monthly Savings Foregone × 6 Months = ₹10,000 × 6 = ₹60,000 (₹60K)",
+        "distractor_trap": "Do not pick the ₹1.5 Lakh vendor penalty. The penalty is an explicit accounting cost of choosing Option A, whereas Opportunity Cost is the forgone benefit of Option B.",
+        "hinglish_shortcut": "Rule: Opportunity cost = Chhoote hue option ka fayda (₹10K × 6 = ₹60K)."
+      }
     },
     {
       "id": "GA2_Q9",
@@ -735,7 +879,16 @@
       ],
       "feedback": "",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹60K",
+        "correct_label": "C",
+        "correct_text": "₹60K",
+        "core_reason": "Choosing Option A delays the internal upgrade by 6 months, directly forfeiting the monthly operational cost savings of ₹10,000 per month.",
+        "calculation": "Opportunity Cost = Monthly Savings Foregone × 6 Months = ₹10,000 × 6 = ₹60,000 (₹60K)",
+        "distractor_trap": "Do not pick the ₹1.5 Lakh vendor penalty. The penalty is an explicit accounting cost of choosing Option A, whereas Opportunity Cost is the forgone benefit of Option B.",
+        "hinglish_shortcut": "Rule: Opportunity cost = Chhoote hue option ka fayda (₹10K × 6 = ₹60K)."
+      }
     },
     {
       "id": "GA2_Q10",
@@ -769,7 +922,16 @@
       ],
       "feedback": "",
       "mnemonic": "B-I-O-S (Bowed-out=Increasing Opp Cost, Inside=Inefficient, On=Optimal, Shift=Growth)",
-      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|"
+      "formula": "TC = TFC + TVC; MC = ΔTC/ΔQ; PPF Slope = MRT = |ΔY / ΔX|",
+      "ai_solution": {
+        "direct_answer": "Option D: ₹2.10 Lakh",
+        "correct_label": "D",
+        "correct_text": "₹2.10 Lakh",
+        "core_reason": "Choosing Option A delays the internal upgrade by 6 months, directly forfeiting the monthly operational cost savings of ₹10,000 per month.",
+        "calculation": "Opportunity Cost = Monthly Savings Foregone × 6 Months = ₹10,000 × 6 = ₹60,000 (₹60K)",
+        "distractor_trap": "Do not pick the ₹1.5 Lakh vendor penalty. The penalty is an explicit accounting cost of choosing Option A, whereas Opportunity Cost is the forgone benefit of Option B.",
+        "hinglish_shortcut": "Rule: Opportunity cost = Chhoote hue option ka fayda (₹10K × 6 = ₹60K)."
+      }
     },
     {
       "id": "GA3_Q1",
@@ -803,7 +965,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: Business",
+        "correct_label": "B",
+        "correct_text": "Business",
+        "core_reason": "The correct answer is B. Conceptually: Business.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q2",
@@ -837,7 +1008,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: Straight rebuy",
+        "correct_label": "B",
+        "correct_text": "Straight rebuy",
+        "core_reason": "The correct answer is B. Conceptually: Straight rebuy.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q3",
@@ -871,7 +1051,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option D: A and B only E. B and C only F. A and C only",
+        "correct_label": "D",
+        "correct_text": "A and B only E. B and C only F. A and C only",
+        "core_reason": "The correct answer is D. Conceptually: A and B only E. B and C only F. A and C only.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA3_Q4",
@@ -905,7 +1094,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option D: None of the above",
+        "correct_label": "D",
+        "correct_text": "None of the above",
+        "core_reason": "The correct answer is D. Conceptually: None of the above.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA3_Q5",
@@ -939,7 +1137,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: B2B only",
+        "correct_label": "B",
+        "correct_text": "B2B only",
+        "core_reason": "The correct answer is B. Conceptually: B2B only.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q6",
@@ -973,7 +1180,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option C: Services",
+        "correct_label": "C",
+        "correct_text": "Services",
+        "core_reason": "The correct answer is C. Conceptually: Services.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA3_Q7",
@@ -1007,7 +1223,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option A: B2C only",
+        "correct_label": "A",
+        "correct_text": "B2C only",
+        "core_reason": "The correct answer is A. Conceptually: B2C only.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA3_Q8",
@@ -1041,7 +1266,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: New task situation",
+        "correct_label": "B",
+        "correct_text": "New task situation",
+        "core_reason": "The correct answer is B. Conceptually: New task situation.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q9",
@@ -1075,7 +1309,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option C: Price inelastic but conditional",
+        "correct_label": "C",
+        "correct_text": "Price inelastic but conditional",
+        "core_reason": "The correct answer is C. Conceptually: Price inelastic but conditional.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA3_Q10",
@@ -1109,7 +1352,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: B2B due to higher purchase value",
+        "correct_label": "B",
+        "correct_text": "B2B due to higher purchase value",
+        "core_reason": "The correct answer is B. Conceptually: B2B due to higher purchase value.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q11",
@@ -1143,7 +1395,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: RFQ",
+        "correct_label": "B",
+        "correct_text": "RFQ",
+        "core_reason": "The correct answer is B. Conceptually: RFQ.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA3_Q12",
@@ -1177,7 +1438,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option C: Both a and d",
+        "correct_label": "C",
+        "correct_text": "Both a and d",
+        "core_reason": "The correct answer is C. Conceptually: Both a and d.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA3_Q13",
@@ -1211,7 +1481,16 @@
       ],
       "feedback": "",
       "mnemonic": "S-E-C (Search=Seen before buying, Experience=Felt after consumption, Credence=Trust even after consumption)",
-      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs"
+      "formula": "Customer Value = Total Perceived Benefits - Total Perceived Costs",
+      "ai_solution": {
+        "direct_answer": "Option B: 3.9",
+        "correct_label": "B",
+        "correct_text": "3.9",
+        "core_reason": "The correct answer is B. Conceptually: 3.9.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q1",
@@ -1245,7 +1524,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: Willing and able to buy at different prices during a given period of time",
+        "correct_label": "B",
+        "correct_text": "Willing and able to buy at different prices during a given period of time",
+        "core_reason": "The correct answer is B. Conceptually: Willing and able to buy at different prices during a given period of time.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q2",
@@ -1279,7 +1567,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option C: Quantity demanded decreases",
+        "correct_label": "C",
+        "correct_text": "Quantity demanded decreases",
+        "core_reason": "The correct answer is C. Conceptually: Quantity demanded decreases.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA4_Q3",
@@ -1313,7 +1610,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option C: The quantity supplied also rises",
+        "correct_label": "C",
+        "correct_text": "The quantity supplied also rises",
+        "core_reason": "The correct answer is C. Conceptually: The quantity supplied also rises.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA4_Q4",
@@ -1347,7 +1653,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option C: Downward sloping curve",
+        "correct_label": "C",
+        "correct_text": "Downward sloping curve",
+        "core_reason": "The correct answer is C. Conceptually: Downward sloping curve.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA4_Q5",
@@ -1381,7 +1696,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: The sum total of all individual demands for a product or service",
+        "correct_label": "B",
+        "correct_text": "The sum total of all individual demands for a product or service",
+        "core_reason": "The correct answer is B. Conceptually: The sum total of all individual demands for a product or service.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q6",
@@ -1415,7 +1739,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option C: Quantity demanded equals quantity supplied",
+        "correct_label": "C",
+        "correct_text": "Quantity demanded equals quantity supplied",
+        "core_reason": "The correct answer is C. Conceptually: Quantity demanded equals quantity supplied.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA4_Q7",
@@ -1449,7 +1782,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: The degree of responsiveness of demand to a change in price",
+        "correct_label": "B",
+        "correct_text": "The degree of responsiveness of demand to a change in price",
+        "core_reason": "The correct answer is B. Conceptually: The degree of responsiveness of demand to a change in price.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q8",
@@ -1483,7 +1825,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option C: Elastic",
+        "correct_label": "C",
+        "correct_text": "Elastic",
+        "core_reason": "The correct answer is C. Conceptually: Elastic.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA4_Q9",
@@ -1517,7 +1868,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: Life-saving insulin for diabetic patients",
+        "correct_label": "B",
+        "correct_text": "Life-saving insulin for diabetic patients",
+        "core_reason": "Goods with few substitutes and essential consumption (life-saving insulin, electricity, salt) exhibit inelastic demand (|Ep| < 1), where quantity changes minimally in response to price shifts.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Inelastic = Price badhne par bhi log khareedenge!"
+      }
     },
     {
       "id": "GA4_Q10",
@@ -1551,7 +1911,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: How much quantity supplied changes in response to a change in price",
+        "correct_label": "B",
+        "correct_text": "How much quantity supplied changes in response to a change in price",
+        "core_reason": "The correct answer is B. Conceptually: How much quantity supplied changes in response to a change in price.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q11",
@@ -1585,7 +1954,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: Elastic demand, because the quantity demanded responded substantially to the price change",
+        "correct_label": "B",
+        "correct_text": "Elastic demand, because the quantity demanded responded substantially to the price change",
+        "core_reason": "The correct answer is B. Conceptually: Elastic demand, because the quantity demanded responded substantially to the price change.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q12",
@@ -1619,7 +1997,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: Perfectly inelastic — demand remains constant regardless of price, so increasing price directly increases total revenue",
+        "correct_label": "B",
+        "correct_text": "Perfectly inelastic — demand remains constant regardless of price, so increasing price directly increases total revenue",
+        "core_reason": "The correct answer is B. Conceptually: Perfectly inelastic — demand remains constant regardless of price, so increasing price directly increases total revenue.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q13",
@@ -1653,7 +2040,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: Elastic demand: revenue falls; Inelastic demand: revenue increases",
+        "correct_label": "B",
+        "correct_text": "Elastic demand: revenue falls; Inelastic demand: revenue increases",
+        "core_reason": "The correct answer is B. Conceptually: Elastic demand: revenue falls; Inelastic demand: revenue increases.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q14",
@@ -1687,7 +2083,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option B: PED = 1.5 (elastic); Revenue falls from ₹1,00,000 to ₹84,000",
+        "correct_label": "B",
+        "correct_text": "PED = 1.5 (elastic); Revenue falls from ₹1,00,000 to ₹84,000",
+        "core_reason": "The correct answer is B. Conceptually: PED = 1.5 (elastic); Revenue falls from ₹1,00,000 to ₹84,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA4_Q15",
@@ -1721,7 +2126,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-E-R-K (Inelastic Demand: P & TR move SAME direction; Elastic Demand: P & TR move OPPOSITE directions)",
-      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)"
+      "formula": "Ep = (%ΔQd)/(%ΔP); Exy = (%ΔQx)/(%ΔPy); Ey = (%ΔQd)/(%ΔIncome)",
+      "ai_solution": {
+        "direct_answer": "Option A: Over time, non-OPEC producers expanded extraction capacity, increasing supply elasticity",
+        "correct_label": "A",
+        "correct_text": "Over time, non-OPEC producers expanded extraction capacity, increasing supply elasticity",
+        "core_reason": "The correct answer is A. Conceptually: Over time, non-OPEC producers expanded extraction capacity, increasing supply elasticity.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA5_Q1",
@@ -1755,7 +2169,16 @@
       ],
       "feedback": "This branch focuses specifically on the internal operations of a company, delivering data to help managers with budgeting, forecasting, and development decisions.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option C: Managerial Accounting",
+        "correct_label": "C",
+        "correct_text": "Managerial Accounting",
+        "core_reason": "The correct answer is C. Conceptually: Managerial Accounting. This branch focuses specifically on the internal operations of a company, delivering data to help managers with budgeting, forecasting, and development decisions.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA5_Q2",
@@ -1789,7 +2212,16 @@
       ],
       "feedback": "If the intention of the business is to hold and sell the asset, it is treated as inventory rather than a fixed asset used for operations.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option D: They are considered Inventory for the real estate firm.",
+        "correct_label": "D",
+        "correct_text": "They are considered Inventory for the real estate firm.",
+        "core_reason": "Accounting classification depends strictly on the Intent of Ownership. A real estate firm constructs buildings for sale, making them INVENTORY (Current Asset), whereas a manufacturer uses them for production (Fixed Asset).",
+        "calculation": null,
+        "distractor_trap": "Do not assume physical buildings are always fixed assets. For property developers, they are trading inventory.",
+        "hinglish_shortcut": "DLF ke liye building = Inventory; Tata Motors ke liye building = Fixed Asset!"
+      }
     },
     {
       "id": "GA5_Q3",
@@ -1823,7 +2255,16 @@
       ],
       "feedback": "Current assets like cash and inventory support daily business, whereas fixed assets like plant and machinery are intended to generate revenue over a longer period.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option D: Current assets are meant for liquidity and daily operations, while fixed assets are for long-term use.",
+        "correct_label": "D",
+        "correct_text": "Current assets are meant for liquidity and daily operations, while fixed assets are for long-term use.",
+        "core_reason": "The correct answer is D. Conceptually: Current assets are meant for liquidity and daily operations, while fixed assets are for long-term use.. Current assets like cash and inventory support daily business, whereas fixed assets like plant and machinery are intended to generate revenue over a longer period.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA5_Q4",
@@ -1857,7 +2298,16 @@
       ],
       "feedback": "The Measurement or Cost Principle dictates that assets must be recorded at their original purchase price (historical cost) regardless of current market shifts.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹100,000",
+        "correct_label": "B",
+        "correct_text": "₹100,000",
+        "core_reason": "The correct answer is B. Conceptually: ₹100,000. The Measurement or Cost Principle dictates that assets must be recorded at their original purchase price (historical cost) regardless of current market shifts.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA5_Q5",
@@ -1891,7 +2341,16 @@
       ],
       "feedback": "Revenue is recognized when goods or services are provided to the customer and the amount is earned, regardless of the timing of the cash receipt.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option C: In October, when the goods were provided.",
+        "correct_label": "C",
+        "correct_text": "In October, when the goods were provided.",
+        "core_reason": "The correct answer is C. Conceptually: In October, when the goods were provided.. Revenue is recognized when goods or services are provided to the customer and the amount is earned, regardless of the timing of the cash receipt.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA5_Q6",
@@ -1925,7 +2384,16 @@
       ],
       "feedback": "Revenue includes both cash and credit sales made during the period, as the service/product has been delivered in both cases.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option A: ₹500",
+        "correct_label": "A",
+        "correct_text": "₹500",
+        "core_reason": "The correct answer is A. Conceptually: ₹500. Revenue includes both cash and credit sales made during the period, as the service/product has been delivered in both cases.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA5_Q7",
@@ -1959,7 +2427,16 @@
       ],
       "feedback": "Since the money has been paid but the service for the remaining six days has not been used, it is an asset that provides future benefit.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option C: Prepaid Expense (Asset)",
+        "correct_label": "C",
+        "correct_text": "Prepaid Expense (Asset)",
+        "core_reason": "The correct answer is C. Conceptually: Prepaid Expense (Asset). Since the money has been paid but the service for the remaining six days has not been used, it is an asset that provides future benefit.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA5_Q8",
@@ -1993,7 +2470,16 @@
       ],
       "feedback": "Working capital specifically measures the short-term liquidity of a company by comparing daily resources with daily obligations.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option B: Current Assets and Current Liabilities",
+        "correct_label": "B",
+        "correct_text": "Current Assets and Current Liabilities",
+        "core_reason": "The correct answer is B. Conceptually: Current Assets and Current Liabilities. Working capital specifically measures the short-term liquidity of a company by comparing daily resources with daily obligations.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA5_Q9",
@@ -2027,7 +2513,16 @@
       ],
       "feedback": "Any amount received above the face value of the shares during issuance is specifically categorized as securities premium within the reserves and surplus.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option B: Securities Premium",
+        "correct_label": "B",
+        "correct_text": "Securities Premium",
+        "core_reason": "The correct answer is B. Conceptually: Securities Premium. Any amount received above the face value of the shares during issuance is specifically categorized as securities premium within the reserves and surplus.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA5_Q10",
@@ -2061,7 +2556,16 @@
       ],
       "feedback": "Assets provide economic benefit over many periods, whereas expenses are 'used up' quickly to run the business day-to-day.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option D: The sugar provides immediate, used-up value, while the machine helps generate revenue in the future.",
+        "correct_label": "D",
+        "correct_text": "The sugar provides immediate, used-up value, while the machine helps generate revenue in the future.",
+        "core_reason": "The correct answer is D. Conceptually: The sugar provides immediate, used-up value, while the machine helps generate revenue in the future.. Assets provide economic benefit over many periods, whereas expenses are 'used up' quickly to run the business day-to-day.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA5_Q11",
@@ -2095,7 +2599,16 @@
       ],
       "feedback": "Working capital is Current Assets (Cash ₹20, 000 + Inventory ₹15,000 + Receivables ₹5,000 = ₹40,000) minus Current Liabilities (Creditors ₹12,000)",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹28,000",
+        "correct_label": "B",
+        "correct_text": "₹28,000",
+        "core_reason": "The correct answer is B. Conceptually: ₹28,000. Working capital is Current Assets (Cash ₹20, 000 + Inventory ₹15,000 + Receivables ₹5,000 = ₹40,000) minus Current Liabilities (Creditors ₹12,000)",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA5_Q12",
@@ -2129,7 +2642,16 @@
       ],
       "feedback": "Total revenue is 18,000. Total expenses are 10,500 (operating) + 500 (fixed) = 11,000. Profit is ₹7,000. Half of this is 3,500.",
       "mnemonic": "12-Month Operating Intent Test: Held for Sale = Inventory/Current Asset; Held to Operate > 1yr = Fixed Asset",
-      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets"
+      "formula": "Total Assets = Current Assets + Non-Current (Fixed) Assets",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹3,500",
+        "correct_label": "B",
+        "correct_text": "₹3,500",
+        "core_reason": "The correct answer is B. Conceptually: ₹3,500. Total revenue is 18,000. Total expenses are 10,500 (operating) + 500 (fixed) = 11,000. Profit is ₹7,000. Half of this is 3,500.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA6_Q1",
@@ -2163,7 +2685,16 @@
       ],
       "feedback": "Cash (Asset) is used to pay the debt, and the obligation to suppliers (Liability) is reduced by the same amount.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option A: Assets decrease by ₹3,000 and Liabilities decrease by 3,000.",
+        "correct_label": "A",
+        "correct_text": "Assets decrease by ₹3,000 and Liabilities decrease by 3,000.",
+        "core_reason": "Settling liabilities with cash reduces an asset (Cash decreases) and reduces a liability (Accounts Payable decreases) by the identical amount.",
+        "calculation": "Assets (Cash) -₹3,000 = Liabilities (Payables) -₹3,000 + Equity (0)",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Dono taraf se ₹3,000 ghata — Accounting equation perfectly balanced!"
+      }
     },
     {
       "id": "GA6_Q2",
@@ -2197,7 +2728,16 @@
       ],
       "feedback": "Drawings are withdrawals of cash or assets by the owner for personal use, which reduce the owner's claim on the business.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option B: As 'Drawings', which reduces the Owner's Equity.",
+        "correct_label": "B",
+        "correct_text": "As 'Drawings', which reduces the Owner's Equity.",
+        "core_reason": "Under the Business Entity Concept, the owner and business are separate legal entities. Owner withdrawing cash for personal expenses is recorded as Drawings, which reduces Owner's Equity and Cash.",
+        "calculation": null,
+        "distractor_trap": "Do NOT debit Rent Expense! The rent is personal, so it must be debited to Drawings.",
+        "hinglish_shortcut": "Personal kharcha from business = DRAWINGS (Equity kam, Cash kam)!"
+      }
     },
     {
       "id": "GA6_Q3",
@@ -2231,7 +2771,16 @@
       ],
       "feedback": "Gross Profit is the profit a company makes after deducting the costs associated with making and selling its products (direct costs).",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option C: Gross Profit",
+        "correct_label": "C",
+        "correct_text": "Gross Profit",
+        "core_reason": "Gross Profit represents the direct trading margin obtained by deducting direct cost of sales (COGS) from net sales revenue.",
+        "calculation": "Gross Profit = Sales Revenue - Cost of Goods Sold (COGS)",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Revenue - COGS = Gross Profit."
+      }
     },
     {
       "id": "GA6_Q4",
@@ -2265,7 +2814,16 @@
       ],
       "feedback": "The business receives a resource (Cash) and records a corresponding claim by the owner (Capital) for that same amount.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option B: Assets (Cash) increase and Owner's Equity (Capital) increases.",
+        "correct_label": "B",
+        "correct_text": "Assets (Cash) increase and Owner's Equity (Capital) increases.",
+        "core_reason": "The correct answer is B. Conceptually: Assets (Cash) increase and Owner's Equity (Capital) increases.. The business receives a resource (Cash) and records a corresponding claim by the owner (Capital) for that same amount.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA6_Q5",
@@ -2299,7 +2857,16 @@
       ],
       "feedback": "This transaction is an exchange of one asset (Cash) for another asset (Equipment), so the total value of assets stays the same.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option D: Total assets remain unchanged.",
+        "correct_label": "D",
+        "correct_text": "Total assets remain unchanged.",
+        "core_reason": "The correct answer is D. Conceptually: Total assets remain unchanged.. This transaction is an exchange of one asset (Cash) for another asset (Equipment), so the total value of assets stays the same.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA6_Q6",
@@ -2333,7 +2900,16 @@
       ],
       "feedback": "Sales and Closing Stock represent the direct incomes or outputs of the business period, which are credited in the Trading Account.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option D: Credit Side",
+        "correct_label": "D",
+        "correct_text": "Credit Side",
+        "core_reason": "The correct answer is D. Conceptually: Credit Side. Sales and Closing Stock represent the direct incomes or outputs of the business period, which are credited in the Trading Account.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA6_Q7",
@@ -2367,7 +2943,16 @@
       ],
       "feedback": "The business entity concept treats the business as separate from its owner, meaning it 'borrows' the initial capital from the owner.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option D: Because the owner and the business are distinct entities; the business owes this money back to the owner.",
+        "correct_label": "D",
+        "correct_text": "Because the owner and the business are distinct entities; the business owes this money back to the owner.",
+        "core_reason": "The correct answer is D. Conceptually: Because the owner and the business are distinct entities; the business owes this money back to the owner.. The business entity concept treats the business as separate from its owner, meaning it 'borrows' the initial capital from the owner.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA6_Q8",
@@ -2401,7 +2986,16 @@
       ],
       "feedback": "Since we start with Net Income, we must add back any expenses that didn't use cash to find the true cash generated by operations.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option B: Because depreciation is a non-cash expense that reduced net income but did not involve an actual cash outflow.",
+        "correct_label": "B",
+        "correct_text": "Because depreciation is a non-cash expense that reduced net income but did not involve an actual cash outflow.",
+        "core_reason": "The correct answer is B. Conceptually: Because depreciation is a non-cash expense that reduced net income but did not involve an actual cash outflow.. Since we start with Net Income, we must add back any expenses that didn't use cash to find the true cash generated by operations.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA6_Q9",
@@ -2435,7 +3029,16 @@
       ],
       "feedback": "The calculation is",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹7.00",
+        "correct_label": "C",
+        "correct_text": "₹7.00",
+        "core_reason": "The correct answer is C. Conceptually: ₹7.00. The calculation is",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA6_Q10",
@@ -2469,7 +3072,16 @@
       ],
       "feedback": "This transaction is simply the settlement of a liability (Utilities Payable) with an asset (Cash); the expense was already recognized last month.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option B: There is no impact on the Income Statement.",
+        "correct_label": "B",
+        "correct_text": "There is no impact on the Income Statement.",
+        "core_reason": "The correct answer is B. Conceptually: There is no impact on the Income Statement.. This transaction is simply the settlement of a liability (Utilities Payable) with an asset (Cash); the expense was already recognized last month.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA6_Q11",
@@ -2503,7 +3115,16 @@
       ],
       "feedback": "The annual depreciation is ₹2,000 ((₹11,000 - ₹1,000)/5); after two years, ₹4,000 is deducted from the original cost of ₹11,000.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹7,000",
+        "correct_label": "C",
+        "correct_text": "₹7,000",
+        "core_reason": "The correct answer is C. Conceptually: ₹7,000. The annual depreciation is ₹2,000 ((₹11,000 - ₹1,000)/5); after two years, ₹4,000 is deducted from the original cost of ₹11,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA6_Q12",
@@ -2537,7 +3158,16 @@
       ],
       "feedback": "In Year 1, depreciation is 20% of 10,000 (2,000); in Year 2, it is 20% of the remaining 8,000 book value.",
       "mnemonic": "ALOE (Assets = Liabilities + Owner Equity) & DEAL vs CLIP (Debit: Drawings, Expenses, Assets; Credit: Liabilities, Income, Capital)",
-      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax"
+      "formula": "Assets = Liabilities + Equity; Gross Profit = Revenue - COGS; EBIT = GP - OpEx; PAT = EBIT - Interest - Tax",
+      "ai_solution": {
+        "direct_answer": "Option A: 1,600",
+        "correct_label": "A",
+        "correct_text": "1,600",
+        "core_reason": "The correct answer is A. Conceptually: 1,600. In Year 1, depreciation is 20% of 10,000 (2,000); in Year 2, it is 20% of the remaining 8,000 book value.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA7_Q1",
@@ -2571,7 +3201,16 @@
       ],
       "feedback": "High debt relative to equity increases risk as interest and principal obligations must be met regardless of performance. A 4:1 ratio means there is four times as much debt as equity, indicating a heavy reliance on external funds.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option D: The company has a high financial risk due to heavy reliance on borrowed funds.",
+        "correct_label": "D",
+        "correct_text": "The company has a high financial risk due to heavy reliance on borrowed funds.",
+        "core_reason": "A 4:1 Debt-to-Equity ratio indicates that the firm has funded 80% of its capital structure through debt and only 20% through equity, presenting substantial leverage and insolvency risk to lenders.",
+        "calculation": null,
+        "distractor_trap": "Lenders prefer low leverage (e.g. 1:1 or less) for safety.",
+        "hinglish_shortcut": "D/E 4:1 = Heavy debt burden = High bankruptcy risk!"
+      }
     },
     {
       "id": "GA7_Q2",
@@ -2605,7 +3244,16 @@
       ],
       "feedback": "The Cash Flow Statement (CFS) reveals 'pseudo profits' by showing if the Net Profit is actually backed by cash inflows or just credit sales.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option A: Cash Flow Statement Analysis",
+        "correct_label": "A",
+        "correct_text": "Cash Flow Statement Analysis",
+        "core_reason": "Accrual accounting reports profit when revenue is earned, but bills require liquid cash. A profitable company can go bankrupt if debtors delay payments, causing negative operating cash flow.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Profitability ≠ Liquidity! Paper par munafa hone par bhi cash na ho toh company doob sakti hai."
+      }
     },
     {
       "id": "GA7_Q3",
@@ -2639,7 +3287,16 @@
       ],
       "feedback": "Investing activities involve the purchase and sale of long-term assets and other investments not included in cash equivalents.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option C: Investing Activity",
+        "correct_label": "C",
+        "correct_text": "Investing Activity",
+        "core_reason": "Acquiring long-term physical plant, property, and equipment (PP&E) represents a capital expenditure classified as an Investing Cash Outflow.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "PP&E khareedna = Investing Outflow; Shares/Loans = Financing; Daily trade = Operating."
+      }
     },
     {
       "id": "GA7_Q4",
@@ -2673,7 +3330,16 @@
       ],
       "feedback": "ICR measures the ability to service debt; since depreciation doesn't involve a cash outflow, that 'profit' is still available for interest.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option D: Because depreciation is a non-cash expense that does not reduce the actual cash available to pay interest.",
+        "correct_label": "D",
+        "correct_text": "Because depreciation is a non-cash expense that does not reduce the actual cash available to pay interest.",
+        "core_reason": "The correct answer is D. Conceptually: Because depreciation is a non-cash expense that does not reduce the actual cash available to pay interest.. ICR measures the ability to service debt; since depreciation doesn't involve a cash outflow, that 'profit' is still available for interest.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA7_Q5",
@@ -2707,7 +3373,16 @@
       ],
       "feedback": "This ratio shows how many times inventory is sold and replaced; a low ratio suggests dead stock or overstocking.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option B: Inventory Turnover Ratio",
+        "correct_label": "B",
+        "correct_text": "Inventory Turnover Ratio",
+        "core_reason": "The correct answer is B. Conceptually: Inventory Turnover Ratio. This ratio shows how many times inventory is sold and replaced; a low ratio suggests dead stock or overstocking.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA7_Q6",
@@ -2741,7 +3416,16 @@
       ],
       "feedback": "The P/E ratio (100 / 4 = 25) literally represents the price paid per unit of earnings.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option A: Investors are paying 25 rupees for every 1 rupee of the company's earnings.",
+        "correct_label": "A",
+        "correct_text": "Investors are paying 25 rupees for every 1 rupee of the company's earnings.",
+        "core_reason": "The correct answer is A. Conceptually: Investors are paying 25 rupees for every 1 rupee of the company's earnings.. The P/E ratio (100 / 4 = 25) literally represents the price paid per unit of earnings.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA7_Q7",
@@ -2775,7 +3459,16 @@
       ],
       "feedback": "A 1:1 ratio leaves no margin for error; any delay in converting current assets to cash could lead to default on liabilities.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option A: The business may face difficulty honoring its short-term obligations if inventory sales slow down.",
+        "correct_label": "A",
+        "correct_text": "The business may face difficulty honoring its short-term obligations if inventory sales slow down.",
+        "core_reason": "The correct answer is A. Conceptually: The business may face difficulty honoring its short-term obligations if inventory sales slow down.. A 1:1 ratio leaves no margin for error; any delay in converting current assets to cash could lead to default on liabilities.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA7_Q8",
@@ -2809,7 +3502,16 @@
       ],
       "feedback": "A low asset turnover ratio indicates that the company is not utilizing its assets effectively to generate revenue, despite being profitable on the sales it does make.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option B: The company is likely over-invested in assets that are not generating sufficient sales.",
+        "correct_label": "B",
+        "correct_text": "The company is likely over-invested in assets that are not generating sufficient sales.",
+        "core_reason": "The correct answer is B. Conceptually: The company is likely over-invested in assets that are not generating sufficient sales.. A low asset turnover ratio indicates that the company is not utilizing its assets effectively to generate revenue, despite being profitable on the sales it does make.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA7_Q9",
@@ -2833,7 +3535,16 @@
       ],
       "feedback": "This occurs when a firm has high credit sales (revenue recorded but cash not received) or large cash payments for operating expenses not yet reflected in the P&L.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option B: True",
+        "correct_label": "B",
+        "correct_text": "True",
+        "core_reason": "The correct answer is B. Conceptually: True. This occurs when a firm has high credit sales (revenue recorded but cash not received) or large cash payments for operating expenses not yet reflected in the P&L.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA7_Q10",
@@ -2867,7 +3578,16 @@
       ],
       "feedback": "Turnover is 400,000 / 80,000 = 5 times. The holding period is 12 / 5 = 2.4 months",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option D: 2.4 months",
+        "correct_label": "D",
+        "correct_text": "2.4 months",
+        "core_reason": "The correct answer is D. Conceptually: 2.4 months. Turnover is 400,000 / 80,000 = 5 times. The holding period is 12 / 5 = 2.4 months",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA7_Q11",
@@ -2901,7 +3621,16 @@
       ],
       "feedback": "The ICR is calculated as (PAT + Interest + Depreciation) / Interest, which is (1,20,000 + 30,000 +50,000) / 30,000.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option D: 6.67 times",
+        "correct_label": "D",
+        "correct_text": "6.67 times",
+        "core_reason": "The correct answer is D. Conceptually: 6.67 times. The ICR is calculated as (PAT + Interest + Depreciation) / Interest, which is (1,20,000 + 30,000 +50,000) / 30,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA7_Q12",
@@ -2935,7 +3664,16 @@
       ],
       "feedback": "First, find EPS: 500000/50000 = 10. Then, divide the Market Price by EPS: 120/10 = 12.",
       "mnemonic": "O-I-F Cash Flows (Operating=Daily Core, Investing=Long-term PP&E, Financing=Debt, Equity, Dividends)",
-      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity"
+      "formula": "Current Ratio = CA / CL; Quick Ratio = (CA - Inventory - Prepaid) / CL; Debt/Equity = Total Debt / Equity",
+      "ai_solution": {
+        "direct_answer": "Option A: 12",
+        "correct_label": "A",
+        "correct_text": "12",
+        "core_reason": "The correct answer is A. Conceptually: 12. First, find EPS: 500000/50000 = 10. Then, divide the Market Price by EPS: 120/10 = 12.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA8_Q1",
@@ -2969,7 +3707,16 @@
       ],
       "feedback": "Explanation: Profit Margin = (Net Profit / Revenue) * 100 Calculation: (3,375 / 40,000) * 100 = 8.4375%, which rounds to 8.44%.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option A: 8.44%",
+        "correct_label": "A",
+        "correct_text": "8.44%",
+        "core_reason": "Net Profit Margin measures the percentage of revenue remaining after all operating expenses, depreciation, interest, and taxes have been deducted.",
+        "calculation": "Net Profit Margin = (PAT / Revenue) × 100 = (3,375 / 40,000) × 100 = 8.4375% ≈ 8.44%",
+        "distractor_trap": "Do not confuse Operating Profit (4,500) with Net Profit (3,375).",
+        "hinglish_shortcut": "XYZ Golden Number: Net Margin = 8.44%."
+      }
     },
     {
       "id": "GA8_Q2",
@@ -3003,7 +3750,16 @@
       ],
       "feedback": "Explanation: Return on Assets (ROA) = (Net Profit / Total Assets) * 100 Calculation: (3,375 / 30,000) * 100 = 11.25%.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option C: 11.25%",
+        "correct_label": "C",
+        "correct_text": "11.25%",
+        "core_reason": "Based on financial statement analysis: 11.25%",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Apply XYZ Ltd verified financial statements parameters."
+      }
     },
     {
       "id": "GA8_Q3",
@@ -3037,7 +3793,16 @@
       ],
       "feedback": "Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100 Calculation: (3,375 / 12,500) * 100 = 27.00%.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option B: 27.00% Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100 Calculation: (3,375 / 12,500) * 100 = 27.00%.",
+        "correct_label": "B",
+        "correct_text": "27.00% Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100 Calculation: (3,375 / 12,500) * 100 = 27.00%.",
+        "core_reason": "Return on Equity (ROE) measures how efficiently management generates profits from the shareholders' capital invested.",
+        "calculation": "ROE = (PAT / Shareholders' Equity) × 100 = (3,375 / 12,500) × 100 = 27.00%",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: ROE = 27.0%."
+      }
     },
     {
       "id": "GA8_Q4",
@@ -3071,7 +3836,16 @@
       ],
       "feedback": "Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option B: 10.00 times Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times.",
+        "correct_label": "B",
+        "correct_text": "10.00 times Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times.",
+        "core_reason": "Based on financial statement analysis: 10.00 times Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Apply XYZ Ltd verified financial statements parameters."
+      }
     },
     {
       "id": "GA8_Q5",
@@ -3105,7 +3879,16 @@
       ],
       "feedback": "Explanation: Dividend Yield = (Dividend Per Share / Market Price) * 100 Calculation: (2.00 / 150) * 100 = 1.33%.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option A: 1.33%",
+        "correct_label": "A",
+        "correct_text": "1.33%",
+        "core_reason": "Dividend yield reflects the cash return a shareholder earns solely from declared dividends relative to the market stock price.",
+        "calculation": "Dividend Yield = (Dividend Per Share / Market Price) × 100 = (2 / 150) × 100 = 1.33%",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: Dividend Yield = 1.33%."
+      }
     },
     {
       "id": "GA8_Q6",
@@ -3139,7 +3922,16 @@
       ],
       "feedback": "Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option B: 1.33 times Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).",
+        "correct_label": "B",
+        "correct_text": "1.33 times Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).",
+        "core_reason": "Based on financial statement analysis: 1.33 times Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Apply XYZ Ltd verified financial statements parameters."
+      }
     },
     {
       "id": "GA8_Q7",
@@ -3173,7 +3965,16 @@
       ],
       "feedback": "Explanation: Inventory Turnover Ratio = Cost of Materials Consumed / Inventory Calculation: 28,000 / 3,500 = 8.00 times.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option C: 8.00 times",
+        "correct_label": "C",
+        "correct_text": "8.00 times",
+        "core_reason": "Inventory turnover measures how many times the company sold and replenished its inventory during the fiscal year.",
+        "calculation": "Inventory Turnover = Cost of Materials Consumed (28,000) / Inventory (3,500) = 8.00 times",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: Inventory Turnover = 8 times."
+      }
     },
     {
       "id": "GA8_Q8",
@@ -3207,7 +4008,16 @@
       ],
       "feedback": "Explanation: Earnings Per Share (EPS) = Net Profit / Total Number of Outstanding Shares. Since the Equity Share Capital is ₹500 Crores and the face value is ₹1, there are 500 Crore shares. Calculation: 3,375 / 500 = ₹6.75 per share.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option A: ₹6.75",
+        "correct_label": "A",
+        "correct_text": "₹6.75",
+        "core_reason": "EPS represents the net profit earned by each individual common equity share outstanding.",
+        "calculation": "Total Shares = Equity Share Capital / Face Value = 500 Cr / ₹1 = 500 Cr shares | EPS = PAT (3,375) / 500 = ₹6.75",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: EPS = ₹6.75."
+      }
     },
     {
       "id": "GA8_Q9",
@@ -3241,7 +4051,16 @@
       ],
       "feedback": "Explanation: PE Ratio = Current Market Price / Earnings Per Share (EPS) Calculation: 150 / 6.75 = 22.22.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option C: 22.22",
+        "correct_label": "C",
+        "correct_text": "22.22",
+        "core_reason": "EPS represents the net profit earned by each individual common equity share outstanding.",
+        "calculation": "Total Shares = Equity Share Capital / Face Value = 500 Cr / ₹1 = 500 Cr shares | EPS = PAT (3,375) / 500 = ₹6.75",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: EPS = ₹6.75."
+      }
     },
     {
       "id": "GA8_Q10",
@@ -3275,7 +4094,16 @@
       ],
       "feedback": "Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity Calculation: 2,500 / 12,500 = 0.20.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option B: 0.20 Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity Calculation: 2,500 / 12,500 = 0.20.",
+        "correct_label": "B",
+        "correct_text": "0.20 Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity Calculation: 2,500 / 12,500 = 0.20.",
+        "core_reason": "Debt-Equity ratio indicates the proportion of borrowed funds to owners' net worth.",
+        "calculation": "Total Debt = 2,500 Cr | Shareholders' Equity = 12,500 Cr | D/E = 2,500 / 12,500 = 0.20",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: Debt-to-Equity = 0.20."
+      }
     },
     {
       "id": "GA8_Q11",
@@ -3309,7 +4137,16 @@
       ],
       "feedback": "Explanation: EBITDA = Revenue - (Cost of Materials + Employee Benefits + Other Expenses). Calculation: 40,000 - (28,000 + 2,500 + 4,000) = 40,000 - 34,500 = ₹5,500 Crores. Alternatively: PBT (4,500) + Depreciation (800) + Finance Cost (200) = ₹5,500 Crores.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹5,500 Crores",
+        "correct_label": "B",
+        "correct_text": "₹5,500 Crores",
+        "core_reason": "Based on financial statement analysis: ₹5,500 Crores",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Apply XYZ Ltd verified financial statements parameters."
+      }
     },
     {
       "id": "GA8_Q12",
@@ -3343,7 +4180,16 @@
       ],
       "feedback": "Explanation: Operating expenses exclude non-operating costs like finance costs and non-cash charges like depreciation. Calculation: Total Expenses (35,500) - Depreciation (800) - Finance Costs (200) = ₹34,500 Crores.",
       "mnemonic": "DuPont Pyramid: ROE = Net Profit Margin × Asset Turnover × Equity Multiplier",
-      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%"
+      "formula": "ROE = (3375/40000) × (40000/30000) × (30000/12500) = 8.44% × 1.33 × 2.4 = 27.0%",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹34,500 Crores",
+        "correct_label": "C",
+        "correct_text": "₹34,500 Crores",
+        "core_reason": "Total operating expenses exclude non-operating financing charges (interest) and non-cash charges (depreciation).",
+        "calculation": "Operating Expenses = Total Expenses (35,500) - Depreciation (800) - Finance Costs (200) = ₹34,500 Crores",
+        "distractor_trap": "Question explicitly says 'excluding depreciation and finance costs'. 35,500 - 800 - 200 = 34,500.",
+        "hinglish_shortcut": "XYZ Golden Number: Operating Expenses = ₹34,500 Cr."
+      }
     },
     {
       "id": "GA9_Q1",
@@ -3377,7 +4223,16 @@
       ],
       "feedback": "It serves external users by providing standardized reports on the financial position and performance of an entity.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option C: Financial Accounting",
+        "correct_label": "C",
+        "correct_text": "Financial Accounting",
+        "core_reason": "The correct answer is C. Conceptually: Financial Accounting. It serves external users by providing standardized reports on the financial position and performance of an entity.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA9_Q2",
@@ -3411,7 +4266,16 @@
       ],
       "feedback": "It deals strictly with financial transactions and does not record qualitative events or non-financial metrics like employee productivity.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option A: It is purely historical and ignores non-financial data.",
+        "correct_label": "A",
+        "correct_text": "It is purely historical and ignores non-financial data.",
+        "core_reason": "The correct answer is A. Conceptually: It is purely historical and ignores non-financial data.. It deals strictly with financial transactions and does not record qualitative events or non-financial metrics like employee productivity.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA9_Q3",
@@ -3445,7 +4309,16 @@
       ],
       "feedback": "Categorizing centers allows management to apply accountability and identify where efficiency is lacking.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option C: To identify specific departments responsible for cost overruns",
+        "correct_label": "C",
+        "correct_text": "To identify specific departments responsible for cost overruns",
+        "core_reason": "Responsibility accounting delegates authority and evaluates managers based on variables they directly control: Cost Center (costs only), Revenue Center (sales only), Profit Center (costs & sales), Investment Center (costs, sales & capital return ROI).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "C-R-P-I: Cost -> Revenue -> Profit -> Investment!"
+      }
     },
     {
       "id": "GA9_Q4",
@@ -3479,7 +4352,16 @@
       ],
       "feedback": "Variance analysis identifies favorable or adverse differences, allowing managers to take corrective action.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option D: By comparing planned performance against actual outputs",
+        "correct_label": "D",
+        "correct_text": "By comparing planned performance against actual outputs",
+        "core_reason": "The correct answer is D. Conceptually: By comparing planned performance against actual outputs. Variance analysis identifies favorable or adverse differences, allowing managers to take corrective action.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA9_Q5",
@@ -3513,7 +4395,16 @@
       ],
       "feedback": "Eliminating middlemen in raw material procurement directly lowers the cost of materials used in production.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option C: Direct Material cost reduction",
+        "correct_label": "C",
+        "correct_text": "Direct Material cost reduction",
+        "core_reason": "The correct answer is C. Conceptually: Direct Material cost reduction. Eliminating middlemen in raw material procurement directly lowers the cost of materials used in production.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA9_Q6",
@@ -3547,7 +4438,16 @@
       ],
       "feedback": "Pricing cannot exist without costing; the total internal cost serves as the necessary foundation for price determination.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option D: Total cost (materials, labor, and overheads)",
+        "correct_label": "D",
+        "correct_text": "Total cost (materials, labor, and overheads)",
+        "core_reason": "The correct answer is D. Conceptually: Total cost (materials, labor, and overheads). Pricing cannot exist without costing; the total internal cost serves as the necessary foundation for price determination.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA9_Q7",
@@ -3581,7 +4481,16 @@
       ],
       "feedback": "Opportunity cost represents the benefit lost by choosing one alternative over another.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option C: Opportunity Cost",
+        "correct_label": "C",
+        "correct_text": "Opportunity Cost",
+        "core_reason": "The correct answer is C. Conceptually: Opportunity Cost. Opportunity cost represents the benefit lost by choosing one alternative over another.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA9_Q8",
@@ -3615,7 +4524,16 @@
       ],
       "feedback": "A low Net Profit despite high Gross Profit suggests that expenses outside of production are eating up the margins.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option A: Indirect costs like administration or marketing are out of control.",
+        "correct_label": "A",
+        "correct_text": "Indirect costs like administration or marketing are out of control.",
+        "core_reason": "The correct answer is A. Conceptually: Indirect costs like administration or marketing are out of control.. A low Net Profit despite high Gross Profit suggests that expenses outside of production are eating up the margins.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA9_Q9",
@@ -3649,7 +4567,16 @@
       ],
       "feedback": "Calculation: ₹50,000 + ₹4,50,000 - ₹1,00,000 = ₹4,00,000.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹4,00,000",
+        "correct_label": "B",
+        "correct_text": "₹4,00,000",
+        "core_reason": "The correct answer is B. Conceptually: ₹4,00,000. Calculation: ₹50,000 + ₹4,50,000 - ₹1,00,000 = ₹4,00,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA9_Q10",
@@ -3683,7 +4610,16 @@
       ],
       "feedback": "In a competitive market, prices are dictated by market forces; raising price without adding value results in unsold inventory.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option B: Because customers will switch to competitors offering a lower market price",
+        "correct_label": "B",
+        "correct_text": "Because customers will switch to competitors offering a lower market price",
+        "core_reason": "The correct answer is B. Conceptually: Because customers will switch to competitors offering a lower market price. In a competitive market, prices are dictated by market forces; raising price without adding value results in unsold inventory.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA9_Q11",
@@ -3717,7 +4653,16 @@
       ],
       "feedback": "Gross Profit is Sales minus COGS. COGS is calculated as Cost of Production + Opening Finished Goods - Closing Finished Goods (15,00,000 + 2,00,000 - 2,50,000 = 14,50,000). Thus, Gross Profit = 22,00,000 - 14,50,000 = 7,50,000.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option D: 7,50,000",
+        "correct_label": "D",
+        "correct_text": "7,50,000",
+        "core_reason": "The correct answer is D. Conceptually: 7,50,000. Gross Profit is Sales minus COGS. COGS is calculated as Cost of Production + Opening Finished Goods - Closing Finished Goods (15,00,000 + 2,00,000 - 2,50,000 = 14,50,000). Thus, Gross Profit = 22,00,000 - 14,50,000 = 7,50,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA9_Q12",
@@ -3751,7 +4696,16 @@
       ],
       "feedback": "The monthly saving is (120 - 105) x 15,000 = 2,25,000. Multiplied by 12 months, the annual gain is 27,00,000.",
       "mnemonic": "C-R-P-I Escalator (Cost Center -> Revenue Center -> Profit Center -> Investment Center)",
-      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)"
+      "formula": "ROI = Operating Income / Operating Assets; EVA = NOPAT - (WACC × Capital)",
+      "ai_solution": {
+        "direct_answer": "Option B: 27,00,000",
+        "correct_label": "B",
+        "correct_text": "27,00,000",
+        "core_reason": "The correct answer is B. Conceptually: 27,00,000. The monthly saving is (120 - 105) x 15,000 = 2,25,000. Multiplied by 12 months, the annual gain is 27,00,000.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA11_Q1",
@@ -3785,7 +4739,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: Prospecting",
+        "correct_label": "A",
+        "correct_text": "Prospecting",
+        "core_reason": "Prospecting is the first step in the personal selling funnel where potential business buyers (leads) are identified and qualified using the MAN criteria (Money, Authority, Need).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Prospecting = Naye leads dhoondhna aur qualify karna."
+      }
     },
     {
       "id": "GA11_Q2",
@@ -3819,7 +4782,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: All the above",
+        "correct_label": "D",
+        "correct_text": "All the above",
+        "core_reason": "The correct answer is D. Conceptually: All the above.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q3",
@@ -3853,7 +4825,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option C: Approach",
+        "correct_label": "C",
+        "correct_text": "Approach",
+        "core_reason": "The PSP technique stands for Personal Selling Principles / Problem-Solution-Presentation, utilized in the Approach stage to establish rapport and position solutions.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "PSP = Approach stage me use hota hai."
+      }
     },
     {
       "id": "GA11_Q4",
@@ -3887,7 +4868,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: Polite, sympathetic, professional",
+        "correct_label": "A",
+        "correct_text": "Polite, sympathetic, professional",
+        "core_reason": "The PSP technique stands for Personal Selling Principles / Problem-Solution-Presentation, utilized in the Approach stage to establish rapport and position solutions.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "PSP = Approach stage me use hota hai."
+      }
     },
     {
       "id": "GA11_Q5",
@@ -3921,7 +4911,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: SPIN",
+        "correct_label": "A",
+        "correct_text": "SPIN",
+        "core_reason": "The correct answer is A. Conceptually: SPIN.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA11_Q6",
@@ -3955,7 +4954,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: Options (a) and (b) only E. All the above",
+        "correct_label": "D",
+        "correct_text": "Options (a) and (b) only E. All the above",
+        "core_reason": "The correct answer is D. Conceptually: Options (a) and (b) only E. All the above.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q7",
@@ -3989,7 +4997,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option B: Customer speaks 80% of the time",
+        "correct_label": "B",
+        "correct_text": "Customer speaks 80% of the time",
+        "core_reason": "The correct answer is B. Conceptually: Customer speaks 80% of the time.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA11_Q8",
@@ -4023,7 +5040,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: FAB/SAB",
+        "correct_label": "A",
+        "correct_text": "FAB/SAB",
+        "core_reason": "The correct answer is A. Conceptually: FAB/SAB.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA11_Q9",
@@ -4057,7 +5083,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: Features, advantages, benefits",
+        "correct_label": "A",
+        "correct_text": "Features, advantages, benefits",
+        "core_reason": "The FAB framework structures sales presentations into Features (what the product is), Advantages (what it does), and Benefits (what value it delivers to the buyer).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "FAB = Features, Advantages, Benefits (Customer hamesha Benefit khareedta hai)."
+      }
     },
     {
       "id": "GA11_Q10",
@@ -4091,7 +5126,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option A: Seller speaks 80% of the time",
+        "correct_label": "A",
+        "correct_text": "Seller speaks 80% of the time",
+        "core_reason": "The correct answer is A. Conceptually: Seller speaks 80% of the time.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "GA11_Q11",
@@ -4125,7 +5169,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option B: Forestall",
+        "correct_label": "B",
+        "correct_text": "Forestall",
+        "core_reason": "The correct answer is B. Conceptually: Forestall.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA11_Q12",
@@ -4159,7 +5212,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: Listen, Acknowledge, Assess, Respond, Confirm",
+        "correct_label": "D",
+        "correct_text": "Listen, Acknowledge, Assess, Respond, Confirm",
+        "core_reason": "The correct answer is D. Conceptually: Listen, Acknowledge, Assess, Respond, Confirm.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q13",
@@ -4193,7 +5255,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option C: Third party reinforcement",
+        "correct_label": "C",
+        "correct_text": "Third party reinforcement",
+        "core_reason": "The correct answer is C. Conceptually: Third party reinforcement.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA11_Q14",
@@ -4227,7 +5298,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option C: Offer/ Pitch",
+        "correct_label": "C",
+        "correct_text": "Offer/ Pitch",
+        "core_reason": "The correct answer is C. Conceptually: Offer/ Pitch.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA11_Q15",
@@ -4261,7 +5341,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option C: Ask me again next month when you stop by",
+        "correct_label": "C",
+        "correct_text": "Ask me again next month when you stop by",
+        "core_reason": "The correct answer is C. Conceptually: Ask me again next month when you stop by.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA11_Q16",
@@ -4295,7 +5384,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option B: Shows supplier commitment to their customer and is a source of competitive advantage",
+        "correct_label": "B",
+        "correct_text": "Shows supplier commitment to their customer and is a source of competitive advantage",
+        "core_reason": "The correct answer is B. Conceptually: Shows supplier commitment to their customer and is a source of competitive advantage.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA11_Q17",
@@ -4329,7 +5427,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: All the above",
+        "correct_label": "D",
+        "correct_text": "All the above",
+        "core_reason": "The correct answer is D. Conceptually: All the above.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q18",
@@ -4363,7 +5470,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: Have a positive experience",
+        "correct_label": "D",
+        "correct_text": "Have a positive experience",
+        "core_reason": "The correct answer is D. Conceptually: Have a positive experience.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q19",
@@ -4397,7 +5513,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: II, III and IV only",
+        "correct_label": "D",
+        "correct_text": "II, III and IV only",
+        "core_reason": "The correct answer is D. Conceptually: II, III and IV only.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA11_Q20",
@@ -4431,7 +5556,16 @@
       ],
       "feedback": "",
       "mnemonic": "P-P-A-P-H-C-F (Prospecting, Pre-approach, Approach, Presentation, Handling objections, Closing, Follow-up)",
-      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)"
+      "formula": "Qualified Lead = M-A-N (Money / Budget, Authority to buy, Need for product)",
+      "ai_solution": {
+        "direct_answer": "Option D: All the above",
+        "correct_label": "D",
+        "correct_text": "All the above",
+        "core_reason": "The correct answer is D. Conceptually: All the above.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "GA12_Q1",
@@ -4465,7 +5599,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option B: Restoring customer satisfaction following a service failure",
+        "correct_label": "B",
+        "correct_text": "Restoring customer satisfaction following a service failure",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q2",
@@ -4499,7 +5642,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option A: It can retain customers and enhance their loyalty",
+        "correct_label": "A",
+        "correct_text": "It can retain customers and enhance their loyalty",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q3",
@@ -4533,7 +5685,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option C: Active listening of the customers complaint",
+        "correct_label": "C",
+        "correct_text": "Active listening of the customers complaint",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q4",
@@ -4567,7 +5728,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option A: A sincere apology",
+        "correct_label": "A",
+        "correct_text": "A sincere apology",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q5",
@@ -4601,7 +5771,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option B: Resolve issues quickly without the need for manager approval",
+        "correct_label": "B",
+        "correct_text": "Resolve issues quickly without the need for manager approval",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q6",
@@ -4635,7 +5814,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option C: Shows company values customers time and business, reducing frustration",
+        "correct_label": "C",
+        "correct_text": "Shows company values customers time and business, reducing frustration",
+        "core_reason": "The correct answer is C. Conceptually: Shows company values customers time and business, reducing frustration.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "GA12_Q7",
@@ -4669,7 +5857,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option B: Good insights to prevent future failures",
+        "correct_label": "B",
+        "correct_text": "Good insights to prevent future failures",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q8",
@@ -4703,7 +5900,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option C: Identify the problem, evaluate the solution, and improve future services",
+        "correct_label": "C",
+        "correct_text": "Identify the problem, evaluate the solution, and improve future services",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q9",
@@ -4737,7 +5943,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option C: Arguing with customer as to who is at fault",
+        "correct_label": "C",
+        "correct_text": "Arguing with customer as to who is at fault",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "GA12_Q10",
@@ -4771,7 +5986,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option B: Process failure",
+        "correct_label": "B",
+        "correct_text": "Process failure",
+        "core_reason": "The correct answer is B. Conceptually: Process failure.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "GA12_Q11",
@@ -4805,7 +6029,16 @@
       ],
       "feedback": "",
       "mnemonic": "R-A-T-E-R (Reliability, Assurance, Tangibles, Empathy, Responsiveness) & I-H-I-P",
-      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)"
+      "formula": "Service Quality Gap = Perceived Service Experience (P) - Expected Service (E)",
+      "ai_solution": {
+        "direct_answer": "Option B: A customer experiencing a recurring, identical service failure that is repeatedly compensated for",
+        "correct_label": "B",
+        "correct_text": "A customer experiencing a recurring, identical service failure that is repeatedly compensated for",
+        "core_reason": "Service recovery is about systematically identifying service failures, resolving customer dissatisfaction, and turning aggrieved customers into loyal advocates.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Service recovery = Galti theek karke customer ko retain karna."
+      }
     },
     {
       "id": "Quiz1_Q2",
@@ -4839,7 +6072,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Essential requirements for survival and well-being such as food, clothing, and \nshelter",
+        "correct_label": "B",
+        "correct_text": "Essential requirements for survival and well-being such as food, clothing, and \nshelter",
+        "core_reason": "Needs are essential, non-negotiable physiological requirements for survival and basic well-being, such as nutrition, potable water, clothing, and shelter.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Needs = Survival ke liye non-negotiable!"
+      }
     },
     {
       "id": "Quiz1_Q3",
@@ -4873,7 +6115,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: Unlimited human wants that are never fully satisfied",
+        "correct_label": "C",
+        "correct_text": "Unlimited human wants that are never fully satisfied",
+        "core_reason": "Human wants are virtually unlimited and insatiable; satisfying one desire inevitably gives rise to new, higher-level wants.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Insatiable wants = Kabhi na khatam hone wali chahatein."
+      }
     },
     {
       "id": "Quiz1_Q4",
@@ -4907,7 +6158,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: The science of constrained choices and allocation of scarce resources to meet \nunlimited human wants",
+        "correct_label": "B",
+        "correct_text": "The science of constrained choices and allocation of scarce resources to meet \nunlimited human wants",
+        "core_reason": "The correct answer is B. Conceptually: The science of constrained choices and allocation of scarce resources to meet \nunlimited human wants. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q5",
@@ -4941,7 +6201,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: Air",
+        "correct_label": "C",
+        "correct_text": "Air",
+        "core_reason": "A Free Good is naturally abundant with zero opportunity cost, meaning consuming it does not deprive anyone else (e.g. ambient air, sunlight).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Free good = Zero opportunity cost & unlimited supply."
+      }
     },
     {
       "id": "Quiz1_Q6",
@@ -4975,7 +6244,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: Smaller parts of the economy such as individual consumers and businesses",
+        "correct_label": "C",
+        "correct_text": "Smaller parts of the economy such as individual consumers and businesses",
+        "core_reason": "The correct answer is C. Conceptually: Smaller parts of the economy such as individual consumers and businesses. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q7",
@@ -5014,7 +6292,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option E: None of these Sub-Section Number :\n3 Sub-Section Id :\n640653396293 Question Shuffling Allowed :\nYes",
+        "correct_label": "E",
+        "correct_text": "None of these Sub-Section Number :\n3 Sub-Section Id :\n640653396293 Question Shuffling Allowed :\nYes",
+        "core_reason": "Goods with few substitutes and essential consumption (life-saving insulin, electricity, salt) exhibit inelastic demand (|Ep| < 1), where quantity changes minimally in response to price shifts.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Inelastic = Price badhne par bhi log khareedenge!"
+      }
     },
     {
       "id": "Quiz1_Q8",
@@ -5048,7 +6335,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Elastic demand, because the quantity demanded responded substantially to \nthe price change",
+        "correct_label": "B",
+        "correct_text": "Elastic demand, because the quantity demanded responded substantially to \nthe price change",
+        "core_reason": "When a price hike causes significant cancellations, demand is price-elastic (|Ep| > 1), demonstrating that buyers have substitutes or consider the subscription non-essential.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Price badhi aur public bhaag gayi = Elastic Demand."
+      }
     },
     {
       "id": "Quiz1_Q9",
@@ -5082,7 +6378,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: None of these",
+        "correct_label": "D",
+        "correct_text": "None of these",
+        "core_reason": "The correct answer is D. Conceptually: None of these. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q10",
@@ -5121,7 +6426,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: New task and modified rebuy",
+        "correct_label": "B",
+        "correct_text": "New task and modified rebuy",
+        "core_reason": "The correct answer is B. Conceptually: New task and modified rebuy. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q11",
@@ -5155,7 +6469,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: 0.3 — inelastic",
+        "correct_label": "B",
+        "correct_text": "0.3 — inelastic",
+        "core_reason": "The correct answer is B. Conceptually: 0.3 — inelastic. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q12",
@@ -5189,7 +6512,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Wants enhance quality of life while desire is constrained by affordability — a \nperson may desire something but lack the purchasing power to demand it",
+        "correct_label": "B",
+        "correct_text": "Wants enhance quality of life while desire is constrained by affordability — a \nperson may desire something but lack the purchasing power to demand it",
+        "core_reason": "The correct answer is B. Conceptually: Wants enhance quality of life while desire is constrained by affordability — a \nperson may desire something but lack the purchasing power to demand it. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q13",
@@ -5223,7 +6555,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Price will increase; Quantity change is uncertain",
+        "correct_label": "B",
+        "correct_text": "Price will increase; Quantity change is uncertain",
+        "core_reason": "The correct answer is B. Conceptually: Price will increase; Quantity change is uncertain. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q14",
@@ -5257,7 +6598,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: Price will remain unchanged; Quantity will decrease.",
+        "correct_label": "A",
+        "correct_text": "Price will remain unchanged; Quantity will decrease.",
+        "core_reason": "The correct answer is A. Conceptually: Price will remain unchanged; Quantity will decrease.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q15",
@@ -5291,7 +6641,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: P* = ₹50; Total Revenue = ₹2,500",
+        "correct_label": "C",
+        "correct_text": "P* = ₹50; Total Revenue = ₹2,500",
+        "core_reason": "The correct answer is C. Conceptually: P* = ₹50; Total Revenue = ₹2,500. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q16",
@@ -5330,7 +6689,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option E: None of these",
+        "correct_label": "E",
+        "correct_text": "None of these",
+        "core_reason": "Microeconomics examines individual economic decision-makers (households, workers, single firms, individual product prices), while Macroeconomics analyzes aggregate national indicators (GDP, inflation, national unemployment, fiscal policy).",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Micro = Individual unit / firm; Macro = Poori desh ki economy (GDP, Inflation)."
+      }
     },
     {
       "id": "Quiz1_Q17",
@@ -5369,7 +6737,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: The purchase value is higher",
+        "correct_label": "C",
+        "correct_text": "The purchase value is higher",
+        "core_reason": "The correct answer is C. Conceptually: The purchase value is higher. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q18",
@@ -5403,7 +6780,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Inelastic demand for agricultural produce — a large increase in supply causes \na proportionately larger fall in price, reducing total revenue",
+        "correct_label": "B",
+        "correct_text": "Inelastic demand for agricultural produce — a large increase in supply causes \na proportionately larger fall in price, reducing total revenue",
+        "core_reason": "The correct answer is B. Conceptually: Inelastic demand for agricultural produce — a large increase in supply causes \na proportionately larger fall in price, reducing total revenue. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q19",
@@ -5437,7 +6823,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: P* = ₹15,000; Q* = 450 students",
+        "correct_label": "A",
+        "correct_text": "P* = ₹15,000; Q* = 450 students",
+        "core_reason": "When an artificial price ceiling is set below market equilibrium, quantity demanded exceeds quantity supplied, inevitably creating an acute shortage and deadweight loss.",
+        "calculation": null,
+        "distractor_trap": "A price ceiling below equilibrium causes a SHORTAGE; a price floor above equilibrium causes a SURPLUS.",
+        "hinglish_shortcut": "Ceiling below Equilibrium = Shortage & Queues!"
+      }
     },
     {
       "id": "Quiz1_Q20",
@@ -5471,7 +6866,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: 180 students",
+        "correct_label": "B",
+        "correct_text": "180 students",
+        "core_reason": "When an artificial price ceiling is set below market equilibrium, quantity demanded exceeds quantity supplied, inevitably creating an acute shortage and deadweight loss.",
+        "calculation": null,
+        "distractor_trap": "A price ceiling below equilibrium causes a SHORTAGE; a price floor above equilibrium causes a SURPLUS.",
+        "hinglish_shortcut": "Ceiling below Equilibrium = Shortage & Queues!"
+      }
     },
     {
       "id": "Quiz1_Q21",
@@ -5505,7 +6909,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: P* = ₹17,000 Sub-Section Number :\n6 Sub-Section Id :\n640653396296 Question Shuffling Allowed :\nYes",
+        "correct_label": "D",
+        "correct_text": "P* = ₹17,000 Sub-Section Number :\n6 Sub-Section Id :\n640653396296 Question Shuffling Allowed :\nYes",
+        "core_reason": "When an artificial price ceiling is set below market equilibrium, quantity demanded exceeds quantity supplied, inevitably creating an acute shortage and deadweight loss.",
+        "calculation": null,
+        "distractor_trap": "A price ceiling below equilibrium causes a SHORTAGE; a price floor above equilibrium causes a SURPLUS.",
+        "hinglish_shortcut": "Ceiling below Equilibrium = Shortage & Queues!"
+      }
     },
     {
       "id": "Quiz1_Q22",
@@ -5544,7 +6957,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option E: None of these",
+        "correct_label": "E",
+        "correct_text": "None of these",
+        "core_reason": "The correct answer is E. Conceptually: None of these. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option E is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q23",
@@ -5578,7 +7000,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: JKL, Gatekeepers",
+        "correct_label": "B",
+        "correct_text": "JKL, Gatekeepers",
+        "core_reason": "The correct answer is B. Conceptually: JKL, Gatekeepers. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz1_Q24",
@@ -5617,7 +7048,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option E: None of these",
+        "correct_label": "E",
+        "correct_text": "None of these",
+        "core_reason": "The correct answer is E. Conceptually: None of these. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option E is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q2",
@@ -5651,7 +7091,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: Profit earned from non-regular activities, such as selling land.",
+        "correct_label": "D",
+        "correct_text": "Profit earned from non-regular activities, such as selling land.",
+        "core_reason": "A capital reserve is created out of capital profits (such as profit on sale of fixed assets, share premium, or revaluation) and cannot be distributed as regular cash dividends.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Capital Reserve = Capital profits se banta hai, normal dividend me nahi banta."
+      }
     },
     {
       "id": "Quiz2_Q3",
@@ -5685,7 +7134,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: Assets increase and Liabilities increase.",
+        "correct_label": "D",
+        "correct_text": "Assets increase and Liabilities increase.",
+        "core_reason": "The correct answer is D. Conceptually: Assets increase and Liabilities increase.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q4",
@@ -5719,7 +7177,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: A specialized record used to track and summarize all transactions related to a \nspecific item.",
+        "correct_label": "A",
+        "correct_text": "A specialized record used to track and summarize all transactions related to a \nspecific item.",
+        "core_reason": "The correct answer is A. Conceptually: A specialized record used to track and summarize all transactions related to a \nspecific item.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q5",
@@ -5753,7 +7220,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: Assets = Liabilities + Equity",
+        "correct_label": "D",
+        "correct_text": "Assets = Liabilities + Equity",
+        "core_reason": "The correct answer is D. Conceptually: Assets = Liabilities + Equity. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option D is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q6",
@@ -5787,7 +7263,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: The Trading Account section of the Income Statement.",
+        "correct_label": "C",
+        "correct_text": "The Trading Account section of the Income Statement.",
+        "core_reason": "The correct answer is C. Conceptually: The Trading Account section of the Income Statement.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q7",
@@ -5821,7 +7306,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: The company has improved its efficiency in converting credit sales into cash.",
+        "correct_label": "A",
+        "correct_text": "The company has improved its efficiency in converting credit sales into cash.",
+        "core_reason": "The correct answer is A. Conceptually: The company has improved its efficiency in converting credit sales into cash.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q8",
@@ -5855,7 +7349,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: As a 'Write-off' and treated as an expense",
+        "correct_label": "B",
+        "correct_text": "As a 'Write-off' and treated as an expense",
+        "core_reason": "The correct answer is B. Conceptually: As a 'Write-off' and treated as an expense. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q9",
@@ -5889,7 +7392,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: ₹500,000",
+        "correct_label": "A",
+        "correct_text": "₹500,000",
+        "core_reason": "A capital reserve is created out of capital profits (such as profit on sale of fixed assets, share premium, or revaluation) and cannot be distributed as regular cash dividends.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Capital Reserve = Capital profits se banta hai, normal dividend me nahi banta."
+      }
     },
     {
       "id": "Quiz2_Q10",
@@ -5923,7 +7435,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹250,000",
+        "correct_label": "B",
+        "correct_text": "₹250,000",
+        "core_reason": "The correct answer is B. Conceptually: ₹250,000. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q11",
@@ -5957,7 +7478,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹ (60,000)",
+        "correct_label": "B",
+        "correct_text": "₹ (60,000)",
+        "core_reason": "The correct answer is B. Conceptually: ₹ (60,000). Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q12",
@@ -5991,7 +7521,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: The cost of the oldest items in stock is assigned to the goods sold first.",
+        "correct_label": "A",
+        "correct_text": "The cost of the oldest items in stock is assigned to the goods sold first.",
+        "core_reason": "First-In, First-Out assumes the earliest acquired inventory units are sold first. In inflationary periods, FIFO matches older cheaper costs against revenue, yielding lower COGS and higher ending inventory valuation.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "FIFO = Pehle aaya maal pehle bika!"
+      }
     },
     {
       "id": "Quiz2_Q13",
@@ -6025,7 +7564,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Because ICR specifically measures the ability to service debt from operating \nliquidity.",
+        "correct_label": "B",
+        "correct_text": "Because ICR specifically measures the ability to service debt from operating \nliquidity.",
+        "core_reason": "The correct answer is B. Conceptually: Because ICR specifically measures the ability to service debt from operating \nliquidity.. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q14",
@@ -6059,7 +7607,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: 0.53 :1",
+        "correct_label": "A",
+        "correct_text": "0.53 :1",
+        "core_reason": "The correct answer is A. Conceptually: 0.53 :1. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q15",
@@ -6093,7 +7650,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: 12",
+        "correct_label": "A",
+        "correct_text": "12",
+        "core_reason": "The correct answer is A. Conceptually: 12. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q16",
@@ -6127,7 +7693,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹55,000",
+        "correct_label": "C",
+        "correct_text": "₹55,000",
+        "core_reason": "The correct answer is C. Conceptually: ₹55,000. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q17",
@@ -6161,7 +7736,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹13L",
+        "correct_label": "B",
+        "correct_text": "₹13L",
+        "core_reason": "The correct answer is B. Conceptually: ₹13L. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q18",
@@ -6195,7 +7779,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: ₹200",
+        "correct_label": "A",
+        "correct_text": "₹200",
+        "core_reason": "First-In, First-Out assumes the earliest acquired inventory units are sold first. In inflationary periods, FIFO matches older cheaper costs against revenue, yielding lower COGS and higher ending inventory valuation.",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "FIFO = Pehle aaya maal pehle bika!"
+      }
     },
     {
       "id": "Quiz2_Q19",
@@ -6229,7 +7822,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: ₹580,000",
+        "correct_label": "A",
+        "correct_text": "₹580,000",
+        "core_reason": "The correct answer is A. Conceptually: ₹580,000. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option A is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q20",
@@ -6263,7 +7865,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: ₹440 lower",
+        "correct_label": "B",
+        "correct_text": "₹440 lower",
+        "core_reason": "The correct answer is B. Conceptually: ₹440 lower. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option B is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q21",
@@ -6297,7 +7908,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹48L",
+        "correct_label": "C",
+        "correct_text": "₹48L",
+        "core_reason": "The correct answer is C. Conceptually: ₹48L. Official IIT Madras TCS iON Exam Question",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Direct Exam Key: Option C is the verified answer."
+      }
     },
     {
       "id": "Quiz2_Q22",
@@ -6331,7 +7951,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option B: Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 10.00 times",
+        "correct_label": "B",
+        "correct_text": "Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 10.00 times",
+        "core_reason": "Debt-Equity ratio indicates the proportion of borrowed funds to owners' net worth.",
+        "calculation": "Total Debt = 2,500 Cr | Shareholders' Equity = 12,500 Cr | D/E = 2,500 / 12,500 = 0.20",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: Debt-to-Equity = 0.20."
+      }
     },
     {
       "id": "Quiz2_Q23",
@@ -6365,7 +7994,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option A: EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 3.33%",
+        "correct_label": "A",
+        "correct_text": "EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 3.33%",
+        "core_reason": "EPS represents the net profit earned by each individual common equity share outstanding.",
+        "calculation": "Total Shares = Equity Share Capital / Face Value = 500 Cr / ₹1 = 500 Cr shares | EPS = PAT (3,375) / 500 = ₹6.75",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "XYZ Golden Number: EPS = ₹6.75."
+      }
     },
     {
       "id": "Quiz2_Q24",
@@ -6399,7 +8037,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option C: ₹19.75 million",
+        "correct_label": "C",
+        "correct_text": "₹19.75 million",
+        "core_reason": "Based on financial statement analysis: ₹19.75 million",
+        "calculation": null,
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Apply XYZ Ltd verified financial statements parameters."
+      }
     },
     {
       "id": "Quiz2_Q25",
@@ -6433,7 +8080,16 @@
       ],
       "feedback": "Official IIT Madras TCS iON Exam Question",
       "mnemonic": "Exam High-Yield Real Question",
-      "formula": ""
+      "formula": "",
+      "ai_solution": {
+        "direct_answer": "Option D: New Debt-Equity Ratio: 0.39x, New ROA: 12.96%",
+        "correct_label": "D",
+        "correct_text": "New Debt-Equity Ratio: 0.39x, New ROA: 12.96%",
+        "core_reason": "Gross Profit represents the direct trading margin obtained by deducting direct cost of sales (COGS) from net sales revenue.",
+        "calculation": "Gross Profit = Sales Revenue - Cost of Goods Sold (COGS)",
+        "distractor_trap": "Be careful of distractors that sound plausible but violate core definition boundaries.",
+        "hinglish_shortcut": "Revenue - COGS = Gross Profit."
+      }
     }
   ]
 }
