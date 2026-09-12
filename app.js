@@ -1063,21 +1063,43 @@ Core Principle: "Intent of Ownership Determines Accounting Treatment".`,
               <span class="card-tag tag-green" style="font-size: 0.68rem;">Verified Key</span>
             </div>
 
-            <!-- Core Conceptual Reason -->
-            <div style="margin-bottom: 10px;">
-              <div style="font-size: 0.78rem; font-weight: 700; color: #38bdf8; text-transform: uppercase; margin-bottom: 2px;">
-                💡 Conceptual Reason:
+            <!-- In-Depth Conceptual Explanation -->
+            <div style="margin-bottom: 12px;">
+              <div style="font-size: 0.78rem; font-weight: 700; color: #38bdf8; text-transform: uppercase; margin-bottom: 3px; display: flex; align-items: center; gap: 6px;">
+                <span>💡</span> In-Depth Conceptual Rationale (Why it is Correct):
               </div>
-              <div style="font-size: 0.9rem; color: #f1f5f9; line-height: 1.55;">
-                ${escapeHtml((q.ai_solution && q.ai_solution.core_reason) || q.feedback || 'Identified based on fundamental BDM course principles.')}
+              <div style="font-size: 0.88rem; color: #f1f5f9; line-height: 1.6; background: rgba(56, 189, 248, 0.06); padding: 10px 14px; border-radius: 6px; border-left: 3px solid var(--accent-cyan);">
+                ${escapeHtml((q.ai_solution && (q.ai_solution.conceptual_explanation || q.ai_solution.core_reason)) || q.feedback || 'Identified based on fundamental BDM course principles.')}
               </div>
             </div>
+
+            <!-- Option-by-Option Breakdown: Why Correct & Why Others are Wrong -->
+            ${(q.ai_solution && q.ai_solution.options_breakdown && q.ai_solution.options_breakdown.length > 0) ? `
+              <div style="margin-bottom: 12px;">
+                <div style="font-size: 0.78rem; font-weight: 700; color: #a78bfa; text-transform: uppercase; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+                  <span>🔍</span> Option-by-Option Analysis (Why Correct vs Why Others Wrong):
+                </div>
+                <div style="display: flex; flex-direction: column; gap: 6px;">
+                  ${q.ai_solution.options_breakdown.map(ob => `
+                    <div style="padding: 8px 12px; border-radius: 4px; font-size: 0.83rem; line-height: 1.5; ${ob.is_correct ? 'background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.25); color: #ecfdf5;' : 'background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.07); color: #cbd5e1;'}">
+                      <div style="font-weight: 700; margin-bottom: 2px; display: flex; align-items: center; gap: 6px;">
+                        <span style="color: ${ob.is_correct ? 'var(--accent-emerald)' : '#94a3b8'};">Option ${ob.label}:</span>
+                        <span style="font-weight: 500; color: #94a3b8;">${escapeHtml(ob.text)}</span>
+                      </div>
+                      <div style="color: ${ob.is_correct ? '#a7f3d0' : '#e2e8f0'}; font-size: 0.82rem; margin-top: 2px;">
+                        ${escapeHtml(ob.analysis)}
+                      </div>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
 
             <!-- Numerical Calculation (if applicable) -->
             ${(q.ai_solution && q.ai_solution.calculation) ? `
               <div style="margin-bottom: 10px; background: rgba(0,0,0,0.35); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 4px; padding: 10px 14px;">
                 <div style="font-size: 0.78rem; font-weight: 700; color: #38bdf8; text-transform: uppercase; margin-bottom: 4px;">
-                  🔢 Step-by-Step Working:
+                  🔢 Step-by-Step Numerical Working:
                 </div>
                 <div style="font-family: var(--font-mono); font-size: 0.84rem; color: #a5f3fc; line-height: 1.6; white-space: pre-line;">
                   ${escapeHtml(q.ai_solution.calculation)}
@@ -1089,7 +1111,7 @@ Core Principle: "Intent of Ownership Determines Accounting Treatment".`,
             ${(q.ai_solution && q.ai_solution.distractor_trap) ? `
               <div style="margin-bottom: 8px; background: rgba(245, 158, 11, 0.08); border-left: 3px solid var(--accent-amber); padding: 8px 12px; border-radius: 4px;">
                 <div style="font-size: 0.75rem; font-weight: 700; color: #fbbf24; text-transform: uppercase;">
-                  ⚠️ Trap Alert (Why others are wrong):
+                  ⚠️ Trap Alert (Distractor Analysis):
                 </div>
                 <div style="font-size: 0.82rem; color: #fef3c7; line-height: 1.5; margin-top: 2px;">
                   ${escapeHtml(q.ai_solution.distractor_trap)}
