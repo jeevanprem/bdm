@@ -1,0 +1,2329 @@
+[1] ID: GA1_Q1 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+The college administration has a budget of ₹50 lakhs available to upgrade its facilities. Various
+departments have submitted proposals for new projects:
+Students general point of view, “This is mainly an accounting problem because it involves money.”
+How would an economics student counter this statement?
+   A. The student is correct, because economics only deals with decisions that involve money.
+   B. The situation is primarily about choosing how scarce resources should be allocated among competing alternatives. [*CORRECT*]
+   C. This is strictly a management problem, because it simply involves coordinating different departments.
+   D. This has nothing to do with economics, because no market transaction or trade has taken place yet.
+------------------------------------------------------------
+[2] ID: GA1_Q2 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+During the IPL Mega Auction, every franchise is given a strict budget cap (for example, ₹120 crore)
+to build their entire squad. Even though a team management wants to buy every single superstar
+batsman, bowler, and all-rounder available, they cannot do so because their financial capital is
+strictly limited. This constraint is an example of Economic Concept named as:
+   A. Demand
+   B. Scarcity [*CORRECT*]
+   C. Inflation
+   D. Macroeconomics
+------------------------------------------------------------
+[3] ID: GA1_Q3 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+The central government implements a sweeping, nationwide labour law that forces all instant-
+delivery platforms to provide medical insurance and standard minimum wages to all delivery
+partners. Economists run a large-scale data model to forecast how this nationwide law will impact
+the country’s overall worker unemployment rate and aggregate consumer spending across the
+entire retail sector. This analysis is a topic of:
+   A. Firm-level Optimization
+   B. Consumer Surplus
+   C. Microeconomics
+   D. Macroeconomics [*CORRECT*]
+------------------------------------------------------------
+[4] ID: GA1_Q4 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+An analyst at a project-based consultancy startup named Consult001 is studying how a newly
+proposed city-wide government cap on the maximum weight a delivery rider can carry changes the
+average delivery fee and individual consumer demand for heavy items (like 10 kg flour bags) in
+West Chennai. This specific analysis falls under the domain of:
+   A. Macroeconomics
+   B. Fiscal Policy
+   C. Microeconomics [*CORRECT*]
+   D. Monetary Policy
+------------------------------------------------------------
+[5] ID: GA1_Q5 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+Country X and Country Y both have private companies manufacturing electric vehicles. However:
+Which statement is most accurate?
+   A. Country X is a Capitalist Economy, while Country Y exhibits characteristics of a Mixed Economy. [*CORRECT*]
+   B. Country X and Country Y are both Socialist Economies because the government is involved in both.
+   C. Country Y is a Capitalist Economy because private companies manufacture vehicles.
+   D. Country X is a Mixed Economy because regulations exist.
+------------------------------------------------------------
+[6] ID: GA1_Q6 | Src: GA Week 1 | Wk: 1
+Q: Read questions carefully and then attempt it using Economics Concepts.
+You are going for a UPSC IAS interview and have already spent 45 minutes sitting in stagnant,
+bumper-to-bumper traffic on a city road. You finally reach a junction where you can change onto a
+clear express highway, but the 45 minutes you have already lost in traffic are gone forever and
+cannot be recovered, regardless of which route you choose for the rest of your trip. In economics,
+this unrecoverable past expenditure of time is classified as a:
+   A. Opportunity cost
+   B. Sunk cost [*CORRECT*]
+   C. Fixed cost
+   D. Marginal utility
+------------------------------------------------------------
+[7] ID: GA1_Q7 | Src: GA Week 1 | Wk: 1
+Q: The conceptual and numerical problems are based on the hypothetical case.Read the case
+carefully and based on the Economics concepts taught in class answer the following questions:
+Case Scenario-1:
+A GreenFleet001 startup in Chennai manages a delivery fleet for online food delivery partners
+using two types of vehicles: Electric 2- Wheelers (E2) and Electric 3-Wheelers (E3). Thecompany’s
+fleet operations are subject to a strict daily battery-charging cap of ₹20,000.
+Daily Budget Constrain Equation: 100E2 + 400E3 = 20,000
+Where:
+Charging costs associated with vehicles:
+₹100 is the daily charging cost per Electric 2- Wheelers (E2).
+₹400 is the daily charging cost per Electric 3-Wheelers (E3).
+Profit associated with the Vehicles:
+Electric 2- Wheelers Cycles (E2) generates ₹500 in daily net profit.
+Electric 2- Scooty/Bikes (E3) generates ₹1,500 in daily net profit.
+Due to a new, mandatory Business to Business (B2B) contract with a local e-commerce delivery
+based company, the startup must deploy exactly 10 Electric 3-Wheelers (E3 = 10) every day. To
+maximize overall company returns, the fleet manager wants to optimize the remaining charging
+budget to deploy as many Electric 2-Wheelers as possible.
+To ensure the charging budget is fully utilized without being exceeded, what is the maximum
+number of Electric 2-Wheelers ( ) the manager can optimally deploy?
+   A. 100 vehicles
+   B. 120 vehicles
+   C. 160 vehicles [*CORRECT*]
+   D. 200 vehicles
+------------------------------------------------------------
+[8] ID: GA1_Q8 | Src: GA Week 1 | Wk: 1
+Q: The conceptual and numerical problems are based on the hypothetical case.Read the case
+carefully and based on the Economics concepts taught in class answer the following questions:
+Case Scenario-1:
+A GreenFleet001 startup in Chennai manages a delivery fleet for online food delivery partners
+using two types of vehicles: Electric 2- Wheelers (E2) and Electric 3-Wheelers (E3). Thecompany’s
+fleet operations are subject to a strict daily battery-charging cap of ₹20,000.
+Daily Budget Constrain Equation: 100E2 + 400E3 = 20,000
+Where:
+Charging costs associated with vehicles:
+₹100 is the daily charging cost per Electric 2- Wheelers (E2).
+₹400 is the daily charging cost per Electric 3-Wheelers (E3).
+Profit associated with the Vehicles:
+Electric 2- Wheelers Cycles (E2) generates ₹500 in daily net profit.
+Electric 2- Scooty/Bikes (E3) generates ₹1,500 in daily net profit.
+Due to a new, mandatory Business to Business (B2B) contract with a local e-commerce delivery
+based company, the startup must deploy exactly 10 Electric 3-Wheelers (E3 = 10) every day. To
+maximize overall company returns, the fleet manager wants to optimize the remaining charging
+budget to deploy as many Electric 2-Wheelers as possible.
+What is the maximum daily profit the fleet can achieve under this operational constraint?
+   A. ₹80,000
+   B. ₹95,000 [*CORRECT*]
+   C. ₹1,00,000
+   D. ₹1,15,000
+------------------------------------------------------------
+[9] ID: GA2_Q1 | Src: GA Week 2 | Wk: 2
+Q: PPF concepts taught in class answer the following questions:
+2. Case -1: 6 Marks (2marks/each)
+3. Case -2: 6 Marks (2marks/each)
+Read questions carefully and then attempt it using Economics Concepts.
+You purchased non-refundable plane tickets for a trip to Mumbai this weekend for ₹5,500/-. You
+estimate that the trip would give you ₹10,000/- worth of value (enjoyment and benefits). Your
+friend has just called and informed you that he won 2 free pavilion tickets to the IPL final match
+between Gujarat Titans and RCB (cost ₹8,000/- each) and wants to know if you would like to join
+him. Calculate the effective value one must gain from the IPL final to justify missing the scheduled
+flight to Mumbai.
+   A. ₹5500
+   B. ₹16000
+   C. ₹10000 [*CORRECT*]
+   D. ₹8000
+Feedback: ₹5500/- is the sunk cost can’t be recovered. So effective trade-off cost will be what is the alternative effective value you can lose i.e ₹10,000/-
+------------------------------------------------------------
+[10] ID: GA2_Q2 | Src: GA Week 2 | Wk: 2
+Q: PPF concepts taught in class answer the following questions:
+2. Case -1: 6 Marks (2marks/each)
+3. Case -2: 6 Marks (2marks/each)
+Read questions carefully and then attempt it using Economics Concepts.
+Technocrat001 , an AI based startup located in Chennai, uses its fixed team of software engineers
+and graphics processors to develop two products: Autonomous Drone Software and Medical
+Imaging Analytics. If the startup is currently operating efficiently on its Production Possibility
+Frontier (PPF), what is the opportunity cost of allocating more engineering hours to optimize the
+Medical Imaging Analytics product?
+   A. The total profit generated by selling both software packages simultaneously.
+   B. The monetary value spent on engineering salaries and server electricity.
+   C. The value or quantity of Autonomous Drone Software updates that are sacrificed. [*CORRECT*]
+   D. Zero, because software code can be duplicated infinitely at no extra cost.
+Feedback: Because the firm is on the PPF boundary, resources are fully deployed; shifting resources to one product inherently requires reducing the output of the other.
+------------------------------------------------------------
+[11] ID: GA2_Q3 | Src: GA Week 2 | Wk: 2
+Q: PPF concepts taught in class answer the following questions:
+2. Case -1: 6 Marks (2marks/each)
+3. Case -2: 6 Marks (2marks/each)
+Read questions carefully and then attempt it using Economics Concepts.
+A company operating a Software-as-a-Service (SaaS) platform experiences a massive surge in
+growth driven by increasing online education, e-commerce, and other digital services along with
+digital money transaction. While their Total Fixed Costs (such as office rent, core system
+architecture, and baseline salaries) remain unchanged, they are able to distribute these overhead
+expenses across millions of new subscribers. Which of the following trends is most likely to occur?
+   A. The Average Fixed Cost (AFC) per subscriber will continuously decline toward zero. [*CORRECT*]
+   B. The Marginal Cost (MC) will become exactly equal to the Total Fixed Cost.
+   C. The Average Total Cost (ATC) will begin to increase immediately.
+   D. The Total Variable Cost (TVC) will automatically drop to zero.
+Feedback: Average Fixed Cost is calculated as TFC/Q. As scale (Q) grows larger against a constant numerator, the per-unit fixed cost drops continuously
+------------------------------------------------------------
+[12] ID: GA2_Q4 | Src: GA Week 2 | Wk: 2
+Q: PPF concepts taught in class answer the following questions:
+2. Case -1: 6 Marks (2marks/each)
+3. Case -2: 6 Marks (2marks/each)
+Read questions carefully and then attempt it using Economics Concepts.
+A chip manufacturing company, working on developing hardware for enterprises calculates that at
+its current output of 10,000 microchips, its Average Total Cost (ATC) is ₹1500.00 per chip. The
+Marginal Cost (MC) of producing the  chip is ₹800.00. What will happen to the Average
+Total Cost if the firm decides to produce that additional chip?
+   A. The ATC will decrease. [*CORRECT*]
+   B. The ATC will increase.
+   C. The Total Cost of production will decrease.
+   D. The ATC will stay exactly at ₹1500.00.
+Feedback: When the incremental cost of the next unit produced which is marginal cost ---- reduced in this case. Coming down from 1500 to 800. Due to this pulls the current average (ATC) and the overall running average decline. 10, 001st
+------------------------------------------------------------
+[13] ID: GA2_Q5 | Src: GA Week 2 | Wk: 2
+Q: The conceptual and numerical problems are based on the hypothetical case. Read the case
+carefully and based on the Economics concepts taught in class answer the following questions:
+(Total Marks - 6)
+Case Scenario:1
+Ramu's Tea Stall at IIT Madras
+Ramu’s tea stall was one of the most famous hotspots at IIT Madras, located near the Himalaya
+Mess on the campus. While he served a variety of snacks, cold drinks, and other refreshments, his
+tea, coffee, and samosas were the most popular items, consistently generating the highest sales. On
+any given day, Ramu operates with a fixed set of resources: a specific stall size, two burners, a
+limited amount of labour hours, and fixed daily supplies of milk, tea leaves, and coffee powder.
+With these resources, his primary focus is producing two major staple items: Tea and Filter Coffee.
+The PPF is a curve that shows the maximum possible output combinations of two goods an
+economy (or a business like Ramu's) can produce using all available resources efficiently.
+Here is how Ramu’s daily production frontier looks:
+Ramu is currently operating efficiently on his PPF, producing 300 cups of tea and 150 cups of filter
+coffee daily. During a major campus festival, demand for filter coffee spikes. If Ramu decides to
+produce 200 cups of filter coffee, what must happen to his tea production?
+   A. It will increase because higher coffee sales generate more revenue to buy tea leaves.
+   B. It will remain at 300 cups because making coffee uses different ingredients than making tea. According to the Production Possibility Frontier (PPF), a trade-off exists between the two items: reducing the production of Coffee allows for an increase in Tea production, and vice versa. For Ramu to achieve operating efficiency, he must produce at a point directly on the PPF curve.
+   C. It will drop to zero because a stall can only specialize in one efficient product at a time.
+   D. It will decrease because resources must be shifted from tea to coffee production. [*CORRECT*]
+Feedback: According to the Production Possibility Frontier (PPF), a trade-off exists between the two items: reducing the production of Coffee allows for an increase in Tea production, and vice versa. For Ramu to achieve operating efficiency, he must produce at a point directly on the PPF curve.
+------------------------------------------------------------
+[14] ID: GA2_Q6 | Src: GA Week 2 | Wk: 2
+Q: The conceptual and numerical problems are based on the hypothetical case. Read the case
+carefully and based on the Economics concepts taught in class answer the following questions:
+(Total Marks - 6)
+Case Scenario:1
+Ramu's Tea Stall at IIT Madras
+Ramu’s tea stall was one of the most famous hotspots at IIT Madras, located near the Himalaya
+Mess on the campus. While he served a variety of snacks, cold drinks, and other refreshments, his
+tea, coffee, and samosas were the most popular items, consistently generating the highest sales. On
+any given day, Ramu operates with a fixed set of resources: a specific stall size, two burners, a
+limited amount of labour hours, and fixed daily supplies of milk, tea leaves, and coffee powder.
+With these resources, his primary focus is producing two major staple items: Tea and Filter Coffee.
+The PPF is a curve that shows the maximum possible output combinations of two goods an
+economy (or a business like Ramu's) can produce using all available resources efficiently.
+Here is how Ramu’s daily production frontier looks:
+Suppose Ramu pays a monthly rent of ₹5,000 to the IIT Madras Estate Office for his stall space. Last
+month, campus vacations reduced his footfall, and he sold only half his usual volume of tea. How
+did this affect his Average Fixed Cost (AFC) per cup?
+   A. The AFC per cup doubled because the same total rent is now spread over half as many units. [*CORRECT*]
+   B. The AFC per cup dropped to zero because the stall operated under capacity. Average Fixed Cost is calculated as Total Fixed Cost divided by output (AFC=TFC/Q). Halving the quantity doubles the resulting value.
+   C. The AFC per cup remained exactly the same because rent is a fixed cost.
+   D. The AFC per cup decreased by half because less milk and sugar were wasted.
+Feedback: Average Fixed Cost is calculated as Total Fixed Cost divided by output (AFC=TFC/Q). Halving the quantity doubles the resulting value.
+------------------------------------------------------------
+[15] ID: GA2_Q7 | Src: GA Week 2 | Wk: 2
+Q: The conceptual and numerical problems are based on the hypothetical case. Read the case
+carefully and based on the Economics concepts taught in class answer the following questions:
+(Total Marks - 6)
+Case Scenario:1
+Ramu's Tea Stall at IIT Madras
+Ramu’s tea stall was one of the most famous hotspots at IIT Madras, located near the Himalaya
+Mess on the campus. While he served a variety of snacks, cold drinks, and other refreshments, his
+tea, coffee, and samosas were the most popular items, consistently generating the highest sales. On
+any given day, Ramu operates with a fixed set of resources: a specific stall size, two burners, a
+limited amount of labour hours, and fixed daily supplies of milk, tea leaves, and coffee powder.
+With these resources, his primary focus is producing two major staple items: Tea and Filter Coffee.
+The PPF is a curve that shows the maximum possible output combinations of two goods an
+economy (or a business like Ramu's) can produce using all available resources efficiently.
+Here is how Ramu’s daily production frontier looks:
+Ramu is currently producing 200 cups of tea per day. His Total Cost (TC) is ₹15,000, of which ₹8000
+is his Fixed Cost (FC) for rent and licenses. What is Ramu's Average Variable Cost (AVC) at this level
+of production?
+   A. ₹30/ cup
+   B. ₹28/ cup Total Variable Cost is TC−FC=15000−8000=7000. Dividing this by 200 cups gives 7000/200=35.
+   C. ₹40/ cup
+   D. ₹35/ cup [*CORRECT*]
+Feedback: Total Variable Cost is TC−FC=15000−8000=7000. Dividing this by 200 cups gives 7000/200=35.
+------------------------------------------------------------
+[16] ID: GA2_Q8 | Src: GA Week 2 | Wk: 2
+Q: Case Scenario: 2
+Tech-based software startup
+Data001 is a growing Tech-based software startup with limited resources. Currently, the team is
+working at full capacity and faces a critical resource allocation decision due to its limited
+resources. The company must decide how to deploy the team over the next 6 months. Because
+team bandwidth is limited, they only have the capacity to fully commit to any one of two available
+options in the current scenario. Every hour they spend working on an external project is an hour
+they cannot spend upgrading their own company's systems, and vice versa.
+The company must choose one of the following options:  (Total Marks - 6)
+Option A: Prioritize an Urgent Client External Project
+I. If they take on this time-sensitive external project, Data001 will earn an immediate, one-time
+revenue payment of ₹5.0 Lakh.
+II. However, going with option they must delay a critical internal software upgrade. Delaying this
+upgrade requires paying a vendor extension penalty of ₹1.5 Lakh.
+Option B: Prioritize the Internal Software Upgrade
+I. If they complete the internal upgrade now, the new system will immediately reduce the
+company's operational expenses by ₹10,000 (₹10K) per month.
+II. However, they will not have the bandwidth to take the client contract and will for feit the ₹5.0
+Lakh revenue.
+Suppose Data001's leadership decides to prioritize the urgent client contract (Option A). What is
+the opportunity cost of this decision?
+   A. The engineering time and effort spent fulfilling the client contract
+   B. The ₹1.5 Lakh vendor extension penalty they must pay for delaying the internal upgrade.
+   C. The operational cost savings they would have secured by completing the internal software upgrade. [*CORRECT*]
+   D. The ₹5.0 Lakh one-time revenue they earn from the client The operational cost savings they would have secured by completing the internal software upgrade.
+Feedback: The operational cost savings they would have secured by completing the internal software upgrade.
+------------------------------------------------------------
+[17] ID: GA2_Q9 | Src: GA Week 2 | Wk: 2
+Q: Case Scenario: 2
+Tech-based software startup
+Data001 is a growing Tech-based software startup with limited resources. Currently, the team is
+working at full capacity and faces a critical resource allocation decision due to its limited
+resources. The company must decide how to deploy the team over the next 6 months. Because
+team bandwidth is limited, they only have the capacity to fully commit to any one of two available
+options in the current scenario. Every hour they spend working on an external project is an hour
+they cannot spend upgrading their own company's systems, and vice versa.
+The company must choose one of the following options:  (Total Marks - 6)
+Option A: Prioritize an Urgent Client External Project
+I. If they take on this time-sensitive external project, Data001 will earn an immediate, one-time
+revenue payment of ₹5.0 Lakh.
+II. However, going with option they must delay a critical internal software upgrade. Delaying this
+upgrade requires paying a vendor extension penalty of ₹1.5 Lakh.
+Option B: Prioritize the Internal Software Upgrade
+I. If they complete the internal upgrade now, the new system will immediately reduce the
+company's operational expenses by ₹10,000 (₹10K) per month.
+II. However, they will not have the bandwidth to take the client contract and will for feit the ₹5.0
+Lakh revenue.
+Suppose Data001 decides to prioritize the urgent client contract to secure the immediate revenue,
+thereby delaying their internal upgrade for 6 months. What is the opportunity cost of this decision
+over the next 6 months?
+   A. ₹1.50 Lakh
+   B. ₹10K
+   C. ₹60K [*CORRECT*]
+   D. ₹2.10 Lakh Wrong
+------------------------------------------------------------
+[18] ID: GA2_Q10 | Src: GA Week 2 | Wk: 2
+Q: Case Scenario: 2
+Tech-based software startup
+Data001 is a growing Tech-based software startup with limited resources. Currently, the team is
+working at full capacity and faces a critical resource allocation decision due to its limited
+resources. The company must decide how to deploy the team over the next 6 months. Because
+team bandwidth is limited, they only have the capacity to fully commit to any one of two available
+options in the current scenario. Every hour they spend working on an external project is an hour
+they cannot spend upgrading their own company's systems, and vice versa.
+The company must choose one of the following options:  (Total Marks - 6)
+Option A: Prioritize an Urgent Client External Project
+I. If they take on this time-sensitive external project, Data001 will earn an immediate, one-time
+revenue payment of ₹5.0 Lakh.
+II. However, going with option they must delay a critical internal software upgrade. Delaying this
+upgrade requires paying a vendor extension penalty of ₹1.5 Lakh.
+Option B: Prioritize the Internal Software Upgrade
+I. If they complete the internal upgrade now, the new system will immediately reduce the
+company's operational expenses by ₹10,000 (₹10K) per month.
+II. However, they will not have the bandwidth to take the client contract and will for feit the ₹5.0
+Lakh revenue.
+Suppose Data001 decides to prioritize the urgent client contract to secure the immediate revenue,
+thereby delaying their internal upgrade for 6 months. What is the total economic cost of this
+decision over the next 6 months?
+   A. ₹1.50 Lakh
+   B. ₹5.0 Lakh
+   C. ₹4.50 Lakh
+   D. ₹2.10 Lakh [*CORRECT*]
+------------------------------------------------------------
+[19] ID: GA3_Q1 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+In B2B the end customer is
+   A. Individual
+   B. Business [*CORRECT*]
+   C. Both a and b
+   D. None of the above
+------------------------------------------------------------
+[20] ID: GA3_Q2 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+When the products are purchased frequently despite the high prices, it is referred to as
+   A. Modified rebuy
+   B. Straight rebuy [*CORRECT*]
+   C. New task situation
+   D. All the above
+------------------------------------------------------------
+[21] ID: GA3_Q3 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Services tend to be rich in
+   A. Experience attributes
+   B. Credence attributes
+   C. Search attributes
+   D. A and B only E. B and C only F. A and C only [*CORRECT*]
+------------------------------------------------------------
+[22] ID: GA3_Q4 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+When the organizations make decisions on purchases, they tend to decide on
+   A. Price
+   B. Quality
+   C. Both a and b Wrong
+   D. None of the above [*CORRECT*]
+------------------------------------------------------------
+[23] ID: GA3_Q5 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+The phenomenon of Jilting is common in
+   A. B2C only
+   B. B2B only [*CORRECT*]
+   C. B2B only but sometimes in B2C
+   D. B2C only but sometimes in B2B Wrong
+------------------------------------------------------------
+[24] ID: GA3_Q6 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Consumers perceive higher risk when purchasing
+   A. Everything they buy
+   B. Products
+   C. Services [*CORRECT*]
+   D. B and C only
+------------------------------------------------------------
+[25] ID: GA3_Q7 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Impulse buying phenomenon occurs in
+   A. B2C only [*CORRECT*]
+   B. B2B only
+   C. Both a and b
+   D. None of the above
+------------------------------------------------------------
+[26] ID: GA3_Q8 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+When purchases are made in B2B, all the 8 steps are followed in
+   A. Straight rebuy situation
+   B. New task situation [*CORRECT*]
+   C. Both a and b
+   D. None of the above
+------------------------------------------------------------
+[27] ID: GA3_Q9 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+B2B tends to be
+   A. Price elastic
+   B. Price inelastic Wrong
+   C. Price inelastic but conditional [*CORRECT*]
+   D. Price elastic but conditional
+------------------------------------------------------------
+[28] ID: GA3_Q10 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Agreements and contracts are higher in
+   A. B2C due to higher purchase value
+   B. B2B due to higher purchase value [*CORRECT*]
+   C. Both a and b
+   D. None of the above
+------------------------------------------------------------
+[29] ID: GA3_Q11 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+You work for ABC Software Technologies. The company decided to upgrade all its systems, and the
+purchase department has contacted four vendors to provide proposals based on their
+specifications. This proposal is referred to as
+   A. RFI
+   B. RFQ [*CORRECT*]
+   C. Both a and b
+   D. None of the above
+------------------------------------------------------------
+[30] ID: GA3_Q12 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Once the proposals were received, the internal department started analyzing the same to make a
+recommendation. This is referred to as
+   A. Buying center
+   B. Selling center
+   C. Both a and d [*CORRECT*]
+   D. Decision making unit Wrong
+------------------------------------------------------------
+[31] ID: GA3_Q13 | Src: GA Week 3 | Wk: 3
+Q: Introducing Basics of Business
+Note:
+Of the four vendors identified by the purchase department, the internal department started rating
+for a vendor named “Turn AB”, based on 4 CSF/KSFs- Pricing, Brand Image, Service Quality and
+Market reputation. Given that ABC software technologies were relatively new, they were highly
+price sensitive. They allocated the next higher weightage to service quality. Allocate the weights as
+per this information. The weights decided were- 10%, 30%, 10% and 50%. They then gave a score of
+(1-5) where 1 was least and 5 was highest. The highest weightage was allocated a score of 5, the
+next highest a score of 4 and the remaining 2 KSFs were given a score of 1 each. What was the final
+rating of “Turn AB”?
+   A. 3.8
+   B. 3.9 [*CORRECT*]
+   C. 3.7
+   D. 3.6
+------------------------------------------------------------
+[32] ID: GA4_Q1 | Src: GA Week 4 | Wk: 4
+Q: Demand is defined as the quantity of a good or service that consumers are:
+   A. Only willing to buy, regardless of ability to pay
+   B. Willing and able to buy at different prices during a given period of time [*CORRECT*]
+   C. Forced to buy due to necessity
+   D. Able to buy based on government regulations
+------------------------------------------------------------
+[33] ID: GA4_Q2 | Src: GA Week 4 | Wk: 4
+Q: According to the Law of Demand, when the price of a good increases:
+   A. Quantity demanded increases
+   B. Quantity demanded remains unchanged
+   C. Quantity demanded decreases [*CORRECT*]
+   D. Supply of the good automatically increases
+------------------------------------------------------------
+[34] ID: GA4_Q3 | Src: GA Week 4 | Wk: 4
+Q: The Law of Supply states that, ceteris paribus, when the price of a good rises:
+   A. The quantity supplied decreases
+   B. The quantity supplied remains constant
+   C. The quantity supplied also rises [*CORRECT*]
+   D. The demand for the good also rises
+------------------------------------------------------------
+[35] ID: GA4_Q4 | Src: GA Week 4 | Wk: 4
+Q: A demand schedule, when plotted on a graph, forms a:
+   A. Upward sloping curve
+   B. Horizontal line
+   C. Downward sloping curve [*CORRECT*]
+   D. Vertical line
+------------------------------------------------------------
+[36] ID: GA4_Q5 | Src: GA Week 4 | Wk: 4
+Q: Market demand is defined as:
+   A. The demand of the largest buyer in the market
+   B. The sum total of all individual demands for a product or service [*CORRECT*]
+   C. The demand at the lowest possible price
+   D. The government-regulated quantity of goods sold
+------------------------------------------------------------
+[37] ID: GA4_Q6 | Src: GA Week 4 | Wk: 4
+Q: Equilibrium price is the price at which:
+   A. Only suppliers are satisfied
+   B. The government sets the maximum price
+   C. Quantity demanded equals quantity supplied [*CORRECT*]
+   D. Demand exceeds supply significantly
+------------------------------------------------------------
+[38] ID: GA4_Q7 | Src: GA Week 4 | Wk: 4
+Q: Elasticity of demand measures:
+   A. The total revenue of a firm
+   B. The degree of responsiveness of demand to a change in price [*CORRECT*]
+   C. The number of substitutes in a market
+   D. The profitability of a product
+------------------------------------------------------------
+[39] ID: GA4_Q8 | Src: GA Week 4 | Wk: 4
+Q: If the price elasticity of demand (PED) ratio is greater than 1, the demand is:
+   A. Inelastic
+   B. Unit elastic
+   C. Elastic [*CORRECT*]
+   D. Perfectly inelastic
+------------------------------------------------------------
+[40] ID: GA4_Q9 | Src: GA Week 4 | Wk: 4
+Q: Which of the following goods would most likely have inelastic demand?
+   A. Luxury handbags
+   B. Life-saving insulin for diabetic patients [*CORRECT*]
+   C. Restaurant meals
+   D. Branded clothing
+------------------------------------------------------------
+[41] ID: GA4_Q10 | Src: GA Week 4 | Wk: 4
+Q: Price elasticity of supply measures:
+   A. How consumer preferences change over time
+   B. How much quantity supplied changes in response to a change in price [*CORRECT*]
+   C. The impact of government taxation on profits
+   D. The relationship between income and spending
+------------------------------------------------------------
+[42] ID: GA4_Q11 | Src: GA Week 4 | Wk: 4
+Q: Netflix raises subscription prices and many subscribers cancel. This is an example of:
+   A. Inelastic demand, because many people cancelled
+   B. Elastic demand, because the quantity demanded responded substantially to the price change [*CORRECT*]
+   C. Unit elastic demand, because the change in demand was proportional
+   D. Perfectly inelastic demand, because Netflix is a necessity
+------------------------------------------------------------
+[43] ID: GA4_Q12 | Src: GA Week 4 | Wk: 4
+Q: A pharmaceutical company holds the patent on a life-saving drug with no known alternatives.
+Which type of demand elasticity applies, and what is the revenue implication of increasing the
+drug's price?
+   A. Highly elastic — any price increase would cause revenue to collapse
+   B. Perfectly inelastic — demand remains constant regardless of price, so increasing price directly increases total revenue [*CORRECT*]
+   C. Unit elastic — revenue stays the same regardless of price change
+   D. Inelastic but not perfectly — a small price increase leads to a significant fall in demand
+------------------------------------------------------------
+[44] ID: GA4_Q13 | Src: GA Week 4 | Wk: 4
+Q: Which of the following correctly describes the relationship between demand elasticity and total
+revenue when price increases?
+   A. Elastic demand: revenue increases; Inelastic demand: revenue falls
+   B. Elastic demand: revenue falls; Inelastic demand: revenue increases [*CORRECT*]
+   C. Both elastic and inelastic goods will see revenue fall
+   D. Revenue is unaffected by elasticity
+------------------------------------------------------------
+[45] ID: GA4_Q14 | Src: GA Week 4 | Wk: 4
+Q: Consider demand elasticity in the context of total revenue. A company sells 1,000 units at ₹100
+each. It raises the price to ₹120 (a 20% increase), and sales volume drops to 700 units (a 30% drop).
+What is the PED, and what happens to total revenue?
+   A. PED = 0.67 (inelastic); Revenue increases from ₹1,00,000 to ₹1,20,000
+   B. PED = 1.5 (elastic); Revenue falls from ₹1,00,000 to ₹84,000 [*CORRECT*]
+   C. PED = 1.0 (unit elastic); Revenue remains unchanged at ₹1,00,000
+   D. PED = 1.5 (elastic); Revenue increases because price went up
+------------------------------------------------------------
+[46] ID: GA4_Q15 | Src: GA Week 4 | Wk: 4
+Q: The OPEC oil crisis of the 1970s demonstrated that in the SHORT run, both supply and demand for
+oil were inelastic. Which of the following best explains the long-run outcome and the economic
+principles at play? [Multiple correct answers possible]
+   A. Over time, non-OPEC producers expanded extraction capacity, increasing supply elasticity [*CORRECT*]
+   B. Consumers gradually shifted toward fuel-efficient vehicles, increasing demand elasticity over time [*CORRECT*]
+   C. In the long run, supply and demand curves become more elastic than in the short run [*CORRECT*]
+   D. OPEC's strategy led to permanently higher oil prices with no long-term correction
+------------------------------------------------------------
+[47] ID: GA5_Q1 | Src: GA Week 5 | Wk: 5
+Q: A manager needs a cost analysis and budget forecast to help decide on a new product
+development path. Which type of accounting provides this data?
+   A. Cost Accounting
+   B. Tax Accounting
+   C. Managerial Accounting [*CORRECT*]
+   D. Financial Accounting
+Feedback: This branch focuses specifically on the internal operations of a company, delivering data to help managers with budgeting, forecasting, and development decisions.
+------------------------------------------------------------
+[48] ID: GA5_Q2 | Src: GA Week 5 | Wk: 5
+Q: How are buildings categorized in a real estate firm that intends to sell them to customers, as
+opposed to a manufacturing firm that uses them as factories?
+   A. They are considered Intangible Assets for the real estate firm.
+   B. They are considered Current Liabilities for the manufacturing firm.
+   C. They are considered Fixed Assets in both cases.
+   D. They are considered Inventory for the real estate firm. [*CORRECT*]
+Feedback: If the intention of the business is to hold and sell the asset, it is treated as inventory rather than a fixed asset used for operations.
+------------------------------------------------------------
+[49] ID: GA5_Q3 | Src: GA Week 5 | Wk: 5
+Q: What is the primary difference between Current Assets and Fixed Assets?
+   A. Current assets are physical, while fixed assets are intangible.
+   B. Current assets are liabilities, while fixed assets are equity.
+   C. Fixed assets are easily converted to cash, while current assets are not.
+   D. Current assets are meant for liquidity and daily operations, while fixed assets are for long-term use. [*CORRECT*]
+Feedback: Current assets like cash and inventory support daily business, whereas fixed assets like plant and machinery are intended to generate revenue over a longer period.
+------------------------------------------------------------
+[50] ID: GA5_Q4 | Src: GA Week 5 | Wk: 5
+Q: According to the Measurement Principle, if a company purchased land for ₹100,000 a decade ago
+and its current market value is ₹500,000, at what value should it be recorded on the books?
+   A. ₹300,000
+   B. ₹100,000 [*CORRECT*]
+   C. ₹600,000
+   D. ₹500,000
+Feedback: The Measurement or Cost Principle dictates that assets must be recorded at their original purchase price (historical cost) regardless of current market shifts.
+------------------------------------------------------------
+[51] ID: GA5_Q5 | Src: GA Week 5 | Wk: 5
+Q: A business delivers a product to a customer in October, but the customer does not pay until
+December. Under the Revenue Recognition Principle, when is the revenue recorded?
+   A. Divided equally between October and December.
+   B. In December, when the cash is received.
+   C. In October, when the goods were provided. [*CORRECT*]
+   D. Only once the customer's promise to pay is legally verified in November.
+Feedback: Revenue is recognized when goods or services are provided to the customer and the amount is earned, regardless of the timing of the cash receipt.
+------------------------------------------------------------
+[52] ID: GA5_Q6 | Src: GA Week 5 | Wk: 5
+Q: Ravi has ₹300 in cash sales and ₹200 in credit sales on June 1st. What is his total revenue for that
+day?
+   A. ₹500 [*CORRECT*]
+   B. 200
+   C. 100
+   D. ₹300
+Feedback: Revenue includes both cash and credit sales made during the period, as the service/product has been delivered in both cases.
+------------------------------------------------------------
+[53] ID: GA5_Q7 | Src: GA Week 5 | Wk: 5
+Q: Ravi pays ₹2,100 for a full week's rent on Day 1. At the end of Day 1, how is the remaining ₹1,800
+classified?
+   A. Accrued Liability
+   B. Dividend
+   C. Prepaid Expense (Asset) [*CORRECT*]
+   D. Fixed Expense
+Feedback: Since the money has been paid but the service for the remaining six days has not been used, it is an asset that provides future benefit.
+------------------------------------------------------------
+[54] ID: GA5_Q8 | Src: GA Week 5 | Wk: 5
+Q: A Business Data Manager is monitoring 'Working Capital'. Which two components must they
+subtract to find this value?
+   A. Fixed Assets and Long-term Debt
+   B. Current Assets and Current Liabilities [*CORRECT*]
+   C. Total Assets and Total Liabilities
+   D. Revenue and Operating Expenses
+Feedback: Working capital specifically measures the short-term liquidity of a company by comparing daily resources with daily obligations.
+------------------------------------------------------------
+[55] ID: GA5_Q9 | Src: GA Week 5 | Wk: 5
+Q: If a company issues a share with a face value of ₹10 at a price of ₹50, where is the extra ₹40
+recorded?
+   A. Capital Reserve
+   B. Securities Premium [*CORRECT*]
+   C. Paid-up Capital
+   D. Profit and Loss Account
+Feedback: Any amount received above the face value of the shares during issuance is specifically categorized as securities premium within the reserves and surplus.
+------------------------------------------------------------
+[56] ID: GA5_Q10 | Src: GA Week 5 | Wk: 5
+Q: In Ravi's lemonade stand example, why is the juice machine considered an Asset while the sugar is
+considered an Expense?
+   A. Sugar is a fixed cost, while the machine is an operating cost.
+   B. The machine is a liability until it is fully paid for.
+   C. The machine is more expensive than the sugar.
+   D. The sugar provides immediate, used-up value, while the machine helps generate revenue in the future. [*CORRECT*]
+Feedback: Assets provide economic benefit over many periods, whereas expenses are 'used up' quickly to run the business day-to-day.
+------------------------------------------------------------
+[57] ID: GA5_Q11 | Src: GA Week 5 | Wk: 5
+Q: A company has the following accounts: Cash (₹20,000), Inventory (₹15,000), Machinery (₹100,000),
+Accounts Receivable (₹5,000), and Creditors (₹12,000). Based on the source material's definition of
+current assets and liabilities, calculate the 'Working Capital'.
+   A. ₹40,000
+   B. ₹28,000 [*CORRECT*]
+   C. ₹128,000
+   D. ₹140,000
+Feedback: Working capital is Current Assets (Cash ₹20, 000 + Inventory ₹15,000 + Receivables ₹5,000 = ₹40,000) minus Current Liabilities (Creditors ₹12,000)
+------------------------------------------------------------
+[58] ID: GA5_Q12 | Src: GA Week 5 | Wk: 5
+Q: Ravi's Lemonade Stand sells 60 glasses a day on average for the month of June (30 days) at ₹10
+each. Daily operating expenses are ₹350. Additionally, he pays a monthly fixed rent of ₹500. If he
+decides to distribute 50% of his monthly profit as dividends, what amount remains in the business
+as 'Retained Earnings'?
+   A. ₹7,000
+   B. ₹3,500 [*CORRECT*]
+   C. ₹9,000
+   D. ₹9,000
+Feedback: Total revenue is 18,000. Total expenses are 10,500 (operating) + 500 (fixed) = 11,000. Profit is ₹7,000. Half of this is 3,500.
+------------------------------------------------------------
+[59] ID: GA6_Q1 | Src: GA Week 6 | Wk: 6
+Q: If a company has ₹10,000 in 'Accounts Payable' and it pays off ₹3,000 to its suppliers, how does this
+affect the accounting equation?
+   A. Assets decrease by ₹3,000 and Liabilities decrease by 3,000. [*CORRECT*]
+   B. Liabilities decrease by 3,000 and Equity decreases by ₹3,000.
+   C. Only Liabilities are affected.
+   D. Assets decrease by ₹3,000 and Equity increases by ₹3,000.
+Feedback: Cash (Asset) is used to pay the debt, and the obligation to suppliers (Liability) is reduced by the same amount.
+------------------------------------------------------------
+[60] ID: GA6_Q2 | Src: GA Week 6 | Wk: 6
+Q: If a business owner takes ₹3000 from his business for his personal house rent, how is this recorded?
+   A. As a 'Rent Expense' for the business.
+   B. As 'Drawings', which reduces the Owner's Equity. [*CORRECT*]
+   C. As a 'Salary Expense' paid to Rohan.
+   D. As a 'Loan' that Rohan must pay back with interest.
+Feedback: Drawings are withdrawals of cash or assets by the owner for personal use, which reduce the owner's claim on the business.
+------------------------------------------------------------
+[61] ID: GA6_Q3 | Src: GA Week 6 | Wk: 6
+Q: What is the result of subtracting 'Cost of Goods Sold' (COGS) from 'Sales Revenue'?
+   A. Retained Earnings
+   B. Operating Income (EBIT)
+   C. Gross Profit [*CORRECT*]
+   D. Net Profit
+Feedback: Gross Profit is the profit a company makes after deducting the costs associated with making and selling its products (direct costs).
+------------------------------------------------------------
+[62] ID: GA6_Q4 | Src: GA Week 6 | Wk: 6
+Q: Ramesh invests ₹200,000 in his business. According to the accounting equation, how does this
+affect the business?
+   A. Liabilities increase and Equity decreases.
+   B. Assets (Cash) increase and Owner's Equity (Capital) increases. [*CORRECT*]
+   C. Only the Cash account is affected.
+   D. Assets (Cash) increase and Liabilities increase.
+Feedback: The business receives a resource (Cash) and records a corresponding claim by the owner (Capital) for that same amount.
+------------------------------------------------------------
+[63] ID: GA6_Q5 | Src: GA Week 6 | Wk: 6
+Q: If a business purchases a new delivery truck for cash, what is the impact on the total assets in the
+Balance Sheet?
+   A. Total assets increase and total liabilities increase.
+   B. Total assets increase by the cost of the truck.
+   C. Total assets decrease because cash is gone.
+   D. Total assets remain unchanged. [*CORRECT*]
+Feedback: This transaction is an exchange of one asset (Cash) for another asset (Equipment), so the total value of assets stays the same.
+------------------------------------------------------------
+[64] ID: GA6_Q6 | Src: GA Week 6 | Wk: 6
+Q: In a Trading Account, which side are 'Closing Stock' and 'Sales' recorded on?
+   A. Asset Side
+   B. Debit Side
+   C. Liability Side
+   D. Credit Side [*CORRECT*]
+Feedback: Sales and Closing Stock represent the direct incomes or outputs of the business period, which are credited in the Trading Account.
+------------------------------------------------------------
+[65] ID: GA6_Q7 | Src: GA Week 6 | Wk: 6
+Q: In the context of a Juice Stall business, why is 'Capital' considered a liability from the business's
+perspective?
+   A. Because the owner expects to be paid interest on his investment like a bank.
+   B. Because the owner might decide to close the stall and take the money at any time.
+   C. Because Capital must be paid back within one year.
+   D. Because the owner and the business are distinct entities; the business owes this money back to the owner. [*CORRECT*]
+Feedback: The business entity concept treats the business as separate from its owner, meaning it 'borrows' the initial capital from the owner.
+------------------------------------------------------------
+[66] ID: GA6_Q8 | Src: GA Week 6 | Wk: 6
+Q: Why is 'Depreciation' added back to 'Net Income' when calculating cash flow from Operating
+Activities?
+   A. Because depreciation increases the value of the assets over time.
+   B. Because depreciation is a non-cash expense that reduced net income but did not involve an actual cash outflow. [*CORRECT*]
+   C. Because the business needs that money to buy new machines immediately.
+   D. Because depreciation is a cash inflow that was previously ignored.
+Feedback: Since we start with Net Income, we must add back any expenses that didn't use cash to find the true cash generated by operations.
+------------------------------------------------------------
+[67] ID: GA6_Q9 | Src: GA Week 6 | Wk: 6
+Q: Using the Weighted Average Method, if you have 100 units at ₹5 and 200 units at ₹8, what is the
+average cost per unit?
+   A. ₹6.50
+   B. ₹6.00
+   C. ₹7.00 [*CORRECT*]
+   D. ₹13.00 =100+200 (100×5)+(200×8) =300 500+1600 =300 2100 7
+Feedback: The calculation is
+------------------------------------------------------------
+[68] ID: GA6_Q10 | Src: GA Week 6 | Wk: 6
+Q: A business pays ₹5,000 for a utility bill that was recorded as a liability in the previous month. What
+is the impact on the current month's Income Statement?
+   A. Gross profit increases.
+   B. There is no impact on the Income Statement. [*CORRECT*]
+   C. Revenue increases by ₹5,000.
+   D. Net income decreases by ₹5,000.
+Feedback: This transaction is simply the settlement of a liability (Utilities Payable) with an asset (Cash); the expense was already recognized last month.
+------------------------------------------------------------
+[69] ID: GA6_Q11 | Src: GA Week 6 | Wk: 6
+Q: A company purchases a machine for ₹11,000 with an estimated salvage value of 1,000 and a useful
+life of 5 years. Using the Straight-Line Method, what is the book value of the asset at the end of
+Year 2?
+   A. ₹8,000
+   B. ₹6,400
+   C. ₹7,000 [*CORRECT*]
+   D. ₹9,000
+Feedback: The annual depreciation is ₹2,000 ((₹11,000 - ₹1,000)/5); after two years, ₹4,000 is deducted from the original cost of ₹11,000.
+------------------------------------------------------------
+[70] ID: GA6_Q12 | Src: GA Week 6 | Wk: 6
+Q: A machine is purchased for ₹10,000. If the company applies the Written Down Value (WDV) method
+at a rate of 20%, what is the depreciation expense specifically for the second year?
+   A. 1,600 [*CORRECT*]
+   B. 28,000
+   C. 1,280
+   D. 2,000
+Feedback: In Year 1, depreciation is 20% of 10,000 (2,000); in Year 2, it is 20% of the remaining 8,000 book value.
+------------------------------------------------------------
+[71] ID: GA7_Q1 | Src: GA Week 7 | Wk: 7
+Q: A company has a Debt-Equity ratio of 4:1. What does this primarily suggest to a potential lender?
+   A. The company is primarily funded by the owner's own capital.
+   B. The company's assets are four times more valuable than its liabilities.
+   C. The company has significant unused borrowing capacity.
+   D. The company has a high financial risk due to heavy reliance on borrowed funds. [*CORRECT*]
+Feedback: High debt relative to equity increases risk as interest and principal obligations must be met regardless of performance. A 4:1 ratio means there is four times as much debt as equity, indicating a heavy reliance on external funds.
+------------------------------------------------------------
+[72] ID: GA7_Q2 | Src: GA Week 7 | Wk: 7
+Q: A firm reports a significant Net Profit, but is unable to pay its current month's utility bills. Which
+analysis tool would most likely reveal the reason for this discrepancy?
+   A. Cash Flow Statement Analysis [*CORRECT*]
+   B. Debt-Equity Ratio
+   C. Inventory Turnover Ratio
+   D. Price-to-Earnings Ratio
+Feedback: The Cash Flow Statement (CFS) reveals 'pseudo profits' by showing if the Net Profit is actually backed by cash inflows or just credit sales.
+------------------------------------------------------------
+[73] ID: GA7_Q3 | Src: GA Week 7 | Wk: 7
+Q: If a company purchases a new factory building for cash, how would this transaction be classified in
+the Cash Flow Statement?
+   A. Operating Activity
+   B. Financing Activity
+   C. Investing Activity [*CORRECT*]
+   D. Liquidity Activity
+Feedback: Investing activities involve the purchase and sale of long-term assets and other investments not included in cash equivalents.
+------------------------------------------------------------
+[74] ID: GA7_Q4 | Src: GA Week 7 | Wk: 7
+Q: In the calculation of the Interest Earned Ratio (ICR), why is depreciation added back to the Profit
+After Tax?
+   A. To artificially inflate the company's profitability for shareholders.
+   B. Because depreciation represents the value of new assets purchased during the year.
+   C. Because interest payments are tax-deductible, and depreciation is not.
+   D. Because depreciation is a non-cash expense that does not reduce the actual cash available to pay interest. [*CORRECT*]
+Feedback: ICR measures the ability to service debt; since depreciation doesn't involve a cash outflow, that 'profit' is still available for interest.
+------------------------------------------------------------
+[75] ID: GA7_Q5 | Src: GA Week 7 | Wk: 7
+Q: Which ratio would be most useful for a manager trying to determine if the company is
+overstocking items that are not selling?
+   A. Total Asset Turnover Ratio
+   B. Inventory Turnover Ratio [*CORRECT*]
+   C. Net Profit Margin
+   D. Current Ratio
+Feedback: This ratio shows how many times inventory is sold and replaced; a low ratio suggests dead stock or overstocking.
+------------------------------------------------------------
+[76] ID: GA7_Q6 | Src: GA Week 7 | Wk: 7
+Q: A stock has a Market Price of ₹100 and an Earnings Per Share (EPS) of ₹4. What does the resulting
+P/E ratio of 25 indicate to an analyst?
+   A. Investors are paying 25 rupees for every 1 rupee of the company's earnings. [*CORRECT*]
+   B. The stock is definitely undervalued because the ratio is a whole number.
+   C. The company is generating a 25% return on every share sold.
+   D. The company has 25 times more debt than it has earnings.
+Feedback: The P/E ratio (100 / 4 = 25) literally represents the price paid per unit of earnings.
+------------------------------------------------------------
+[77] ID: GA7_Q7 | Src: GA Week 7 | Wk: 7
+Q: If a business has a Current Ratio of 1:1 and its industry average is 2:1, what is a likely conclusion
+regarding its financial health?
+   A. The business may face difficulty honoring its short-term obligations if inventory sales slow down. [*CORRECT*]
+   B. The business has too much equity and should take on more long-term debt.
+   C. The business is more efficient than its competitors because it carries less 'lazy' cash.
+   D. The business is definitely profitable because its assets equal its liabilities.
+Feedback: A 1:1 ratio leaves no margin for error; any delay in converting current assets to cash could lead to default on liabilities.
+------------------------------------------------------------
+[78] ID: GA7_Q8 | Src: GA Week 7 | Wk: 7
+Q: A company reports a Net Profit Margin of 15% but a very low Total Asset Turnover. What can be
+inferred about the company's strategy?
+   A. The company's shareholders are getting a poor return on their equity.
+   B. The company is likely over-invested in assets that are not generating sufficient sales. [*CORRECT*]
+   C. The company relies on selling a high volume of low-margin products.
+   D. The company has poor control over its operating expenses.
+Feedback: A low asset turnover ratio indicates that the company is not utilizing its assets effectively to generate revenue, despite being profitable on the sales it does make.
+------------------------------------------------------------
+[79] ID: GA7_Q9 | Src: GA Week 7 | Wk: 7
+Q: True or False: A company can have a positive Net Profit on its Income Statement but a negative
+Cash Flow from Operating Activities.
+   A. False
+   B. True [*CORRECT*]
+Feedback: This occurs when a firm has high credit sales (revenue recorded but cash not received) or large cash payments for operating expenses not yet reflected in the P&L.
+------------------------------------------------------------
+[80] ID: GA7_Q10 | Src: GA Week 7 | Wk: 7
+Q: A company has Total Sales of ₹4,00,000 and Inventory of ₹80,000. What is the 'Inventory Holding
+Period' in months (assuming 12 months in a year)?
+   A. 20 months
+   B. 5 months
+   C. 0.2 months
+   D. 2.4 months [*CORRECT*]
+Feedback: Turnover is 400,000 / 80,000 = 5 times. The holding period is 12 / 5 = 2.4 months
+------------------------------------------------------------
+[81] ID: GA7_Q11 | Src: GA Week 7 | Wk: 7
+Q: Calculate the Interest Earned Ratio (ICR) for a firm with a Profit After Tax of ₹1,20,000, interest on
+long-term debt of ₹30,000, and depreciation of ₹50,000.
+   A. 4.00 times
+   B. 5.67 times
+   C. 3.00 times
+   D. 6.67 times [*CORRECT*]
+Feedback: The ICR is calculated as (PAT + Interest + Depreciation) / Interest, which is (1,20,000 + 30,000 +50,000) / 30,000.
+------------------------------------------------------------
+[82] ID: GA7_Q12 | Src: GA Week 7 | Wk: 7
+Q: A stock is trading at ₹120 per share. The company reports a Profit After Tax of ₹5,00,000 with
+50,000 outstanding equity shares. What is the P/E Ratio?
+   A. 12 [*CORRECT*]
+   B. 10
+   C. 24
+   D. 0.08
+Feedback: First, find EPS: 500000/50000 = 10. Then, divide the Market Price by EPS: 120/10 = 12.
+------------------------------------------------------------
+[83] ID: GA8_Q1 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Net Profit Margin for XYZ Limited in FY 2025?
+   A. 8.44% [*CORRECT*]
+   B. 11.25% Explanation: Profit Margin = (Net Profit / Revenue) * 100 Calculation: (3,375 / 40,000) * 100 = 8.4375%, which rounds to 8.44%.
+   C. 13.75%
+   D. 6.50%
+Feedback: Explanation: Profit Margin = (Net Profit / Revenue) * 100 Calculation: (3,375 / 40,000) * 100 = 8.4375%, which rounds to 8.44%.
+------------------------------------------------------------
+[84] ID: GA8_Q2 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Return on Assets (ROA) for the year.
+   A. 8.44%
+   B. 27.00% Co ect Explanation: Return on Assets (ROA) = (Net Profit / Total Assets) * 100 Calculation: (3,375 / 30,000) * 100 = 11.25%.
+   C. 11.25% [*CORRECT*]
+   D. 15.00%
+Feedback: Explanation: Return on Assets (ROA) = (Net Profit / Total Assets) * 100 Calculation: (3,375 / 30,000) * 100 = 11.25%.
+------------------------------------------------------------
+[85] ID: GA8_Q3 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Return on Equity (ROE) generated by the company?
+   A. 11.25%
+   B. 27.00% Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100 Calculation: (3,375 / 12,500) * 100 = 27.00%. [*CORRECT*]
+   C. 30.50%
+   D. 22.00%
+Feedback: Explanation: Return on Equity (ROE) = (Net Profit / Total Shareholder's Equity) * 100 Calculation: (3,375 / 12,500) * 100 = 27.00%.
+------------------------------------------------------------
+[86] ID: GA8_Q4 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Assuming average debtors are equal to the year-end debtors, what is the Debtors Turnover Ratio?
+   A. 8.00 times
+   B. 10.00 times Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times. [*CORRECT*]
+   C. 12.00 times
+   D. 14.00 times
+Feedback: Explanation: Debtors Turnover Ratio = Revenue / Debtors Calculation: 40,000 / 4,000 = 10.00 times.
+------------------------------------------------------------
+[87] ID: GA8_Q5 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Dividend Yield based on the current market price.
+   A. 1.33% [*CORRECT*]
+   B. 2.50% Explanation: Dividend Yield = (Dividend Per Share / Market Price) * 100 Calculation: (2.00 / 150) * 100 = 1.33%.
+   C. 3.47%
+   D. 4.00%
+Feedback: Explanation: Dividend Yield = (Dividend Per Share / Market Price) * 100 Calculation: (2.00 / 150) * 100 = 1.33%.
+------------------------------------------------------------
+[88] ID: GA8_Q6 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Calculate the Asset Turnover Ratio.
+   A. 1.50 times
+   B. 1.33 times Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33). [*CORRECT*]
+   C. 2.00 times
+   D. 0.85 times
+Feedback: Explanation: Asset Turnover Ratio = Revenue / Total Assets Calculation: 40,000 / 30,000 = 1.333 times (rounded to 1.33).
+------------------------------------------------------------
+[89] ID: GA8_Q7 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Based on the Cost of Materials Consumed, what is the Inventory Turnover Ratio?
+   A. 11.42 times
+   B. 10.00 times Co ect Explanation: Inventory Turnover Ratio = Cost of Materials Consumed / Inventory Calculation: 28,000 / 3,500 = 8.00 times.
+   C. 8.00 times [*CORRECT*]
+   D. 6.50 times
+Feedback: Explanation: Inventory Turnover Ratio = Cost of Materials Consumed / Inventory Calculation: 28,000 / 3,500 = 8.00 times.
+------------------------------------------------------------
+[90] ID: GA8_Q8 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What is the Earnings Per Share (EPS) XYZ Limited?
+   A. ₹6.75 [*CORRECT*]
+   B. ₹9.00 Explanation: Earnings Per Share (EPS) = Net Profit / Total Number of Outstanding Shares. Since the Equity Share Capital is ₹500 Crores and the face value is ₹1, there are 500 Crore shares. Calculation: 3,375 / 500 = ₹6.75 per share.
+   C. ₹11.25
+   D. ₹25.00
+Feedback: Explanation: Earnings Per Share (EPS) = Net Profit / Total Number of Outstanding Shares. Since the Equity Share Capital is ₹500 Crores and the face value is ₹1, there are 500 Crore shares. Calculation: 3,375 / 500 = ₹6.75 per share.
+------------------------------------------------------------
+[91] ID: GA8_Q9 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Using the EPS calculated in the previous question, what is the Price to Earnings (PE) Ratio?
+   A. 18.50
+   B. 20.00 Co ect Explanation: PE Ratio = Current Market Price / Earnings Per Share (EPS) Calculation: 150 / 6.75 = 22.22.
+   C. 22.22 [*CORRECT*]
+   D. 25.40
+Feedback: Explanation: PE Ratio = Current Market Price / Earnings Per Share (EPS) Calculation: 150 / 6.75 = 22.22.
+------------------------------------------------------------
+[92] ID: GA8_Q10 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Assess the solvency of the company by calculating the Debt-Equity Ratio.
+   A. 0.12
+   B. 0.20 Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity Calculation: 2,500 / 12,500 = 0.20. [*CORRECT*]
+   C. 0.25
+   D. 0.50
+Feedback: Explanation: Debt-Equity Ratio = Total Debt / Total Shareholder's Equity Calculation: 2,500 / 12,500 = 0.20.
+------------------------------------------------------------
+[93] ID: GA8_Q11 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+Based on the Profit & Loss statement, what is the EBITDA (Earnings Before Interest, Taxes,
+Depreciation, and Amortization) for XYZ Limited?
+   A. ₹4,500 Crores Co ect Explanation: EBITDA = Revenue - (Cost of Materials + Employee Benefits + Other Expenses). Calculation: 40,000 - (28,000 + 2,500 + 4,000) = 40,000 - 34,500 = ₹5,500 Crores. Alternatively: PBT (4,500) + Depreciation (800) + Finance Cost (200) = ₹5,500 Crores.
+   B. ₹5,500 Crores [*CORRECT*]
+   C. ₹6,300 Crores
+   D. ₹34,500 Crores
+Feedback: Explanation: EBITDA = Revenue - (Cost of Materials + Employee Benefits + Other Expenses). Calculation: 40,000 - (28,000 + 2,500 + 4,000) = 40,000 - 34,500 = ₹5,500 Crores. Alternatively: PBT (4,500) + Depreciation (800) + Finance Cost (200) = ₹5,500 Crores.
+------------------------------------------------------------
+[94] ID: GA8_Q12 | Src: GA Week 8 | Wk: 8
+Q: Case Study Assignment
+Company Overview and Financial Statements
+XYZ Limited is a leading manufacturer of commercial vehicles. Below are the simplified financial
+statements for the company for a Financial Year. You are required to analyze these statements to
+calculate key financial metrics and answer the questions that follow.
+(Note: All figures are in Crores, except per-share data).
+Simplified Profit & Loss Statement
+Particulars Amount (in Crores)
+Revenue from Operations 40,000
+Expenses:
+Cost of Materials Consumed 28,000
+Employee Benefits Expense 2,500
+Other Expenses 4,000
+Depreciation 800
+Finance Costs (Interest) 200
+Total Expenses 35,500
+Profit Before Tax (PBT) 4,500
+Tax Expense 1,125
+Net Profit / Profit After Tax (PAT) 3,375
+Simplified Balance Sheet
+Particulars Amount (in Crores)
+Equity & Liabilities
+Equity Share Capital (Face Value ₹1) 500
+Other Equity (Reserves) 12,000
+Total Shareholder's Equity 12,500
+Total Debt (Borrowings) 2,500
+Other Liabilities 15,000
+Total Equity & Liabilities 30,000
+Assets
+Fixed Assets (Net Block + CWIP) 6,000
+Inventory 3,500
+Debtors (Trade Receivables) 4,000
+Cash & Other Assets 16,500
+Total Assets 30,000
+Additional Market Information
+What are the total Operating Expenses (excluding depreciation and finance costs) for the company?
+   A. ₹35,500 Crores
+   B. ₹28,000 Crores E pected Explanation: Operating expenses exclude non-operating costs like finance costs and non-cash charges like depreciation. Calculation: Total Expenses (35,500) - Depreciation (800) - Finance Costs (200) = ₹34,500 Crores.
+   C. ₹34,500 Crores [*CORRECT*]
+   D. ₹30,500 Crores Wrong
+Feedback: Explanation: Operating expenses exclude non-operating costs like finance costs and non-cash charges like depreciation. Calculation: Total Expenses (35,500) - Depreciation (800) - Finance Costs (200) = ₹34,500 Crores.
+------------------------------------------------------------
+[95] ID: GA9_Q1 | Src: GA Week 9 | Wk: 9
+Q: Which accounting discipline is primarily concerned with identifying, measuring, and reporting
+financial data to external stakeholders like regulators and tax authorities?
+   A. Cost Accounting
+   B. Management Accounting
+   C. Financial Accounting [*CORRECT*]
+   D. Strategic Planning
+Feedback: It serves external users by providing standardized reports on the financial position and performance of an entity.
+------------------------------------------------------------
+[96] ID: GA9_Q2 | Src: GA Week 9 | Wk: 9
+Q: What is a major limitation of financial accounting?
+   A. It is purely historical and ignores non-financial data. [*CORRECT*]
+   B. It focuses solely on forward-looking projections.
+   C. It lacks a standardized structure for reports
+   D. It is intended only for internal senior management.
+Feedback: It deals strictly with financial transactions and does not record qualitative events or non-financial metrics like employee productivity.
+------------------------------------------------------------
+[97] ID: GA9_Q3 | Src: GA Week 9 | Wk: 9
+Q: Why does management accounting divide an organization into 'responsibility centers' like cost and
+investment centers?
+   A. To prepare the annual Balance Sheet
+   B. To ensure compliance with GAAP
+   C. To identify specific departments responsible for cost overruns [*CORRECT*]
+   D. To report to external shareholders
+Feedback: Categorizing centers allows management to apply accountability and identify where efficiency is lacking.
+------------------------------------------------------------
+[98] ID: GA9_Q4 | Src: GA Week 9 | Wk: 9
+Q: How do performance/variance analysis reports assist managers?
+   A. By providing a summary of historical dividend payments
+   B. By calculating the market value of the company's stock
+   C. By ensuring the company pays the correct amount of tax
+   D. By comparing planned performance against actual outputs [*CORRECT*]
+Feedback: Variance analysis identifies favorable or adverse differences, allowing managers to take corrective action.
+------------------------------------------------------------
+[99] ID: GA9_Q5 | Src: GA Week 9 | Wk: 9
+Q: A biscuit factory reduces costs by sourcing flour directly from producers instead of wholesalers.
+This is an application of which management accounting concept?
+   A. Overhead optimization
+   B. Just-In-Time inventory management
+   C. Direct Material cost reduction [*CORRECT*]
+   D. Labor productivity improvement
+Feedback: Eliminating middlemen in raw material procurement directly lowers the cost of materials used in production.
+------------------------------------------------------------
+[100] ID: GA9_Q6 | Src: GA Week 9 | Wk: 9
+Q: What is the primary baseline used for determining the selling price of a product in management
+accounting?
+   A. The price set by the government
+   B. The historical stock price
+   C. The amount of cash in the bank
+   D. Total cost (materials, labor, and overheads) [*CORRECT*]
+Feedback: Pricing cannot exist without costing; the total internal cost serves as the necessary foundation for price determination.
+------------------------------------------------------------
+[101] ID: GA9_Q7 | Src: GA Week 9 | Wk: 9
+Q: A firm decides to keep ₹10,00,000 in a current account instead of investing it in a Fixed Deposit
+earning 7%. The 7% foregone interest is an example of:
+   A. Variable Cost
+   B. Indirect Overhead
+   C. Opportunity Cost [*CORRECT*]
+   D. Sunk Cost
+Feedback: Opportunity cost represents the benefit lost by choosing one alternative over another.
+------------------------------------------------------------
+[102] ID: GA9_Q8 | Src: GA Week 9 | Wk: 9
+Q: If a company has a healthy Gross Profit but a low Net Profit, what does this indicate to
+management?
+   A. Indirect costs like administration or marketing are out of control. [*CORRECT*]
+   B. Manufacturing costs are too high.
+   C. The selling price is too low to cover variable costs.
+   D. There is a favorable variance in direct materials.
+Feedback: A low Net Profit despite high Gross Profit suggests that expenses outside of production are eating up the margins.
+------------------------------------------------------------
+[103] ID: GA9_Q9 | Src: GA Week 9 | Wk: 9
+Q: Given: Opening Stock of Raw Materials = ₹50,000, Purchases = ₹4,50,000, and Closing Stock of Raw
+Materials = ₹1,00,000. What is the Direct Material Consumed?
+   A. ₹3,50,000
+   B. ₹4,00,000 [*CORRECT*]
+   C. ₹5,00,000
+   D. ₹5,50,000
+Feedback: Calculation: ₹50,000 + ₹4,50,000 - ₹1,00,000 = ₹4,00,000.
+------------------------------------------------------------
+[104] ID: GA9_Q10 | Src: GA Week 9 | Wk: 9
+Q: A company faces a ₹4,000 adverse variance in the production of an AC unit. Why is simply raising
+the selling price by ₹4,000 often not a viable solution?
+   A. Because it would cause the Prime Cost to become Works Cost.
+   B. Because customers will switch to competitors offering a lower market price [*CORRECT*]
+   C. Because the adverse variance is a sunk cost that cannot be recovered.
+   D. Because it violates GAAP regulations.
+Feedback: In a competitive market, prices are dictated by market forces; raising price without adding value results in unsold inventory.
+------------------------------------------------------------
+[105] ID: GA9_Q11 | Src: GA Week 9 | Wk: 9
+Q: A manufacturer of electronics has a Cost of Production of ₹15,00,000. They have opening finished
+goods worth ₹2,00,000 and closing finished goods worth ₹2,50,000. If the total sales revenue is
+₹22,00,000, what is the Gross Profit?
+   A. 9,50,000
+   B. 6,50,000
+   C. 7,00,000
+   D. 7,50,000 [*CORRECT*]
+Feedback: Gross Profit is Sales minus COGS. COGS is calculated as Cost of Production + Opening Finished Goods - Closing Finished Goods (15,00,000 + 2,00,000 - 2,50,000 = 14,50,000). Thus, Gross Profit = 22,00,000 - 14,50,000 = 7,50,000.
+------------------------------------------------------------
+[106] ID: GA9_Q12 | Src: GA Week 9 | Wk: 9
+Q: A manufacturing unit currently buys raw materials from a wholesaler at ₹120 per unit. By switching
+to direct sourcing from the producer, the price drops to ₹105 per unit. If the unit requires 15,000
+units of material per month, what is the annual financial gain from this cost reduction strategy?
+   A. 18,00,000
+   B. 27,00,000 [*CORRECT*]
+   C. 2,25,000
+   D. 22,50,000
+Feedback: The monthly saving is (120 - 105) x 15,000 = 2,25,000. Multiplied by 12 months, the annual gain is 27,00,000.
+------------------------------------------------------------
+[107] ID: GA11_Q1 | Src: GA Week 11 | Wk: 11
+Q: Questions on Prospecting
+The process of identifying the potential customers for business is referred to as
+   A. Prospecting [*CORRECT*]
+   B. Pre approach
+   C. Approach
+   D. Needs analysis
+------------------------------------------------------------
+[108] ID: GA11_Q2 | Src: GA Week 11 | Wk: 11
+Q: The following things are done in pre-approach phase
+   A. Finding information on the buyer
+   B. Finding information on the company
+   C. Finding information on the selling situation
+   D. All the above [*CORRECT*]
+------------------------------------------------------------
+[109] ID: GA11_Q3 | Src: GA Week 11 | Wk: 11
+Q: Questions on Approach
+The technique “PSP” is used in
+   A. Prospecting
+   B. Needs analysis Wrong
+   C. Approach [*CORRECT*]
+   D. Offer (Pitch)
+------------------------------------------------------------
+[110] ID: GA11_Q4 | Src: GA Week 11 | Wk: 11
+Q: PSP refers to
+   A. Polite, sympathetic, professional [*CORRECT*]
+   B. Professional, sympathetic, polite
+   C. Polite, sacrificing, professional
+   D. Professional, salient, polite
+------------------------------------------------------------
+[111] ID: GA11_Q5 | Src: GA Week 11 | Wk: 11
+Q: Questions on needs analysis
+The approach used for needs analysis is
+   A. SPIN [*CORRECT*]
+   B. LAARC
+   C. PSP
+   D. None of the above
+------------------------------------------------------------
+[112] ID: GA11_Q6 | Src: GA Week 11 | Wk: 11
+Q: How can the seller uncover the needs of the customers?
+   A. Asking customers to speak
+   B. Asking customers, the right questions Wrong
+   C. Seller speaking most of the time
+   D. Options (a) and (b) only E. All the above [*CORRECT*]
+------------------------------------------------------------
+[113] ID: GA11_Q7 | Src: GA Week 11 | Wk: 11
+Q: In the needs analysis stage
+   A. Seller speaks 80% of the time
+   B. Customer speaks 80% of the time [*CORRECT*]
+   C. Both speak equally
+   D. None of the above
+------------------------------------------------------------
+[114] ID: GA11_Q8 | Src: GA Week 11 | Wk: 11
+Q: Questions on Offer (Pitch)
+The approach used for Offer (Pitch) is
+   A. FAB/SAB [*CORRECT*]
+   B. LAARC
+   C. ADAPT
+   D. CLOSE
+------------------------------------------------------------
+[115] ID: GA11_Q9 | Src: GA Week 11 | Wk: 11
+Q: FAB refers to
+   A. Features, advantages, benefits [*CORRECT*]
+   B. Features, advancements, benefits
+   C. Frustrations, advantages, benefits
+   D. Frustrations, advancements, benefits
+------------------------------------------------------------
+[116] ID: GA11_Q10 | Src: GA Week 11 | Wk: 11
+Q: In the offer (pitch) stage
+   A. Seller speaks 80% of the time [*CORRECT*]
+   B. Customer speaks 80% of the time
+   C. Both speak equally
+   D. None of the above
+------------------------------------------------------------
+[117] ID: GA11_Q11 | Src: GA Week 11 | Wk: 11
+Q: Questions on LAARC (Handling Objections)
+Introducing the source of objection(s), even before the prospective customer brings it up, is
+referred to as
+   A. Stall
+   B. Forestall [*CORRECT*]
+   C. Boomerang
+   D. Compensation
+------------------------------------------------------------
+[118] ID: GA11_Q12 | Src: GA Week 11 | Wk: 11
+Q: Buyers’ resistance is handled using LAARC. What does acronym “LAARC” stand for?
+   A. Listen, Adapt, Assess, Respond, Compensate
+   B. Listen, Assess, Adopt, Respond, Confirm
+   C. Listen, Acknowledge, Assess, Respond, Compensate
+   D. Listen, Acknowledge, Assess, Respond, Confirm [*CORRECT*]
+------------------------------------------------------------
+[119] ID: GA11_Q13 | Src: GA Week 11 | Wk: 11
+Q: Which is the best method to overcome customer objections and emphasize the salesperson points?
+   A. Direct denial
+   B. Coming to that
+   C. Third party reinforcement [*CORRECT*]
+   D. Indirect denial
+------------------------------------------------------------
+[120] ID: GA11_Q14 | Src: GA Week 11 | Wk: 11
+Q: Which of the following is “not” a major category of customer objection?
+   A. No need
+   B. Time delaying tactics
+   C. Offer/ Pitch [*CORRECT*]
+   D. High pricing
+------------------------------------------------------------
+[121] ID: GA11_Q15 | Src: GA Week 11 | Wk: 11
+Q: Which among the following is “not” a price objection?
+   A. We have a better offer from your competitor
+   B. Cannot afford to spend that much now
+   C. Ask me again next month when you stop by [*CORRECT*]
+   D. We think you are 30% over and above XYZ Pvt Ltd.
+------------------------------------------------------------
+[122] ID: GA11_Q16 | Src: GA Week 11 | Wk: 11
+Q: Questions on after sales
+Why is after sales service important for suppliers in B2B markets?
+   A. To show suppliers adhere to the standard operating procedures
+   B. Shows supplier commitment to their customer and is a source of competitive advantage [*CORRECT*]
+   C. To show customers how irrelevant their complaints are
+   D. To signal every product/ service purchased needs repair
+------------------------------------------------------------
+[123] ID: GA11_Q17 | Src: GA Week 11 | Wk: 11
+Q: What are the benefits associated with after sales service?
+   A. Reduces customer churn/ customer defection
+   B. Increases customer trust and commitment towards supplier
+   C. Increases brand loyalty and positive word of mouth
+   D. All the above [*CORRECT*]
+------------------------------------------------------------
+[124] ID: GA11_Q18 | Src: GA Week 11 | Wk: 11
+Q: When the supplier provides after-sales services, customers tend to
+   A. Dislike the business
+   B. Have a negative experience
+   C. Spread negative word of mouth
+   D. Have a positive experience [*CORRECT*]
+------------------------------------------------------------
+[125] ID: GA11_Q19 | Src: GA Week 11 | Wk: 11
+Q: What should suppliers do when customer reports an issue post sale
+Lie
+Apologize
+Explain the root cause of the problem
+Compensate for the losses
+   A. I and II only
+   B. I, II and III only
+   C. I, III and IV only
+   D. II, III and IV only [*CORRECT*]
+------------------------------------------------------------
+[126] ID: GA11_Q20 | Src: GA Week 11 | Wk: 11
+Q: After-sales service include the following:
+   A. Installing Products
+   B. Repairing Products
+   C. Product warranty or guarantee
+   D. All the above [*CORRECT*]
+------------------------------------------------------------
+[127] ID: GA12_Q1 | Src: GA Week 12 | Wk: 12
+Q: What is service recovery mainly about?
+   A. Preventing all service failures
+   B. Restoring customer satisfaction following a service failure [*CORRECT*]
+   C. Training employees on product features
+   D. Offering discounts to loyal customers
+------------------------------------------------------------
+[128] ID: GA12_Q2 | Src: GA Week 12 | Wk: 12
+Q: Why is effective service recovery important for businesses?
+   A. It can retain customers and enhance their loyalty [*CORRECT*]
+   B. Only relevant for luxury brands
+   C. Cuts the operational costs
+   D. Guarantees no future failures occur
+------------------------------------------------------------
+[129] ID: GA12_Q3 | Src: GA Week 12 | Wk: 12
+Q: When a customer experiences a service failure, what is the first crucial step in the service recovery
+process?
+   A. Providing compensation
+   B. Blaming the customer or the company
+   C. Active listening of the customers complaint [*CORRECT*]
+   D. Explaining the company policy
+------------------------------------------------------------
+[130] ID: GA12_Q4 | Src: GA Week 12 | Wk: 12
+Q: Which of the following is a common tool used in service recovery?
+   A. A sincere apology [*CORRECT*]
+   B. Reducing staff training
+   C. Having a strict rule for customers
+   D. Ignoring customer feedback
+------------------------------------------------------------
+[131] ID: GA12_Q5 | Src: GA Week 12 | Wk: 12
+Q: How does empowering front line employees contribute to the service recovery process?
+   A. Makes them responsible to prevent all service failures
+   B. Resolve issues quickly without the need for manager approval [*CORRECT*]
+   C. Both a and b
+   D. Reduces the need for customer feedback
+------------------------------------------------------------
+[132] ID: GA12_Q6 | Src: GA Week 12 | Wk: 12
+Q: Why is it important to respond quickly to a customer’s complaint?
+   A. Makes the problem disappear
+   B. Guarantees customer spreads positive word of mouth
+   C. Shows company values customers time and business, reducing frustration [*CORRECT*]
+   D. Prevents customers from coming again
+------------------------------------------------------------
+[133] ID: GA12_Q7 | Src: GA Week 12 | Wk: 12
+Q: What is the long-term benefit of an effective service recovery process?
+   A. Allows company to charge higher prices
+   B. Good insights to prevent future failures [*CORRECT*]
+   C. Eliminates the need for quality control
+   D. Focus on short term fixes
+------------------------------------------------------------
+[134] ID: GA12_Q8 | Src: GA Week 12 | Wk: 12
+Q: Role of customer feedback in the service recovery process
+   A. Useful for marketing campaigns
+   B. Useful for sales campaigns
+   C. Identify the problem, evaluate the solution, and improve future services [*CORRECT*]
+   D. Should only be collected from satisfied customers
+------------------------------------------------------------
+[135] ID: GA12_Q9 | Src: GA Week 12 | Wk: 12
+Q: The action that needs to be avoided during the service recovery process is
+   A. Offering a fair compensation
+   B. Resolving the problem
+   C. Arguing with customer as to who is at fault [*CORRECT*]
+   D. Taking responsibility for failure
+------------------------------------------------------------
+[136] ID: GA12_Q10 | Src: GA Week 12 | Wk: 12
+Q: When a service failure causes social losses to the customer, it is a
+   A. Outcome failure
+   B. Process failure [*CORRECT*]
+   C. Both outcome and process failure
+   D. Service failure
+------------------------------------------------------------
+[137] ID: GA12_Q11 | Src: GA Week 12 | Wk: 12
+Q: The scenarios least likely to result in a service recovery paradox.
+   A. A loyal customer encountering a significant service failure that is resolved with an extraordinary, personalized solution
+   B. A customer experiencing a recurring, identical service failure that is repeatedly compensated for [*CORRECT*]
+   C. A customer whose initial expectations were low, but received an exceptional recovery
+   D. A first-time customer whose service failure was quickly resolved by an empathetic staff
+------------------------------------------------------------
+[138] ID: Quiz1_Q2 | Src: Quiz 1 | Wk: 1
+Q: What is the primary definition of 'needs' in economics?
+   A. Goods that enhance quality of life
+   B. Essential requirements for survival and well-being such as food, clothing, and 
+shelter [*CORRECT*]
+   C. Products people wish to buy but cannot afford
+   D. Items available in unlimited supply
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[139] ID: Quiz1_Q3 | Src: Quiz 1 | Wk: 1
+Q: Which of the following best describes the term 'insatiable wants'?
+   A. Wants that can be fully satisfied over time
+   B. Wants that are limited in nature
+   C. Unlimited human wants that are never fully satisfied [*CORRECT*]
+   D. Wants that are only driven by affordability
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[140] ID: Quiz1_Q4 | Src: Quiz 1 | Wk: 1
+Q: Economics is best described as:
+   A. The study of money and banking only
+   B. The science of constrained choices and allocation of scarce resources to meet 
+unlimited human wants [*CORRECT*]
+   C. A guaranteed path to business success
+   D. The study of government taxation
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[141] ID: Quiz1_Q5 | Src: Quiz 1 | Wk: 1
+Q: Which of the following is an example of a 'free good' in economics?
+   A. A loaf of bread
+   B. A bottle of mineral water
+   C. Air [*CORRECT*]
+   D. A government-subsidized medicine
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[142] ID: Quiz1_Q6 | Src: Quiz 1 | Wk: 1
+Q: Microeconomics focuses on:
+   A. The economy, including GDP and inflation
+   B. Government budget allocation at a national level
+   C. Smaller parts of the economy such as individual consumers and businesses [*CORRECT*]
+   D. International trade policies
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[143] ID: Quiz1_Q7 | Src: Quiz 1 | Wk: 1
+Q: Which of the following goods would most likely have inelastic demand?
+   A. Luxury handbags
+   B. Restaurant meals
+   C. Mobile phones
+   D. Branded clothing
+   E. None of these Sub-Section Number :
+3 Sub-Section Id :
+640653396293 Question Shuffling Allowed :
+Yes [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[144] ID: Quiz1_Q8 | Src: Quiz 1 | Wk: 1
+Q: Amazon prime raises subscription prices and many subscribers cancel. This is an example of:
+   A. Inelastic demand, because many people cancelled
+   B. Elastic demand, because the quantity demanded responded substantially to 
+the price change [*CORRECT*]
+   C. Unit elastic demand, because the change in demand was proportional
+   D. Perfectly inelastic demand, because Amazon Prime is a necessity
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[145] ID: Quiz1_Q9 | Src: Quiz 1 | Wk: 1
+Q: In which of the below mentioned context is purchase volume is a better yardstick to differentiate 
+than purchase value
+   A. In B2C and sometimes B2B
+   B. In B2B but not B2C
+   C. Both B2C and B2B
+   D. None of these [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[146] ID: Quiz1_Q10 | Src: Quiz 1 | Wk: 1
+Q: The committee for IIT M BS Cultural Fest Paradox 2027 was formed. They decided to order newer 
+hoodies, since there were a lot of student complaints on the product quality of hoodies that was 
+sold earlier. A demand of 2000 hoodies was forecasted based on prior estimates. Each hoodie was 
+to roughly cost 2000 rupees. Brand ASA was chosen as the new supplier. However, they were 
+unable to make the customizations. Each customization (Name, Hoodie Number and IIT M logo) 
+cost 200 rupees/ hoodie. AJB was selected as vendor to customize them. Given the expenses 
+involved a committee was involved that monitored the purchases made. The buying situations 
+here are
+   A. New task and straight rebuy
+   B. New task and modified rebuy [*CORRECT*]
+   C. Modified rebuy and straight rebuy
+   D. Modified rebuy and new task
+   E. New task and new task
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[147] ID: Quiz1_Q11 | Src: Quiz 1 | Wk: 1
+Q: If the price of petrol increases by 10% and quantity demanded falls by only 3%, the PED ratio is 
+approximately:
+   A. 3.33 — elastic
+   B. 0.3 — inelastic [*CORRECT*]
+   C. 1.0 — unit elastic
+   D. 10.0 — perfectly elastic
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[148] ID: Quiz1_Q12 | Src: Quiz 1 | Wk: 1
+Q: Which of the following correctly distinguishes 'wants' from 'desire' in economics?
+   A. Wants are unlimited; desires are limited
+   B. Wants enhance quality of life while desire is constrained by affordability — a 
+person may desire something but lack the purchasing power to demand it [*CORRECT*]
+   C. Desire is always backed by purchasing power; wants are not
+   D. Wants and desires are interchangeable terms in economics
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[149] ID: Quiz1_Q13 | Src: Quiz 1 | Wk: 1
+Q: Suppose conflict escalates between the US and Iran. This conflict leads to a naval blockade in the 
+Strait of Hormuz, a critical transit route through which 20% of the world's crude oil passes. At the 
+same time, widespread panic drives regular consumers and commercial airlines to stockpile fuel 
+out of fear that supplies will dry up by the following week. This sudden surge in panic buying, 
+happening along with the supply disruption, creates a severe oil shortage. 
+ 
+How do these two events happening at the exact same time affect the global equilibrium price (P*) 
+and equilibrium quantity (Q*) of crude oil?
+   A. Price will decrease; Quantity will increase.
+   B. Price will increase; Quantity change is uncertain [*CORRECT*]
+   C. Price change is uncertain; Quantity will decrease.
+   D. Price will increase; Quantity will decrease.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[150] ID: Quiz1_Q14 | Src: Quiz 1 | Wk: 1
+Q: Assume, Apple launches its latest flagship iPhone-17. Simultaneously, two market forces occur: 
+First, a global semiconductor microchip shortage severely limits manufacturing output due to 
+trade deal tariff issues. Second, Google launches an aggressive marketing campaign during 
+2026 ICC Men's T20 World Cup, that successfully convinces millions of premium smartphone 
+users to switch to Android devices. 
+ 
+Assuming the drop in iPhone consumer demand is identical in magnitude to the drop in 
+production supply, what will happen to the equilibrium price (P*) and quantity (Q*) of the new 
+iPhone?
+   A. Price will remain unchanged; Quantity will decrease. [*CORRECT*]
+   B. Price will increase; Quantity will remain unchanged.
+   C. Price will decrease; Quantity will decrease.
+   D. Price will remain unchanged; Quantity will increase.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[151] ID: Quiz1_Q15 | Src: Quiz 1 | Wk: 1
+Q: Use the above diagram as your geometric guide for the Question below 
+ 
+The student-run night canteen at IIT Madras faces a sudden supply shock due to a harvest failure 
+in villages near Chennai, causing onion prices to rise. Baseline Equilibrium E is indicated by a 
+green dot in the figure. Based on the graph, what is the initial equilibrium price (P*) per kilogram 
+and the total baseline revenue generated by the onion suppliers?
+   A. P* = ₹100; Total Revenue = 0
+   B. P* = ₹80; Total Revenue = ₹1,600
+   C. P* = ₹50; Total Revenue = ₹2,500 [*CORRECT*]
+   D. P* =₹50; Total Revenue = ₹5,000 Sub-Section Number :
+4 Sub-Section Id :
+640653396294 Question Shuffling Allowed :
+Yes
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[152] ID: Quiz1_Q16 | Src: Quiz 1 | Wk: 1
+Q: Which of the following correctly distinguish microeconomics from macroeconomics? 
+ 
+i) Microeconomics studies the impact of Trump tariffs on individual Indian businesses; 
+Macroeconomics studies the impact on India's overall GDP and employment rate. 
+ii) Microeconomics uses a top-down approach; Macroeconomics uses a bottom-up approach. 
+iii) Macroeconomics focuses on how an IPL franchise allocates its budget across players. 
+iv) Both micro and macroeconomics involve constrained choices and optimization under resource 
+limitations. 
+v) Micro refers to small or makro and Macro refers to large or mikro.
+   A. i, ii, iii, iv, v
+   B. i, iv, v
+   C. i, ii, v
+   D. i, iii, iv
+   E. None of these [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[153] ID: Quiz1_Q17 | Src: Quiz 1 | Wk: 1
+Q: Agreements and contracts are higher in B2B mainly in comparison to B2C since
+   A. The customer is a business entity
+   B. The purchase volume is high
+   C. The purchase value is higher [*CORRECT*]
+   D. Many people are involved in decision making
+   E. All of these
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[154] ID: Quiz1_Q18 | Src: Quiz 1 | Wk: 1
+Q: A farmer's association argues that 'good news for farming' (a bumper crop/excellent harvest) can 
+sometimes be 'bad news for farmers' financially. Which economic concept best explains this 
+paradox?
+   A. The Law of Supply — higher supply always increases revenue
+   B. Inelastic demand for agricultural produce — a large increase in supply causes 
+a proportionately larger fall in price, reducing total revenue [*CORRECT*]
+   C. Economies of scope — producing more variety increases costs
+   D. Elastic demand — consumers buy significantly more when prices fall, 
+maintaining revenue Sub-Section Number :
+5 Sub-Section Id :
+640653396295 Question Shuffling Allowed :
+No Question Id : 6406532159024 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Question Numbers : (19 to 21) Question Label : Comprehension Mini Case Study 
+ 
+The Economics of a Campus Mess: How Price Controls Create Shortages In the IIT Madras 
+campus 
+ 
+In the IIT Madras campus, "R-Goura's" is a private contract student dining mess that serves 
+approximately 400 to 500 students per semester. At the beginning of each academic term, 
+students register their preferences among 10 available campus messes. Due to high demand for 
+certain dining options, a computerized random selection process finalizes students’ allocation. R-
+Goura's distinguishes itself by offering a dynamic, rotating menu for a standard 4-course meal 
+that is high in demand. 
+ 
+The Economic problems for R-Goura's Mess: 
+ 
+To provide financial predictability for students, the institute mandates that subscription rates are 
+strictly fixed for the entire semester. R-Goura's cannot alter its prices in between semester (Price 
+inelastic), regardless of fluctuations in commodity prices, supply chain disruptions, or shifts in 
+student preferences . 
+ 
+Let us assume that at the start of the semester, the equilibrium price for a semester-long premium 
+mess subscription under normal market conditions is calculated to be ₹15,000 per student. At this 
+rate, exactly 450 students want to join, matching the mess’s optimal operational capacity. 
+ 
+However, the student senate and administration cap the maximum allowable semester rate at 
+₹12,000 per student. Midway through the semester, a sudden surge in gas prices, wholesale 
+vegetable and fuel prices happened due to US-Iran geopolitical tensions, resulting in a shift in the 
+operational cost structures across campus. 
+ 
+Answer the subquestions based on your understanding of how supply, demand, and market 
+equilibrium principles apply to this case study. Sub questions
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[155] ID: Quiz1_Q19 | Src: Quiz 1 | Wk: 1
+Q: Prior to the price cap, what was the natural equilibrium price (P*) and equilibrium quantity (Q*) of students that R-Goura's would host without administrative intervention?
+   A. P* = ₹15,000; Q* = 450 students [*CORRECT*]
+   B. P* = ₹16,500; Q* = 420 students
+   C. P* = ₹12,000; Q* = 330 students
+   D. P* = ₹14,000; Q* = 470 students
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[156] ID: Quiz1_Q20 | Src: Quiz 1 | Wk: 1
+Q: Suppose the initial market demand function for the R-Goura's mess subscription per semester is 
+given by Qd = 750−0.02P, and the market supply function is Qs = −150+0.04P, where P is the price 
+in Rupees. If the administration sets a fixed price ceiling of ₹12,000 per semester, what is the 
+resulting shortage (excess demand) of student slots?
+   A. 0 students (Market clears)
+   B. 180 students [*CORRECT*]
+   C. 210 students
+   D. 150 students
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[157] ID: Quiz1_Q21 | Src: Quiz 1 | Wk: 1
+Q: If the administration decides to eliminate the random allocation and allows R-Goura's to adjust its 
+price to clear the market after the commodity price inflation (Qs2 =−270+0.04P), what will be the 
+new equilibrium price (Pnew*) to match the demand (Qd =750−0.02P)?
+   A. P* = ₹19,500
+   B. P* = ₹16,000
+   C. P* = ₹15,000
+   D. P* = ₹17,000 Sub-Section Number :
+6 Sub-Section Id :
+640653396296 Question Shuffling Allowed :
+Yes [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[158] ID: Quiz1_Q22 | Src: Quiz 1 | Wk: 1
+Q: Saturn solutions decided to replace their existing computing systems with high-speed computing 
+devices. Their purchase department conducted market research and identified the top 4 vendors- ABC, DEF, GHI and JKL, each being asked to submit their quotes also known as RFQ. This quote is 
+based on
+   A. Problem recognition
+   B. General description of needs
+   C. Request for information
+   D. Problem recognition, General description of needs & Request for information
+   E. None of these [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[159] ID: Quiz1_Q23 | Src: Quiz 1 | Wk: 1
+Q: The finance department of Saturn solutions had a total budget of 50 lakhs. They wanted a total of 
+50 laptops. All the vendors gave their best prices and there was no scope for further negotiation. 
+While ABC quoted a price of 70,000 INR/ laptop, DEF, GHI and JKL quoted INR 95,000, 1 lakh and 
+1.1 lakh/ laptop respectively. Which vendor got eliminated and the role played by finance 
+department was
+   A. JKL, Decision Making Unit
+   B. JKL, Gatekeepers [*CORRECT*]
+   C. JKL, Influencers
+   D. JKL, Decision makers Sub-Section Number :
+7 Sub-Section Id :
+640653396297 Question Shuffling Allowed :
+Yes
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[160] ID: Quiz1_Q24 | Src: Quiz 1 | Wk: 1
+Q: The DMU of Saturn solutions now had a tough job to do. They had to select one vendor out of the 
+three choices they had (ABC or DEF or GHI). They decided to rate the three vendors. A total of 4 
+CSF/ KSF were chosen. Brand Image, Product Quality, Service Quality, and Market feedback. Equal 
+weightage was allocated across the 4 KSFs. While GHI scored high on brand image, product 
+quality and market feedback, they did poorly on service quality. DEF scored high on service quality 
+but had moderate scores on the rest. ABC had moderate scores throughout. You need to rate 
+them on a scale of 1-5, where 1 is the least score, 5 being the highest and 3 being moderate. 
+ 
+The final scores of ABC, DEF and GHI are
+   A. 4, 3.5 and 3
+   B. 3, 4 and 3.5
+   C. 3, 3.75 and 4
+   D. 3.5, 3 and 4
+   E. None of these [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[161] ID: Quiz2_Q2 | Src: Quiz 2 | Wk: 12
+Q: Which of the following options correctly describe what a Capital Reserve is?
+   A. Money owed to suppliers for raw materials.
+   B. The amount of cash in the register at the end of the day.
+   C. Profits set aside for general safety from daily operations.
+   D. Profit earned from non-regular activities, such as selling land. [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[162] ID: Quiz2_Q3 | Src: Quiz 2 | Wk: 12
+Q: If a cafe buys ₹10,000 worth of a coffee beans machine on credit, what is the immediate impact on 
+the accounting equation?
+   A. Assets increase and Equity increases.
+   B. Liabilities increase and Equity decreases.
+   C. One Asset increases while another Asset decreases.
+   D. Assets increase and Liabilities increase. [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[163] ID: Quiz2_Q4 | Src: Quiz 2 | Wk: 12
+Q: An account is defined as the fundamental building block of the accounting system. Which of the 
+following options best describes its purpose?
+   A. A specialized record used to track and summarize all transactions related to a 
+specific item. [*CORRECT*]
+   B. A chronological diary of every event that happens on a business day.
+   C. A statutory document filed with government authorities for tax assessment.
+   D. A set of rules used to determine the market value of a business's brand.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[164] ID: Quiz2_Q5 | Src: Quiz 2 | Wk: 12
+Q: Which of the following is the correct fundamental accounting equation?
+   A. Liabilities = Assets + Equity
+   B. Assets + Liabilities = Equity
+   C. Equity = Liabilities - Assets
+   D. Assets = Liabilities + Equity [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[165] ID: Quiz2_Q6 | Src: Quiz 2 | Wk: 12
+Q: Which specific section of the statutory financial statements would you examine for determining 
+the 'Gross Profit' of a company?
+   A. The Profit & Loss Account section of the Income Statement.
+   B. The Assets side of the Balance Sheet.
+   C. The Trading Account section of the Income Statement. [*CORRECT*]
+   D. The Operating Activities section of the Cash Flow Statement.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[166] ID: Quiz2_Q7 | Src: Quiz 2 | Wk: 12
+Q: If a company's Debtors Turnover Ratio increases from 6 times to 10 times, what is the most likely 
+implication for its operations?
+   A. The company has improved its efficiency in converting credit sales into cash. [*CORRECT*]
+   B. The company is extending more credit to its customers to boost sales.
+   C. The company is taking longer to collect cash from its customers.
+   D. The company's sales have dropped significantly while debtors remained 
+constant. Sub-Section Number :
+3 Sub-Section Id :
+640653401856 Question Shuffling Allowed :
+Yes
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[167] ID: Quiz2_Q8 | Src: Quiz 2 | Wk: 12
+Q: If a customer buys a burger from a burger shop and promises to pay the shop owner in a week, 
+but the customer goes bankrupt and cannot pay the shop owner, how is this recorded in the 
+accounts?
+   A. As a Prepaid Expense
+   B. As a 'Write-off' and treated as an expense [*CORRECT*]
+   C. As a Capital Reserve
+   D. As a Long-term Liability
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[168] ID: Quiz2_Q9 | Src: Quiz 2 | Wk: 12
+Q: A business bought land for ₹200,000 twelve years ago. Today, the land's market value is 
+₹1,200,000. The company sells exactly half of the land for ₹600,000. According to the 
+Measurement (Cost) Principle, what is the 'Capital Reserve' profit recorded from this non-regular 
+activity?
+   A. ₹500,000 [*CORRECT*]
+   B. ₹20
+   C. ₹400,000
+   D. ₹1,000,000
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[169] ID: Quiz2_Q10 | Src: Quiz 2 | Wk: 12
+Q: Based on the Income Statement provided in the material, if Sales Revenue is ₹1,000,000, Cost of 
+Goods Sold is ₹400,000, Operating Expenses are ₹300,000, and Depreciation is ₹50,000, what is 
+the Operating Income (EBIT)?
+   A. ₹600,000
+   B. ₹250,000 [*CORRECT*]
+   C. ₹230,000
+   D. ₹300,000
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[170] ID: Quiz2_Q11 | Src: Quiz 2 | Wk: 12
+Q: Calculate the 'Net Cash from Investing Activities' if a business purchases ₹100,000 of equipment 
+and sells land for ₹40,000.
+   A. ₹140,000
+   B. ₹ (60,000) [*CORRECT*]
+   C. ₹60,000
+   D. ₹(140,000)
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[171] ID: Quiz2_Q12 | Src: Quiz 2 | Wk: 12
+Q: A business uses the First-In, First-Out (FIFO) method for inventory valuation. What is the core logic 
+of this method?
+   A. The cost of the oldest items in stock is assigned to the goods sold first. [*CORRECT*]
+   B. Inventory is always valued at its current market replacement cost.
+   C. Inventory is valued based on the average cost of all units available.
+   D. The cost of the most recently purchased items is assigned to the goods sold 
+first.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[172] ID: Quiz2_Q13 | Src: Quiz 2 | Wk: 12
+Q: Why might a lender prefer to look at the Interest Coverage Ratio (ICR) instead of just the total Net 
+Profit?
+   A. Because Net Profit includes non-operating income that cannot be used for 
+interest.
+   B. Because ICR specifically measures the ability to service debt from operating 
+liquidity. [*CORRECT*]
+   C. Because Net Profit is always higher than ICR.
+   D. Because ICR excludes depreciation, making it a more conservative measure of 
+profit.
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[173] ID: Quiz2_Q14 | Src: Quiz 2 | Wk: 12
+Q: If a firm has ₹133 in current assets and ₹100 in current liabilities, but ₹80 of those assets are 
+'Inventory', what is the Quick Ratio?
+   A. 0.53 :1 [*CORRECT*]
+   B. 0.80 :1
+   C. 1:1
+   D. 1.33 :1
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[174] ID: Quiz2_Q15 | Src: Quiz 2 | Wk: 12
+Q: A stock is trading at ₹120 per share. The company reports a Profit After Tax of ₹5,00,000 with 
+50,000 outstanding equity shares. What is the P/E Ratio?
+   A. 12 [*CORRECT*]
+   B. 10
+   C. 24
+   D. 0.08 Sub-Section Number :
+4 Sub-Section Id :
+640653401857 Question Shuffling Allowed :
+Yes
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[175] ID: Quiz2_Q16 | Src: Quiz 2 | Wk: 12
+Q: Alpha Consulting begins with an initial cash investment of ₹50,000. The company then purchases 
+₹10,000 in equipment on credit. Later, they generate ₹15,000 in revenue (with ₹7,500 received in 
+cash and ₹7,500 on credit), incur ₹8,000 in cash expenses, and pay a ₹2,000 cash dividend to 
+owners. What is the final value of Owners' Equity?
+   A. ₹57,000
+   B. ₹65,000
+   C. ₹55,000 [*CORRECT*]
+   D. ₹61,000
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[176] ID: Quiz2_Q17 | Src: Quiz 2 | Wk: 12
+Q: A tech shop, SmartTech , reports the following: Cash (₹10L), Inventory (₹5L),Accounts Receivable 
+(₹2L), Patents (₹3L), and Land (₹20L). Its liabilities include Creditors (₹4L) and a Long-term Bank 
+Loan (₹10L). Calculate the company's Working Capital.
+   A. ₹26L
+   B. ₹13L [*CORRECT*]
+   C. ₹3L
+   D. ₹16L
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[177] ID: Quiz2_Q18 | Src: Quiz 2 | Wk: 12
+Q: A company starts the period with 100 units of inventory at a cost of ₹5 each. It then purchases 200 
+units at ₹7 each. During the period, it sells 150 units for ₹15 each. What is the difference in Gross 
+Profit if the company switches from the LIFO method to the FIFO method of inventory valuation?
+   A. ₹200 [*CORRECT*]
+   B. ₹300
+   C. ₹0
+   D. ₹150
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[178] ID: Quiz2_Q19 | Src: Quiz 2 | Wk: 12
+Q: At the beginning of the year, a firm has Total Assets of ₹500,000 and Total Liabilities of ₹200,000. 
+During the month, the owner sells goods for ₹50,000 cash (which cost ₹30,000 to make) and 
+purchases a delivery truck for ₹100,000 by paying ₹40,000 in cash and taking a loan for the 
+remaining ₹60,000. What is the new total of the Assets side of the Balance Sheet?
+   A. ₹580,000 [*CORRECT*]
+   B. ₹620,000
+   C. ₹650,000
+   D. ₹520,000
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[179] ID: Quiz2_Q20 | Src: Quiz 2 | Wk: 12
+Q: An asset with an original cost of ₹21,000 and a salvage value of ₹1,000 has an estimated useful life 
+of 5 years. If the company chooses to use the Straight-Line method (SLM) for depreciation, how 
+much higher or lower will the Book Value be at the end of Year 2 compared to using a WDV rate of 
+20%?
+   A. ₹0
+   B. ₹440 lower [*CORRECT*]
+   C. ₹440 higher
+   D. ₹1,000 lower
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[180] ID: Quiz2_Q21 | Src: Quiz 2 | Wk: 12
+Q: SmartTech issues 100,000 equity shares with a face value of ₹10 at an issue price of ₹50 per share. 
+During the year, the company earns ₹10L in profit. It distributes ₹2L as dividends and transfers 
+₹3L to a General Reserve. What is the total value of 'Reserves and Surplus' reported in Equity at 
+year-end?
+   A. ₹45L
+   B. ₹40L
+   C. ₹48L [*CORRECT*]
+   D. ₹58L Sub-Section Number :
+5 Sub-Section Id :
+640653401858 Question Shuffling Allowed :
+No Question Id : 6406532180511 Question Type : COMPREHENSION Sub Question Shuffling 
+Allowed : No Group Comprehension Questions : No Question Pattern Type : NonMatrix Question Numbers : (22 to 25) Question Label : Comprehension Directions: Read the following simplified financial data for X Robotics Ltd. carefully and answer 
+the given subquestions. Show your mathematical reasoning. All formulas and concepts required 
+are based strictly on the provided financial analysis case study framework. 
+ 
+Company Overview & Financial Data (Figures in Millions of Rupees): 
+ 
+X Robotics Ltd. is an industrial automation manufacturer. Below is a snapshot of their simplified 
+financial position for the fiscal year ending March 31, 2025 (FY 2025), along with select figures 
+from FY 2024. 
+ 
+Simplified Profit & Loss Statement Data (FY 2025): 
+ 
+● Revenue from Operations: ₹500 
+● Cost of Materials and Services: ₹300 
+● Employee Benefits & Other Expenses: ₹100 
+● Depreciation: ₹20 
+● Finance Costs (Interest): ₹10 
+● Tax Rate: 30% flat on Profit Before Tax (PBT) 
+● (Note: For FY 2024, Revenue from Operations was ₹400). 
+ 
+Simplified Balance Sheet Data (As of March 31, 2025): 
+ 
+● Total Assets: ₹400 
+● Shareholder's Equity (Net Worth): ₹200 
+● Total Debt (Borrowings): ₹100 (Note: The company pays a flat 10% interest rate on its debt) ● Average Inventory: ₹60 
+● Average Debtors (Trade Receivables): ₹50 
+ 
+Market Data: 
+ 
+● Shares Outstanding: 10 million shares 
+● Market Price per Share: ₹73.50 
+● Total Dividends Paid: ₹24.5 million Sub questions
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[181] ID: Quiz2_Q22 | Src: Quiz 2 | Wk: 12
+Q: Calculate the Debt-Equity Ratio and the Interest Earned Ratio for FY 2025.
+   A. Debt-Equity Ratio: 2.00x, Interest Earned Ratio: 7.00 times
+   B. Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 10.00 times [*CORRECT*]
+   C. Debt-Equity Ratio: 0.25x, Interest Earned Ratio: 10.00 times
+   D. Debt-Equity Ratio: 0.50x, Interest Earned Ratio: 4.90 times
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[182] ID: Quiz2_Q23 | Src: Quiz 2 | Wk: 12
+Q: Calculate the Earnings Per Share (EPS), PE Ratio, and Dividend Yield for FY 2025.
+   A. EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 3.33% [*CORRECT*]
+   B. EPS: ₹7.00, PE Ratio: 10.50, Dividend Yield: 3.33%
+   C. EPS: ₹4.90, PE Ratio: 15.00, Dividend Yield: 5.00%
+   D. EPS: ₹10.00, PE Ratio: 7.35, Dividend Yield: 33.3%
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[183] ID: Quiz2_Q24 | Src: Quiz 2 | Wk: 12
+Q: Between FY 2024 and FY 2025, X Robotics saw its revenue increase significantly. If the company 
+maintains the exact same year-over-year revenue growth rate heading into FY 2026, and benefits 
+from softer commodity prices that improve its Profit Margin to 11.00%, what will be the absolute 
+increase in Net Profit (in millions of rupees) from FY 2025 to FY 2026?
+   A. ₹10.00 million
+   B. ₹15.50 million
+   C. ₹19.75 million [*CORRECT*]
+   D. ₹68.75 million
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
+[184] ID: Quiz2_Q25 | Src: Quiz 2 | Wk: 12
+Q: Inspired by successful industry peers, the CEO initiates a strict working capital optimization 
+program. By enforcing strict collection efforts and lean supply, they successfully reduce Average 
+Debtors by 20% and Average Inventory by 20%, without affecting Revenue, COGS, or Net Profit. 
+The company takes all the cash freed up from these reductions and immediately uses it to repay 
+Total Debt. What is the company's new Debt-Equity Ratio, and what is its new Return on Assets 
+(ROA)?
+   A. New Debt-Equity Ratio: 0.50x, New ROA: 12.25%
+   B. New Debt-Equity Ratio: 0.39x, New ROA: 12.25%
+   C. New Debt-Equity Ratio: 0.45x, New ROA: 13.50%
+   D. New Debt-Equity Ratio: 0.39x, New ROA: 12.96% [*CORRECT*]
+Feedback: Official IIT Madras TCS iON Exam Question
+------------------------------------------------------------
